@@ -1,0 +1,160 @@
+@0
+Blitz{05}{05}{05}
+@1
+{1B}C6Blitz{1B}C1\n{1B}C4Effect{1B}C1: Mobility +2 for 6 turns\n{1B}C4Needs{1B}C1: March x2\n{1B}C4Affects{1B}C1: All own regular units\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@2
+Gale{05}{05}{05}
+@3
+{1B}C6Gale{1B}C1\n{1B}C4Effect{1B}C1: Mobility +4 for 3 turns\n{1B}C4Needs{1B}C1: March, Riding\n{1B}C4Affects{1B}C1: All own regular units\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@4
+Insight{05}{05}{05}
+@5
+{1B}C6Insight{1B}C1\n{1B}C4Effect{1B}C1: Reveals enemy unit positions for 10 turns\n{1B}C4Needs{1B}C1: March, Strategy\n{1B}C4Affects{1B}C1: All own regular units\n{1B}C4Notes{1B}C1: Ambushes always succeed while active\n{05}{05}{05}
+@6
+Wall Leap{05}{05}{05}
+@7
+{1B}C6Wall Leap{1B}C1\n{1B}C4Effect{1B}C1: For 3 turns, entering castle walls takes 5 mobility (normally 9)\n{1B}C4Needs{1B}C1: March, Ninjutsu\n{1B}C4Affects{1B}C1: Own regular ashigaru, bow and gun units\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@8
+Great Return{05}{05}{05}
+@9
+{1B}C6Big Return (Great Return){1B}C1\n{1B}C4Effect{1B}C1: Mobility +6 for 2 turns\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: All own regular units\n{1B}C4Notes{1B}C1: Unique to the Hashiba and Toyotomi (cannot be learned)\n{05}{05}{05}
+@10
+Raid{05}{05}{05}
+@11
+{1B}C6Raid{1B}C1\n{1B}C4Effect{1B}C1: Mobility +4 for 2 turns; enemies with War 60 or less are confused\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: All own regular units; all enemy regular units (confusion)\n{1B}C4Notes{1B}C1: Unique to the Oda, Hashiba, Toyotomi and Date (cannot be learned)\n{05}{05}{05}
+@12
+Inspire{05}{05}{05}
+@13
+{1B}C6Inspire{1B}C1\n{1B}C4Effect{1B}C1: Own morale +10\n{1B}C4Needs{1B}C1: Strategy x2\n{1B}C4Affects{1B}C1: All own units\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@14
+Calm{05}{05}{05}
+@15
+{1B}C6Calm{1B}C1\n{1B}C4Effect{1B}C1: Cancels tactic effects\n{1B}C4Needs{1B}C1: Strategy, March\n{1B}C4Affects{1B}C1: All units on the field\n{1B}C4Notes{1B}C1: Cannot cancel a switch to bows or cannons\n{05}{05}{05}
+@16
+Taunt{05}{05}{05}
+@17
+{1B}C6Taunt{1B}C1\n{1B}C4Effect{1B}C1: Taunts a unit with low Learning so it can only attack directly\n{1B}C4Needs{1B}C1: Strategy, Spear\n{1B}C4Affects{1B}C1: An enemy regular unit\n{1B}C4Notes{1B}C1: If the taunt fails, enemy morale drops a little\n{05}{05}{05}
+@18
+Confuse{05}{05}{05}
+@19
+{1B}C6Confuse{1B}C1\n{1B}C4Effect{1B}C1: Confuses a unit with low Politics so it cannot move\n{1B}C4Needs{1B}C1: Strategy, Weapons\n{1B}C4Affects{1B}C1: An enemy regular unit\n{1B}C4Notes{1B}C1: If the confusion fails, enemy morale drops a little\n{05}{05}{05}
+@20
+Rumor{05}{05}{05}
+@21
+{1B}C6Rumor{1B}C1\n{1B}C4Effect{1B}C1: Enemy morale -5 to -15\n{1B}C4Needs{1B}C1: Strategy, Ninjutsu\n{1B}C4Affects{1B}C1: All enemy units\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@22
+Fire Attack{05}{05}{05}
+@23
+{1B}C6Fire Raid (Fire Attack){1B}C1\n{1B}C4Effect{1B}C1: Lowers enemy food and morale\n{1B}C4Needs{1B}C1: Strategy, Gunpowder\n{1B}C4Affects{1B}C1: All enemy units\n{1B}C4Notes{1B}C1: Not possible in rain or snow. An enemy officer with high Politics may stop it\n{05}{05}{05}
+@24
+Flood{05}{05}{05}
+@25
+{1B}C6Flood{1B}C1\n{1B}C4Effect{1B}C1: Lowers enemy morale\n{1B}C4Needs{1B}C1: Strategy, Ninjutsu\n{1B}C4Affects{1B}C1: All enemy units\n{1B}C4Notes{1B}C1: Only when attacking a castle. An enemy officer with high Learning may stop it. *Stronger in rain\n{05}{05}{05}
+@26
+Fire Oxen{05}{05}{05}
+@27
+{1B}C6Fire Oxen{1B}C1\n{1B}C4Effect{1B}C1: Lowers enemy troops\n{1B}C4Needs{1B}C1: Strategy, Riding\n{1B}C4Affects{1B}C1: All enemy regular units\n{1B}C4Notes{1B}C1: Not possible in rain or snow. An enemy officer with high War may stop it\n{05}{05}{05}
+@28
+Majesty{05}{05}{05}
+@29
+{1B}C6Majesty{1B}C1\n{1B}C4Effect{1B}C1: Lowers enemy troops\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: All enemy regular units\n{1B}C4Notes{1B}C1: Unique to the Ashikaga shogunate and Honganji (cannot be learned)\n{05}{05}{05}
+@30
+False Report{05}{05}{05}
+@31
+{1B}C6Misreport (False Report){1B}C1\n{1B}C4Effect{1B}C1: Makes one enemy unit (not the commander) retreat and lowers enemy morale\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: An enemy regular unit (retreat); all enemy units (morale)\n{1B}C4Notes{1B}C1: Unique to the Mogami, Saito, Ukita, Mori, Akechi, Tsugaru and others (cannot be learned)\n{05}{05}{05}
+@32
+Firebombs{05}{05}{05}
+@33
+{1B}C6Firebombs{1B}C1\n{1B}C4Effect{1B}C1: Lowers enemy morale and troops\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: An enemy regular unit (troops); all enemy units (morale)\n{1B}C4Notes{1B}C1: When defending a castle with your commander inside. Unique to the Hojo (cannot be learned)\n{05}{05}{05}
+@34
+Decoy{05}{05}{05}
+@35
+{1B}C6Decoy{1B}C1\n{1B}C4Effect{1B}C1: Attack up and enemy morale down for 3 turns\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: All own regular units; all enemy units (morale)\n{1B}C4Notes{1B}C1: Unique to the Shimazu (cannot be learned)\n{05}{05}{05}
+@36
+Spear Wall{05}{05}{05}
+@37
+{1B}C6Spear Wall{1B}C1\n{1B}C4Effect{1B}C1: Attack up for 5 turns\n{1B}C4Needs{1B}C1: Spear, Strategy\n{1B}C4Affects{1B}C1: Own regular ashigaru\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@38
+Spear Wheel{05}{05}{05}
+@39
+{1B}C6Spear Spin (Spear Wheel){1B}C1\n{1B}C4Effect{1B}C1: Attack greatly up for 2 turns\n{1B}C4Needs{1B}C1: Spear x2\n{1B}C4Affects{1B}C1: Own regular ashigaru\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@40
+Ram{05}{05}{05}
+@41
+{1B}C6Ram{1B}C1\n{1B}C4Effect{1B}C1: Attack on castle gates greatly up for 5 turns\n{1B}C4Needs{1B}C1: Spear, Weapons\n{1B}C4Affects{1B}C1: Own regular ashigaru\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@42
+Mikawa Spirit{05}{05}{05}
+@43
+{1B}C6Mikawa Soul (Mikawa Spirit){1B}C1\n{1B}C4Effect{1B}C1: Attack up for 4 turns and cancels enemy tactic effects\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: Own regular ashigaru; enemy units under a tactic effect\n{1B}C4Notes{1B}C1: Unique to the Tokugawa (cannot be learned)\n{05}{05}{05}
+@44
+Gusoku{05}{05}{05}
+@45
+{1B}C6Gusoku{1B}C1\n{1B}C4Effect{1B}C1: Defense and own morale up for 5 turns\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: Own regular ashigaru\n{1B}C4Notes{1B}C1: Unique to the Chosokabe (cannot be learned)\n{05}{05}{05}
+@46
+Melee{05}{05}{05}
+@47
+{1B}C6Melee{1B}C1\n{1B}C4Effect{1B}C1: Attack and defense up for 4 turns\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: Own regular ashigaru\n{1B}C4Notes{1B}C1: Unique to the Hojo, Saito, Ukita, Nagano and Satake (cannot be learned)\n{05}{05}{05}
+@48
+Bow Ready{05}{05}{05}
+@49
+{1B}C6Bow Ready{1B}C1\n{1B}C4Effect{1B}C1: Ashigaru switch to bows for 15 turns\n{1B}C4Needs{1B}C1: Archery, Strategy\n{1B}C4Affects{1B}C1: Own regular ashigaru\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@50
+Fire Arrows{05}{05}{05}
+@51
+{1B}C6Fire Arrow (Fire Arrows){1B}C1\n{1B}C4Effect{1B}C1: For 5 turns own regular units gain attack, and each volley may lower enemy morale\n{1B}C4Needs{1B}C1: Archery, Gunpowder\n{1B}C4Affects{1B}C1: Own regular bow units; all enemy units (morale)\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@52
+Volley{05}{05}{05}
+@53
+{1B}C6Volley{1B}C1\n{1B}C4Effect{1B}C1: Archery attack greatly up for 2 turns\n{1B}C4Needs{1B}C1: Archery x2\n{1B}C4Affects{1B}C1: Own regular bow units\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@54
+Arrow Rain{05}{05}{05}
+@55
+{1B}C6Arrow Rain{1B}C1\n{1B}C4Effect{1B}C1: For 3 turns archery attack rises a lot, and each volley may lower enemy morale\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: Own regular bow units\n{1B}C4Notes{1B}C1: Unique to the Imagawa, Mori, Ashikaga and Rokkaku (cannot be learned)\n{05}{05}{05}
+@56
+Breakthrough{05}{05}{05}
+@57
+{1B}C6Breach (Breakthrough){1B}C1\n{1B}C4Effect{1B}C1: Charge attack up for 3 turns\n{1B}C4Needs{1B}C1: Riding x2\n{1B}C4Affects{1B}C1: Own regular cavalry\n{1B}C4Notes{1B}C1: Charges always outflank\n{05}{05}{05}
+@58
+Rush{05}{05}{05}
+@59
+{1B}C6Rush{1B}C1\n{1B}C4Effect{1B}C1: Mobility and attack up for 2 turns\n{1B}C4Needs{1B}C1: Riding, Spear\n{1B}C4Affects{1B}C1: Own regular cavalry\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@60
+Furin Kazan{05}{05}{05}
+@61
+{1B}C6Furinkazan (Furin Kazan){1B}C1\n{1B}C4Effect{1B}C1: Mobility, attack and defense up for 4 turns\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: Own regular cavalry\n{1B}C4Notes{1B}C1: Unique to the Takeda (cannot be learned)\n{05}{05}{05}
+@62
+Onslaught{05}{05}{05}
+@63
+{1B}C6Onslaught{1B}C1\n{1B}C4Effect{1B}C1: Attack greatly up but defense down for 2 turns\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: Own regular cavalry\n{1B}C4Notes{1B}C1: Unique to the Azai, Sanada and Shibata (cannot be learned)\n{05}{05}{05}
+@64
+Wheel Charge{05}{05}{05}
+@65
+{1B}C6Wheel Rush (Wheel Charge){1B}C1\n{1B}C4Effect{1B}C1: Attack hugely up but defense greatly down for 2 turns\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: Own regular cavalry\n{1B}C4Notes{1B}C1: Unique to the Uesugi (cannot be learned)\n{05}{05}{05}
+@66
+Snipe{05}{05}{05}
+@67
+{1B}C6Snipe{1B}C1\n{1B}C4Effect{1B}C1: Gun range extended for 3 turns\n{1B}C4Needs{1B}C1: Gunpowder, Ninjutsu\n{1B}C4Affects{1B}C1: Own regular gun units\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@68
+Rain Shot{05}{05}{05}
+@69
+{1B}C6Rain Shot{1B}C1\n{1B}C4Effect{1B}C1: Guns can fire in rain or snow for 7 turns\n{1B}C4Needs{1B}C1: Weapons, Gunpowder\n{1B}C4Affects{1B}C1: Own regular gun units\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@70
+Double Shot{05}{05}{05}
+@71
+{1B}C6Twin Shot (Double Shot){1B}C1\n{1B}C4Effect{1B}C1: Guns fire twice in a row for 4 turns\n{1B}C4Needs{1B}C1: Gunpowder x2\n{1B}C4Affects{1B}C1: Own regular gun units\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@72
+Triple Volley{05}{05}{05}
+@73
+{1B}C63x Volley (Triple Volley){1B}C1\n{1B}C4Effect{1B}C1: Guns fire three times in a row for 3 turns\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: Own regular gun units\n{1B}C4Notes{1B}C1: Unique to the Oda, Suzuki and Date (cannot be learned)\n{05}{05}{05}
+@74
+Paired Shot{05}{05}{05}
+@75
+{1B}C6Pair Shot (Paired Shot){1B}C1\n{1B}C4Effect{1B}C1: Guns fire twice in a row for 3 turns, and each shot may lower enemy morale\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: Own regular gun units\n{1B}C4Notes{1B}C1: Unique to the Shimazu, Akechi and Honganji (cannot be learned)\n{05}{05}{05}
+@76
+Cannons{05}{05}{05}
+@77
+{1B}C6Cannons{1B}C1\n{1B}C4Effect{1B}C1: Gun units switch to cannons for 10 turns\n{1B}C4Needs{1B}C1: Weapons x2\n{1B}C4Affects{1B}C1: Own regular gun units\n{1B}C4Notes{1B}C1: --\n{05}{05}{05}
+@78
+Kunikuzushi{05}{05}{05}
+@79
+{1B}C6Great Gun (Kunikuzushi){1B}C1\n{1B}C4Effect{1B}C1: Cannon attack up for 3 turns\n{1B}C4Needs{1B}C1: --\n{1B}C4Affects{1B}C1: Own regular cannon units\n{1B}C4Notes{1B}C1: Unique to the Otomo (cannot be learned)\n{05}{05}{05}

@@ -1,0 +1,300 @@
+@0
+{1B}C6Continue{1B}C1\n　Resume a saved game.\n　\n　Aim to unify all of Japan (52 provinces).{05}{05}{05}
+@1
+{1B}C6New Game{1B}C1\n　Start a new game.\n　\n　Aim to unify all of Japan (52 provinces).{05}{05}{05}
+@2
+{1B}C6Clash of Warlords{1B}C1\n　A mode where you challenge the warlords of Japan with officers you have trained yourself.\n　\n　Winning battles adds officers to your ranks and raises their abilities. The abilities of officers you train can carry over into the other modes.\n　You can also give your officers to others via Sengoku Link.{05}{05}{05}
+@3
+{1B}C6New Officers{1B}C1\n　Create and register new officers. Up to 100 can be registered.\n　\n　Registered officers can appear in the game. This is set when you start a new game.{05}{05}{05}
+@4
+{1B}C6Create{1B}C1\n　Create a new officer. They can appear as a retainer of a daimyo or as a ronin.\n　\n　To make a family (parent and child) tie, the officers must be at least 20 years apart in age.{05}{05}{05}
+@5
+{1B}C6Edit{1B}C1\n　Change the settings of a new officer you created.{05}{05}{05}
+@6
+{1B}C6Delete{1B}C1\n　Delete a new officer.{05}{05}{05}
+@7
+{1B}C6Tutorial{1B}C1\n　Explains how to play the game. Please read it before you begin.{05}{05}{05}
+@8
+{1B}C6Sengoku Link{1B}C1\n　With Sengoku Link you can add officers for use in "Clash of Warlords" and obtain SP officers.{05}{05}{05}
+@9
+{1B}C6Wi-Fi Connection{1B}C1\n　Download officers using Nintendo Wi-Fi Connection.{05}{05}{05}
+@10
+{1B}C6Download Officers{1B}C1\n　Download officers using Nintendo Wi-Fi Connection.\n　Downloaded officers can be used in "Clash of Warlords".{05}{05}{05}
+@11
+{1B}C6Wi-Fi Connection Settings{1B}C1\n　Set up what is needed to connect to Nintendo Wi-Fi Connection.{05}{05}{05}
+@12
+{1B}C6DS Wireless Play{1B}C1\n　Exchange officer data with another DS using DS Wireless Communications.\n　\n　Officers received from another DS grow more easily in abilities such as politics and war.{05}{05}{05}
+@13
+{1B}C6Send Officers{1B}C1\n　Send officer data to another DS. Only SP officers you have obtained and officers usable in "Clash of Warlords" can be sent.{05}{05}{05}
+@14
+{1B}C6Receive Officers{1B}C1\n　Receive officer data from another DS.\n　\n　In "Clash of Warlords", received officers grow more easily in abilities such as politics and war.{05}{05}{05}
+@15
+{1B}C6Kunitori Brain Battle Link{1B}C1\n　Connect with "Kunitori Brain Battle: Nobunaga's Ambition" via DS Wireless Communications to obtain 3 special SP officers.{05}{05}{05}
+@16
+{1B}C6Options{1B}C1\n　Browse the Officer File and the Art of War (Q&A), use MobileJOY, and more.{05}{05}{05}
+@17
+{1B}C6Officer File{1B}C1\n　View the profiles of all officers.\n{05}{05}{05}
+@18
+{1B}C6SP Officer File{1B}C1\n　View the profiles of SP (special) officers.\n　\n　SP officers are obtained by clearing stages in "Clash of Warlords" or via Nintendo Wi-Fi Connection.{05}{05}{05}
+@19
+{1B}C6Art of War{1B}C1\n　A Q&A collection full of hints for playing the game well.{05}{05}{05}
+@20
+{1B}C6MobileJOY{1B}C1\n　Obtain SP officers using the mobile phone site.{05}{05}{05}
+@21
+{1B}C6Erase Data{1B}C1\n　Erase all data saved so far.\n　\n　Registered new officers, data downloaded via Nintendo Wi-Fi Connection and so on will also be erased.{05}{05}{05}
+@22
+All family ties will be removed.\nIs that all right?{05}{05}{05}
+@23
+Cancel creation.\nIs that all right?{05}{05}{05}
+@24
+Cancel editing.\nIs that all right?{05}{05}{05}
+@25
+Save the new officer data.\nIs that all right?{05}{05}{05}
+@26
+{01}I{02}{11}{04}>1Delete {02}{05}d and the others,\n{02}{11} officers in all. Is that all right?{05}{05}{05}Delete {02}{05}d.\nIs that all right?{05}{05}{05}
+@27
+On the mobile site, enter your MobileJOY key, then enter the password you are given.\nYour MobileJOY key changes once you enter the password correctly and save. Please take note.{05}{05}{05}
+@28
+The password is incorrect.{05}{05}{05}
+@29
+Obtained the SP officer\n{02}{05}d!{05}{05}{05}
+@30
+Update the MobileJOY key\nand save the data?{05}{05}{05}
+@31
+You cannot obtain the SP officer without saving. Is that all right?{05}{05}{05}
+@32
+Saved.{05}{05}{05}
+@33
+Erase all data.\nIs that all right?{05}{05}{05}
+@34
+Initializing. Do not turn off\nthe power or remove the\nGame Card.{05}{05}{05}
+@35
+The data has been erased.{05}{05}{05}
+@36
+The Onin War shook the whole land and the shogunate's authority fell to the dust. Across the provinces, warlords rose against one another... A long age of war was about to begin.{05}{05}{05}
+@37
+Imagawa Yoshimoto invaded Owari with a great army, only to fall to Oda Nobunaga at Okehazama. The Uesugi aim to rule the Kanto, the Takeda march on Kyoto: the struggle for supremacy begins.{05}{05}{05}
+@38
+Oda Nobunaga has entered Kyoto with unstoppable force. But the warlords form a great coalition against him and bare their fangs as one. Nobunaga faces his greatest crisis.{05}{05}{05}
+@39
+"Oda Nobunaga has died at Honnoji." The news shook the land... Hashiba Hideyoshi, who struck down the traitor Akechi Mitsuhide, leads the powerful toward the realm.{05}{05}{05}
+@40
+Uesugi Kenshin vs. Sanada Yukimura, Takeda Shingen vs. Date Masamune: dream matchups come true! Across the ages, 650 warlords gather in one place!{05}{05}{05}
+@41
+Oda Nobunaga has pacified the realm with astonishing speed, and orders every daimyo to a new domain. Enraged, the daimyo rise in revolt as one, and the storm of war rages again.{05}{05}{05}
+@42
+{1B}C6Add New Officers{1B}C1\n　Choose the new officers that will appear in the game.\n　\n　{1B}C3New officers not chosen will not appear in the game.{1B}C1{05}{05}{05}
+@43
+{1B}C6Set Location/Status{1B}C1\n　Set where the new officers appear and their status.\n　\n　If not set, their location is chosen automatically and they appear as ronin.{05}{05}{05}
+@44
+{1B}C6Change All Ages{1B}C1\n　Change the ages of the new officers all at once. The change applies to every new officer.\n　\n　Use this to start them at ages other than those set when they were registered.{05}{05}{05}
+@45
+{1B}C6Reset{1B}C1\n　Return the appearance, location and status settings of the new officers to their defaults.\n　\n　Use this when you want to start the settings over.{05}{05}{05}
+@46
+{1B}C6Confirm{1B}C1\n　Finish the settings.{05}{05}{05}
+@47
+Make this officer a retainer of the\n{02}{09}#d clan in {02}{09}d?{05}{05}{05}
+@48
+Officers under 16 (not yet of age)\nwill appear when they turn 16.{05}{05}{05}
+@49
+Age num1 → num2 (%s){05}{05}{05}
+@50
+{01}I{02}{11}{04}>{02}{12}Raise the age of all new officers\nby {02}{13}. Is that all right?{05}{05}{05}{01}I{02}{11}{04}<{02}{12}Lower the age of all new officers\nby {02}{13}. Is that all right?{05}{05}{05}The ages have not been changed.\nIs that all right?{05}{05}{05}
+@51
+The settings for %s will be\ndisabled. Is that all right?{05}{05}{05}
+@52
+The settings for %s will become\ndisabled. Is that all right?{05}{05}{05}
+@53
+{1B}C6Add SP Officers{1B}C1\n　Choose the SP officers that will appear in the game.\n　\n　{1B}C3SP officers not chosen will not appear in the game.{1B}C1\n　To bring in SP officers during the game, choose [SP Officers] in the System commands.{05}{05}{05}
+@54
+{1B}C6Set Location/Status{1B}C1\n　Set where the SP officers appear and their status.\n　\n　If not set, their location is chosen automatically and they appear as ronin.{05}{05}{05}
+@55
+{1B}C6Reset{1B}C1\n　Disable the appearance, location and status settings of the SP officers.\n　\n　Use this when you want to start the settings over.{05}{05}{05}
+@56
+{1B}C6Confirm{1B}C1\n　Finish the settings.{05}{05}{05}
+@57
+Choose the daimyo you will play.{05}{05}{05}
+@58
+{1B}C6Mode{1B}C1\n　Choose Beginner or Standard.\n　\n　In Beginner mode, your retainers give you advice from time to time.\n　In Standard mode, historical events take place.{05}{05}{05}
+@59
+{1B}C6Difficulty{1B}C1\n　Choose Easy or Hard.\n　\n　On Hard, enemy daimyo are stronger.{05}{05}{05}
+@60
+{1B}C6Message Speed{1B}C1\n　Choose Normal or Wait.\n　\n　On Normal, messages advance automatically. On Wait, they advance each time you press a button.{05}{05}{05}
+@61
+{1B}C6Carry Over Stats{1B}C1\n　Choose On or Off.\n　\n　When On, the abilities officers gained in "Clash of Warlords" carry over.{05}{05}{05}
+@62
+{1B}C6Battle Deaths{1B}C1\n　Choose On or Off.\n　\n　When Off, officers will not die in battle.{05}{05}{05}
+@63
+{1B}C6Lifespan{1B}C1\n　Choose On or Off.\n　\n　When Off, officers will not die of old age.\n　\n　In "Warlords Assemble", Lifespan is always Off.{05}{05}{05}
+@64
+{1B}C6Confirm{1B}C1\n　Finish the settings.{05}{05}{05}
+@65
+Choose the chapter you want to see.{05}{05}{05}
+@66
+{1B}C6Prologue{1B}C1\n　In the age of war there lived a daimyo named {1B}C3Azai Hisamasa{1B}C1... An ordinary man, but he had a gifted son: {1B}C3Azai Nagamasa{1B}C1.\n　\n　In this chapter Nagamasa teaches his father how to fight in the Sengoku era, and explains how the game is won and lost.{05}{05}{05}
+@67
+{1B}C6The Basics{1B}C1\n　Explains the basic flow of the game, how to read the strategy screen and what market prices mean.{05}{05}{05}
+@68
+{1B}C6Using Talent{1B}C1\n　Explains how to gain more officers and how to raise their loyalty.{05}{05}{05}
+@69
+{1B}C6Domestic Affairs{1B}C1\n　Explains how to raise farms and commerce, which are vital for food and gold, and covers culture and technology.{05}{05}{05}
+@70
+{1B}C6Diplomacy{1B}C1\n　Explains how to ally with other provinces, how to weaken them through schemes and how to gather information on them.{05}{05}{05}
+@71
+{1B}C6Preparing for Battle{1B}C1\n　Explains how to form units before a battle, including tactics, talents and unit types.{05}{05}{05}
+@72
+{1B}C6Battle Guide{1B}C1\n　Explains how to read the battle screen, how battles are won and lost, and how turns work.{05}{05}{05}
+@73
+{1B}C6Battle Practice{1B}C1\n　Try it for real, from forming units to fighting a battle. Learn how to use tactics and move your units.{05}{05}{05}
+@74
+{1B}C6Epilogue{1B}C1\n　The tutorial by Hisamasa and Nagamasa, father and son, ends with this chapter. It has no game explanations, but please do watch it.{05}{05}{05}
+@75
+{1B}C6Overview{1B}C1\n　Common questions about strategy basics. The following topics are covered:\n　・Victory\t・Provinces\n　・Officer types\t・Action points\n　・Who carries out commands\n　・Culture\t・Strategist advice\n{05}{05}{05}
+@76
+{1B}C6Domestic{1B}C1\n　Common questions about Domestic commands. The following topics are covered:\n　・Cultivate\t・Commerce\t・Order\n　・Technology\t・Fortify\t・Gold mines\n　・Trade\t・Volunteers\t・Balance\n　・Salary\n{05}{05}{05}
+@77
+{1B}C6Military{1B}C1\n　Common questions about Military commands. The following topics are covered:\n　・Move\t・Transport\t・Battle\n　・Joint attack\t・Conscript\t・Train\n　・Manufacture\t・Tactics\n{05}{05}{05}
+@78
+{1B}C6Personnel{1B}C1\n　Common questions about Personnel commands. The following topics are covered:\n　・Recruit\t・Loyalty\t・Tea ware\n　・Tea party\t・Appoint\t・Banish\n{05}{05}{05}
+@79
+{1B}C6Diplomacy{1B}C1\n　Common questions about Diplomacy commands. The following topics are covered:\n　・Espionage\t・Betrayal\t・Rumors\n　・Hostility\t・Alliance\t・Surrender\n{05}{05}{05}
+@80
+{1B}C6Events{1B}C1\n　Common questions about events. The following topics are covered:\n　・Disasters\t・Ikko uprisings\n　・Visitors: tea masters,\n　　missionaries and others\n{05}{05}{05}
+@81
+{1B}C6Overview{1B}C1\n　Common questions about battle basics. The following topics are covered:\n　・Morale\t・Food\t・Victory\n　・Weather\t・Tactics\t・Turns\n　・Turn order\t・Talents\t・Aptitude\n{05}{05}{05}
+@82
+{1B}C6Unit Types{1B}C1\n　Common questions about unit types. The following topics are covered:\n　・Ashigaru\t・Bow\t・Cavalry\n　・Gun\t・Cannon\t・Kobaya\n　・Ironclad\n{05}{05}{05}
+@83
+{1B}C6Field Battles{1B}C1\n　Common questions about field battles. The following topics are covered:\n　・Features\t・Terrain\t・Time\n　・Ambushes\t・Naval battles\n{05}{05}{05}
+@84
+{1B}C6Sieges{1B}C1\n　Common questions about sieges. The following topics are covered:\n　・Features\t・Terrain\n{05}{05}{05}
+@85
+{1B}C6Attacks{1B}C1\n　Common questions about attacks. The following topics are covered:\n　・Melee\t・Charge\t・Gunfire\n　・Archery\t・Cannon fire\n{05}{05}{05}
+@86
+{1B}C6Orders{1B}C1\n　Common questions about Orders commands. The following topics are covered:\n　・Surrender\t・Betrayal\t・Deploy\n　・Unit limit\n{05}{05}{05}
+@87
+{1B}C6Retreat{1B}C1\n　Common questions about the Retreat command. The following topics are covered:\n　・Retreat\t・Rearguard\n{05}{05}{05}
+@88
+{1B}C6Aftermath{1B}C1\n　Common questions about what happens after battle. The following topics are covered:\n　・Captive officers\n　・Recruiting daimyo\n　・After taking a province\n{05}{05}{05}
+@89
+{1B}C6Movement Tactics{1B}C1\n　Information on movement tactics: tactics that help your units move, such as raising mobility or seeing enemy units at night.\n{05}{05}{05}
+@90
+{1B}C6Special Tactics{1B}C1\n　Information on special tactics: tactics that change the course of battle, such as lowering enemy morale or food.\n{05}{05}{05}
+@91
+{1B}C6Attack Tactics{1B}C1\n　Information on attack tactics: tactics that help your units attack, such as raising attack power or extending range.\n{05}{05}{05}
+@92
+Choose the item you want to change.{05}{05}{05}
+@93
+The name or reading has not been set.{05}{05}{05}
+@94
+Choose a face.{05}{05}{05}
+@95
+Enter a name (up to 12 letters in all).{05}{05}{05}
+@96
+Enter a reading (up to 24 letters in all).{05}{05}{05}
+@97
+Set the abilities.{05}{05}{05}
+@98
+Set the aptitudes.{05}{05}{05}
+@99
+Set the age.{05}{05}{05}
+@100
+Set the parent officer.{05}{05}{05}
+@101
+There is no new officer who can be a parent.{05}{05}{05}
+@102
+Choose an officer to get along with.{05}{05}{05}
+@103
+Set the personality.{05}{05}{05}
+@104
+Choose the officer to edit.{05}{05}{05}
+@105
+Choose the officer to delete.{05}{05}{05}
+@106
+Choose an officer by reading.{05}{05}{05}
+@107
+Shows the officer's information.{05}{05}{05}
+@108
+Choose a topic.{05}{05}{05}
+@109
+Choose a question.{05}{05}{05}
+@110
+Choose the officers who will appear.{05}{05}{05}
+@111
+Choose the officer to set.{05}{05}{05}
+@112
+Choose a location (province to appear in).{05}{05}{05}
+@113
+Which officer should the age change be based on?{05}{05}{05}
+@114
+Set the age of {02}{05}d.{05}{05}{05}
+@115
+Choose an officer to make a daimyo.{05}{05}{05}
+@116
+{1B}C6Connect{1B}C1\n　Search for someone to connect with via DS Wireless Communications.\n　Connecting with "Kunitori Brain Battle: Nobunaga's Ambition" gives you 3 SP officers.{05}{05}{05}
+@117
+Searching for "Kunitori Brain\nBattle: Nobunaga's Ambition"...{05}{05}{05}
+@118
+Found "Kunitori Brain\nBattle: Nobunaga's Ambition".{05}{05}{05}
+@119
+Communication complete.\nObtained SP officers!{05}{05}{05}
+@120
+You have already obtained\nthese SP officers.{05}{05}{05}
+@121
+Where do you want to download officers from?{05}{05}{05}
+@122
+Obtained the following officers!{05}{05}{05}
+@123
+Nintendo Wi-Fi Connection offers\nofficers for "Clash of Warlords"\nand SP officers.\n* It can only be used {1B}C3once a day{1B}C1.\n　Please take note.{05}{05}{05}
+@124
+Nintendo Wi-Fi Connection\ncan only be used\nonce a day.{05}{05}{05}
+@125
+There are no more officers to obtain\nvia Nintendo Wi-Fi Connection.{05}{05}{05}
+@126
+Download officers from\nthe selected pack?{05}{05}{05}
+@127
+Saving the officers you obtained.\nPlease wait.{05}{05}{05}
+@128
+The download is complete.\nThat ends today's download.{05}{05}{05}
+@129
+Disconnect from Nintendo\nWi-Fi Connection?{05}{05}{05}
+@130
+Disconnecting from Nintendo\nWi-Fi Connection.{05}{05}{05}
+@131
+Disconnected from Nintendo\nWi-Fi Connection.{05}{05}{05}
+@132
+There is no officer data to send.{05}{05}{05}
+@133
+Searching via DS Wireless\nCommunications for someone\nto receive officer data.{05}{05}{05}
+@134
+Searching for someone to\nreceive officer data.{05}{05}{05}
+@135
+Found someone to receive\nofficer data.{05}{05}{05}
+@136
+Cancel the officer data exchange.\nIs that all right?{05}{05}{05}
+@137
+Communication cancelled.\nReturning to the menu.{05}{05}{05}
+@138
+The other player is checking the\nofficer to receive. Please wait.{05}{05}{05}
+@139
+Communication was cancelled.\nReturning to the menu.{05}{05}{05}
+@140
+The other player cancelled\nthe officer data exchange.{05}{05}{05}
+@141
+The officer data exchange\nis complete.{05}{05}{05}
+@142
+Searching via DS Wireless\nCommunications for someone\nto send officer data.{05}{05}{05}
+@143
+Searching for someone to\nsend officer data.{05}{05}{05}
+@144
+Found someone to send\nofficer data.{05}{05}{05}
+@145
+The other player is choosing the\nofficer to send. Please wait.{05}{05}{05}
+@146
+Received the officer data shown on\nthe top screen. Save this data?{05}{05}{05}
+@147
+Receiving will change current abilities and experience. Is that all right?{05}{05}{05}
+@148
+Apply the received officer's experience and grown abilities to your data?{05}{05}{05}
+@149
+Connect to Nintendo\nWi-Fi Connection?{05}{05}{05}

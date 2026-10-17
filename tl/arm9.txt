@@ -1,0 +1,306 @@
+# arm9 UI strings (tools/arm9str.py), keyed by slot address: @ADDR<TAB>en. \n = newline.
+# --- Art of War topic tabs and buttons ---
+@02191414	Overview
+@0219147C	Overview
+@0219141C	Unit Types
+@02191424	Diplomacy
+@02195620	Diplomacy
+@0219142C	Retreat
+@02191434	Domestic
+@02195420	Domestic
+@02195650	Domestic
+@0219143C	Military
+@02195490	Military
+@02195648	Military
+@02191444	Tactics
+@021953D0	Tactics
+@0219144C	Personnel
+@02195618	Personnel
+@02191454	Battle
+@02195388	Battle
+@0219145C	Aftermath
+@02191464	Strategy
+@0219146C	Orders
+@02191474	Attack
+@02191484	Field
+@0219148C	Siege
+@02191494	Movement
+@021914A0	Events
+@021914AC	Special
+@021914B8	Attack
+# --- officer types / growth ---
+@02191F58	Normal
+@02191F80	Normal
+@0219F650	Normal
+@0219F668	Normal
+@02191F60	Ninja
+@02195750	Ninja
+@0219F678	Ninja
+@02191F68	Low
+@0219F660	Low
+@02191F90	High
+@0219F670	High
+@02191F70	Noble
+@0219F688	Noble
+@02191F78	Fiery
+@02195368	Fiery
+@0219F658	Fiery
+@02191F88	Monk
+@0219F680	Monk
+@02195390	Wise
+@02195790	Brave
+# --- settings ---
+@02195358	Standard
+@02195728	Beginner
+@0219FCDC	Beginner
+@021953A0	Easy
+@021953C8	Hard
+@0219FCC4	Standard (Easy)
+@0219FCD0	Standard (Hard)
+@0219FCE4	Wait
+@0219FCEC	Normal
+@02195528	On
+@0219FCF4	On
+@0219FD04	On
+@0219FD14	On
+@02195460	Off
+@0219FCFC	Off
+@0219FD0C	Off
+@0219FD1C	Off
+@0219FC8C	New
+@0219FCB4	New
+# --- commands, stats and labels ---
+@02195350	Joint
+@02195360	Betray
+@02195370	Daimyo
+@021957A8	Lord
+@02195378	Tea Party
+@02195380	Move
+@02195398	Ashigaru
+@021955D8	Ashigaru
+@021953A8	Request
+@021953B0	Request
+@021953B8	Morale
+@021953C0	Guns
+@02195418	Guns
+@02195510	Guns
+@02195538	Guns
+@021953D8	Politics
+@021956D8	Politics
+@021953E0	Alliance
+@021953E8	Learning
+@021956A0	Learning
+@021953F0	Charm
+@021956B8	Charm
+@021953F8	Oshu
+@02195400	Persuade
+@02195408	Born
+@02195410	Mountain
+@02195428	Food
+@021954C8	Food
+@02195430	Transport
+@02195438	Fortify
+@02195440	Talent
+@02195448	Age
+@021955E0	Age
+@02195450	Joint
+@02195468	Cavalry
+@021954C0	Cavalry
+@02195470	Spear
+@02195478	Regular
+@02195480	Commerce
+@021956A8	Commerce
+@02195488	Riding
+@021954A0	Receive
+@021954A8	Ironclad
+@021954B0	Tea Ware
+@021954D8	Tea Ware
+@021956C8	Tea Ware
+@021954B8	Prospector
+@021954D0	War
+@02195700	War
+@021954E0	Retainer
+@021954E8	Domain
+@021954F0	Diplomacy
+@021954F8	Siege
+@02195500	Map
+@02195508	Ninja
+@02195518	Break
+@02195520	Demand
+@02195530	Tribute
+@02195540	Rumor
+@02195548	Hold
+@02195550	Spy
+@02195558	Climb
+@02195560	Appoint
+@02195568	Tech
+@02195570	Suppress
+@02195578	Reward
+@02195580	Recruit
+@02195588	Tea Bowl
+@02195590	Lord
+@02195598	Tea Jar
+@021955A0	Vase
+@021955A8	Small
+@021955B0	Hostile
+@021955B8	Order
+@021955C0	Gold Mine
+@021955C8	%s Army
+@0219A658	%s Army
+@021955D0	Strat
+@021955F0	Delegate
+@021955F8	Wall
+@02195600	Close Gate
+@02195608	Dead
+@02195610	Location
+@02195628	Open Gate
+@02195630	Info
+@02195638	Proceed
+@02195640	Ronin
+@02195658	Advice
+@02195660	Officer
+@02195668	Medium
+@02195670	Keep
+@02195678	Wait
+@02195680	Status
+@02195688	Loyalty
+@02195690	System
+@02195698	Cultivate
+@021956B0	Large
+@021956C0	Banish
+@021956D0	Kettle
+@021956E0	Tea Caddy
+@021956E8	HQ
+@021956F0	Trade
+@021956F8	%s Land
+@02195708	Gen.
+@02195710	Strat
+@02195718	Name
+@02195720	Guns
+@02195730	Bow
+@02195738	Make
+@02195740	March
+@02195748	%s Clan
+@02195758	Buddhism
+@02195760	Nanban
+@02195768	Courtier
+@02195770	Industry
+@02195778	Conscript
+@02195780	Farming
+@02195788	Hills
+@02195798	Train
+@021957A0	Direct
+@021957B0	Clan
+@021957B8	Action
+@021957C0	Sortie
+@021957C8	 Funds
+@021957D0	100 Gold
+@021957E8	Mobility
+@021957F0	Attack
+@02195800	Attack
+@02195808	Defense
+@02195810	Defense
+@02195818	Foe Morale
+@02195820	AP
+@02195828	%s Grade
+@02195830	Error
+@02195848	Sea/Lake
+@02195850	Ironclad
+@02195858	Rvr/Moat
+@02195868	Black Market
+@02195870	7 days:
+@02195878	Gunsmith
+@02195884	Wait Bonus
+@0219589C	Troops Left
+@021958A8	Hokuriku
+@021958CC	Grounds
+@021958F0	Plains
+@0219598C	 Amity %3d
+@02195998	 Price %3d
+@021959E0	Rice %d.%d
+@021959EC	Medicine Seller
+@021959FC	30 days food:
+@0219A670	Retainers
+# stat abbreviations
+@0219FF14	Pol
+@0219FF18	War
+@0219FF1C	Lrn
+@0219FF20	Cha
+# --- visitors and other fixed names (Japanese order: family name first) ---
+@02195840	Sen no Rikyu
+@021958FC	Ouchi Yoshitaka
+@02195908	Konoe Sakihisa
+@02195914	Sagara Taketo
+@02195920	Takugen Soon
+@0219592C	Mori Shinsuke
+@02195938	Yanada Masatsuna
+@02195944	Imai Sokyu
+@02195950	Matsui Yukan
+@0219595C	Tsuda Sogyu
+@02195968	Kano Eitoku
+@02195974	Kaiho Yusho
+@02195980	Kano Sanraku
+@021959B0	Shiouten Masataka
+@021959BC	Nihonmatsu Yoshitsugu
+@021959C8	Hasegawa Sojin
+@021959D4	Hasegawa Tohaku
+@02195A1C	Luis Frois
+# --- save data ---
+@02195A30	Initialization complete.
+@02195A48	Initializing data...
+@02195A64	The data is corrupted and will be initialized.
+@02195A90	Could not read the data. Turn off the power and reinsert the Game Card.
+@02195AE4	Could not write the data. Turn off the power and reinsert the Game Card.
+# --- Nintendo Wi-Fi Connection ---
+@021A0218	Unable to connect because\nNintendo Wi-Fi Connection is\nbusy or the service has\nbeen suspended.\nPlease wait and try again.
+@021A0294	Your Nintendo Wi-Fi Connection\nID was deleted because it\nwas not used for a long time.\nSee the instruction booklet.
+@021A030C	The Nintendo Wi-Fi Connection\nservice for this game\nhas ended.\nThank you for playing.
+@021A0368	Unable to connect to the\nNintendo Wi-Fi USB Connector.\nPlease check the connection\nin Nintendo Wi-Fi\nConnection Settings.
+@021A03F0	No access point to connect\nto was found. Please check\nyour settings in Nintendo\nWi-Fi Connection Settings.
+@021A045C	Unable to connect to\nNintendo Wi-Fi Connection.\nPlease check your settings\nin Nintendo Wi-Fi\nConnection Settings.
+@021A04C4	Unable to connect because\nthe access point is busy.\nPlease wait and try again.
+@021A0520	No access point was found.\nMove closer to the access\npoint and try again.
+@021A057C	Unable to connect to\nNintendo Wi-Fi Connection.\nSee the instruction\nbooklet for details.
+@021A05CC	A communication error\ndisconnected you from\nNintendo Wi-Fi Connection.
+@021A060C	A communication error\ndisconnected you from\nNintendo Wi-Fi Connection.
+@021A0668	The Wi-Fi user information on\nyour DS may have been erased.\nPlease check your settings\nin Nintendo Wi-Fi\nConnection Settings.
+@021A06E0	Connecting to Nintendo\nWi-Fi Connection.\nPlease wait.
+@021A0724	Downloading...\n
+@021A073C	Error code: %d\n%s
+@021A0A44	SP Officer
+@021A0A60	SP Officer
+@02195458	 Gold 
+@02195498	 Parent 
+# --- tea ware grade numerals, battle terrain, event NPC names ---
+@021952E0	1
+@021952FC	2
+@021952E8	3
+@0219533C	4
+@0219532C	5
+@02195324	6
+@021952DC	7
+@02195330	8
+@02195300	9
+@02195344	10
+@021952D8	Fence
+@02195338	Tower
+@02195328	Forest
+@021957F8	Yoshihime
+@02195838	Sugi Shigenori
+@02195860	Mine Dealer
+@021955E8	%s Unit
+# --- Clash of Warlords records ---
+@0219A448	%6d
+@0219A660	%d
+@0219A450	Day --
+@0219A458	Day %2d
+@0219A460	------
+@0219A46C	Day -- --h
+@0219A478	Day %2d %2dh
+# --- leftovers (2026-10-17) ---
+@0219785C	mines
+@02197860	veins
+@021957D8	%4d/
+@021957E0	%2d
+@02195310	Prov
+@02195314	Gold

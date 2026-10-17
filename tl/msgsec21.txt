@@ -1,0 +1,302 @@
+@0
+Hm, the {02}" Army... Masayuki, what plan have you made?{05}{05}{05}
+@1
+Father, the enemy seems short of food, so...{05}{05}{05}
+@2
+...I, Yukimura, will strike their rear with a detached force...{05}{05}{05}
+@3
+And steal their food, I see... Yukimura, I leave it to you.{05}{05}{05}
+@4
+Leave it to me, Grandfather! Watch my spear at work!{05}{05}{05}
+@5
+Yukimura, with you away, {1B}C3the keep will be thinly held{1B}C1... Take care.{05}{05}{05}
+@6
+Understood, Father! Sanada Yukimura, here I come!{05}{05}{05}
+@7
+Father, the {02}" Army is attacking again!{05}{05}{05}
+@8
+Grandfather, give me a chance to clear my name...{05}{05}{05}
+@9
+Last time was not your fault, Yukimura. I misjudged the enemy.{05}{05}{05}
+@10
+That's why I readied our forces... This time we won't lose!{05}{05}{05}
+@11
+Yes... Yukimura, go and make the enemy tremble!{05}{05}{05}
+@12
+As you wish! I'll show them the might of the Red Guard!{05}{05}{05}
+@13
+{1B}C3If Yukimura's detached force beats one\nof your units, it steals your food.{1B}C1{05}{05}{05}
+@14
+Fend off Yukimura as he closes in\nand take the thinly held keep.{05}{05}{05}
+@15
+{02}{06}d's unit beaten! I took their food!{05}{05}{05}
+@16
+Yukimura stole the {02}" Army's food!{05}{05}{05}
+@17
+The enemy is fleeing home! The victory is ours!{05}{05}{05}
+@18
+Well done, Yukimura!{05}{05}{05}
+@19
+Don't think the Sanada's castle falls so easily.{05}{05}{05}
+@20
+See that! This is Yukimura's true strength!!{05}{05}{05}
+@21
+Phew... Father, our plan has finally worked.{05}{05}{05}
+@22
+No need to pursue. Let them tell of the Sanada's power.{05}{05}{05}
+@23
+...A mistake... We regroup. Retreat!{05}{05}{05}
+@24
+Father... W-we've lost! Yukimura, fall back at once!{05}{05}{05}
+@25
+Grrr! The worst blunder of my life...!{05}{05}{05}
+@26
+We're beaten! The Sanada clan surrenders!{05}{05}{05}
+@27
+Grandfather! I can... I can still fight!{05}{05}{05}
+@28
+Stand down, Yukimura! Don't throw your life away!{05}{05}{05}
+@29
+If only Mitsuhide were beaten... I want out of this army...{05}{05}{05}
+@30
+...Did the {02}" Army's generals see my call for help...{05}{05}{05}
+@31
+Lord Akechi! The {02}" Army: faithless vagabonds, I hear.{05}{05}{05}
+@32
+Oh... Then they must feel the hammer of justice!{05}{05}{05}
+@33
+(My chance! {1B}C3If Mitsuhide falls before I do...{1B}C1){05}{05}{05}
+@34
+Lord Araki, let us fight side by side for justice!{05}{05}{05}
+@35
+Ah, yes, heh heh heh... (He reeks of lies...){05}{05}{05}
+@36
+Ha ha ha! Loyalty is the highest virtue, isn't it!{05}{05}{05}
+@37
+My escape failed... Come again, {02}" Army...{05}{05}{05}
+@38
+The {02}" Army attacks again! Hmph... the upstarts!{05}{05}{05}
+@39
+Heh, this time we're ready! Lie in wait, fair and square!{05}{05}{05}
+@40
+Here they come! ...Er, yes... (Sounds cowardly enough to me...){05}{05}{05}
+@41
+Lord Araki, I trust you... {1B}C3Never{1B}C1 think of betrayal.{05}{05}{05}
+@42
+Y-yes... ({1B}C3If only Mitsuhide were beaten...{1B}C1){05}{05}{05}
+@43
+Betrayal is {1B}C3unthinkable{1B}C1 for a samurai, after all!{05}{05}{05}
+@44
+Quite so! Turning on one's lord or allies is {1B}C3outrageous{1B}C1!{05}{05}{05}
+@45
+({1B}C3So{1B}C1 fishy...){05}{05}{05}
+@46
+Help Araki Murashige defect\nby beating Akechi Mitsuhide's unit.{05}{05}{05}
+@47
+But {1B}C3be careful not to beat\nAraki's unit{1B}C1 as you advance.{05}{05}{05}
+@48
+Justice wins! This is the power of loyalty!{05}{05}{05}
+@49
+Ha ha, the enemy lacked loyalty, it seems!{05}{05}{05}
+@50
+Ha ha... (Ah... as I thought... ...so fishy...){05}{05}{05}
+@51
+Evil never prospers. That is the way of things.{05}{05}{05}
+@52
+Quite so! Behold our unity!{05}{05}{05}
+@53
+(Ugh... Someone... Someone help meee!){05}{05}{05}
+@54
+{1B}C3Ugh... If only they'd beaten Mitsuhide before me...{1B}C1{05}{05}{05}
+@55
+Lord Araki! ...All troops, fall back. We must regroup...{05}{05}{05}
+@56
+Tch... He kept pushing forward oddly. He held us back after all...{05}{05}{05}
+@57
+...All troops, fall back! We can't win here!{05}{05}{05}
+@58
+What are you doing? Come this way, Lord Araki!{05}{05}{05}
+@59
+Huh? Wait, that's not... Someone, help meee!{05}{05}{05}
+@60
+Ugh, is this the end... Lord Sue, any ideas...{05}{05}{05}
+@61
+...As of now, I, Sue Harukata, defect to the {02}" Army!{05}{05}{05}
+@62
+Same here! Araki Murashige defects too!{05}{05}{05}
+@63
+Y-you... It can't be helped, then...{05}{05}{05}
+@64
+Is that the {02}" Army blocking my conquest of the Kanto?{05}{05}{05}
+@65
+Yes, my lord! Leave it to me and my elite Red Guard...{05}{05}{05}
+@66
+If I may, leave it to me. I'll break through by force of arms.{05}{05}{05}
+@67
+Unscarred, light-clad Tadakatsu and scarred, armored Naomasa...{05}{05}{05}
+@68
+Interesting. Then go, both of you. A contest for glory!{05}{05}{05}
+@69
+But... then {1B}C3the main camp will be thinly held{1B}C1...{05}{05}{05}
+@70
+Hmph, I need no guards. Now go and beat the enemy!{05}{05}{05}
+@71
+As you wish... Honda Tadakatsu goes! Naomasa, the glory is mine!{05}{05}{05}
+@72
+The blame for last time's failure is all mine, Tadakatsu's...{05}{05}{05}
+@73
+No, it was my failings, Naomasa's, that lost the battle...{05}{05}{05}
+@74
+Heh... Then win back your honor with your arms!{05}{05}{05}
+@75
+But my lord... is it truly all right for {1B}C3us to leave the main camp{1B}C1 again?{05}{05}{05}
+@76
+I won't make the same mistake. We are fully prepared...{05}{05}{05}
+@77
+All that's left is to drive our fame into the {02}" Army!{05}{05}{05}
+@78
+...Understood! Know the wrath of Ii's Red Demon!{05}{05}{05}
+@79
+The great Tokugawa army is attacking.\nThe Honda and Ii units are elite.{05}{05}{05}
+@80
+{1B}C3Fighting them would cost you dearly.{1B}C1\nAvoid them and aim for the main camp.{05}{05}{05}
+@81
+...Is that all? I, Tadakatsu, go on to the next battle.{05}{05}{05}
+@82
+Red Guard, home! My lord, I, Naomasa, will return first.{05}{05}{05}
+@83
+Reliable men... The day we take the realm is near.{05}{05}{05}
+@84
+Did you see the Mikawa Spirit!{05}{05}{05}
+@85
+Have I cleared my name a little... The Red Guard can't lose!{05}{05}{05}
+@86
+No more worries now... Well then, onward on the path of conquest!{05}{05}{05}
+@87
+M... my lord!{05}{05}{05}
+@88
+How could this happen... with me, Naomasa, here...{05}{05}{05}
+@89
+I... I won't forget this shame... In the end, the Tokugawa will win!{05}{05}{05}
+@90
+What generalship!{05}{05}{05}
+@91
+Though a foe, splendid...{05}{05}{05}
+@92
+To think... to think I'd lose. I, Ieyasu, was too green...{05}{05}{05}
+@93
+Fooled you, {02}" Army! Leaving your camp so carelessly...{05}{05}{05}
+@94
+Well done, Father. I'll guard the main camp.{05}{05}{05}
+@95
+Yoshitatsu... {1B}C3if the enemy beats me, retreat at once{1B}C1.{05}{05}{05}
+@96
+We can't win if they come all at once. The Viper's son must rule Mino.{05}{05}{05}
+@97
+Understood... So if they go for you first, I flee...{05}{05}{05}
+@98
+And if they go for you, the main camp falls. That's the plan.{05}{05}{05}
+@99
+Come, {02}" Army... Don't underrate the Viper's venom!{05}{05}{05}
+@100
+You did well last time... but how about now?{05}{05}{05}
+@101
+I have prepared thoroughly for this battle.{05}{05}{05}
+@102
+...You're becoming more like me. Time for the Viper to retire.{05}{05}{05}
+@103
+...What...?{05}{05}{05}
+@104
+Heh, first the battle before us. You know the plan?{05}{05}{05}
+@105
+...{1B}C3If you are beaten first, I retreat at once to Inabayama{1B}C1.{05}{05}{05}
+@106
+Yes... To think I'd see my son grow up on the battlefield...{05}{05}{05}
+@107
+Now, the Viper's last battle. Everyone, run wild!{05}{05}{05}
+@108
+{1B}C3If you beat Dosan first,\nYoshitatsu will retreat.{1B}C1{05}{05}{05}
+@109
+Split your forces well and beat\nboth Dosan's and Yoshitatsu's units.{05}{05}{05}
+@110
+What... No fight in them.{05}{05}{05}
+@111
+Well, Mino is safe for a while.{05}{05}{05}
+@112
+Hmph, if you challenge me, come a bit more seriously!{05}{05}{05}
+@113
+Good, Yoshitatsu... We win!{05}{05}{05}
+@114
+Thanks to you, Father... I've learned from your command.{05}{05}{05}
+@115
+Heh... Enemy, if you would beat father and son, hone your skills.{05}{05}{05}
+@116
+Father!... Everyone, fall back! We regroup at Inabayama!{05}{05}{05}
+@117
+Yoshitatsu... that's right. Don't let the Saito line die out.{05}{05}{05}
+@118
+This battle is ours! ...Retreat with heads held high!{05}{05}{05}
+@119
+They beat Yoshitatsu first... Everyone, scatter and survive!{05}{05}{05}
+@120
+{02}" Army... I won't forget this shame...!{05}{05}{05}
+@121
+Well done for now... but don't underrate the Viper's tenacity.{05}{05}{05}
+@122
+I give up! Ha ha, splendid!{05}{05}{05}
+@123
+...Father, I... I'm so ashamed...{05}{05}{05}
+@124
+They were simply better. Let us surrender with heads held high!{05}{05}{05}
+@125
+They dare set foot in the Demon King's land... Katsuie, who are they?{05}{05}{05}
+@126
+Judging by their arms and generals... the {02}" Army.{05}{05}{05}
+@127
+I see... A plague on the realm. Katsuie, show no mercy.{05}{05}{05}
+@128
+Yes... The enemy's units are mostly cavalry.{05}{05}{05}
+@129
+It can't be helped. We'll just show them the power of guns.{05}{05}{05}
+@130
+Yes! ...Oda gunners, take aim!{05}{05}{05}
+@131
+They took the Demon King's power far too lightly...{05}{05}{05}
+@132
+...Yes... And again the enemy brings cavalry against guns...{05}{05}{05}
+@133
+Katsuie! Are the guns ready?{05}{05}{05}
+@134
+We got more than last time and gave them to the whole army.{05}{05}{05}
+@135
+Fools blind to the new age... behold the abyss of the Demon's war.{05}{05}{05}
+@136
+Follow me, men! Nobunaga, Demon King of the Sixth Heaven... rides out!{05}{05}{05}
+@137
+Storm the Oda army camped at\nNagashino with elite cavalry.{05}{05}{05}
+@138
+{1B}C3At range you'll be prey to their guns.{1B}C1\nGet in close quickly.{05}{05}{05}
+@139
+The times have changed... This is the new warfare.{05}{05}{05}
+@140
+Calm yourself, Katsuie. There are other foes yet.{05}{05}{05}
+@141
+The Demon King's men don't look back... We only march forward!{05}{05}{05}
+@142
+Did you think you could beat Demon Shibata twice?{05}{05}{05}
+@143
+That was harder than expected, Katsuie. We should have won easily.{05}{05}{05}
+@144
+The Demon King's conquest goes on. Keep up, men... Forward!{05}{05}{05}
+@145
+Not yet! I, Katsuie... I can still fight!{05}{05}{05}
+@146
+I forbid a pointless death! Katsuie, fall back!{05}{05}{05}
+@147
+So the time was not yet ripe... It can't be helped.{05}{05}{05}
+@148
+My lord... forgive me. With me, Katsuie, here...{05}{05}{05}
+@149
+Never mind... The fault is mine for wasting so many guns.{05}{05}{05}
+@150
+...So my ambition ends here... Heh, a splendid foe!{05}{05}{05}

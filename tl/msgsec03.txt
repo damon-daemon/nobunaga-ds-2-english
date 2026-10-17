@@ -1,0 +1,652 @@
+@0
+The fires of war have died down,\nand an age of peace is beginning.{05}{05}{05}
+@1
+At peace, the people danced, sang and praised {02}{05}d.{05}{05}{05}
+@2
+{02}{05}d called the chief retainers home.{05}{05}{05}
+@3
+{01}C{07}{00}, at last\nall have bowed before you.{05}{05}{05}
+@4
+All our hard work\nwas worth it.{05}{05}{05}
+@5
+Hm, but now we must\nachieve "Tenka Fubu"...{05}{05}{05}
+@6
+I trust you understand\nthat, {02}{06}f.{05}{05}{05}
+@7
+Yes, my lord, I understand.{05}{05}{05}
+@8
+Let us strive for a realm ruled\nby true warrior houses.{05}{05}{05}
+@9
+Listen well!\nFrom now on, the fight is politics.{05}{05}{05}
+@10
+Spears alone cannot\ncreate a new world.{05}{05}{05}
+@11
+Know that there is no place\nfor those who cling to the old!{05}{05}{05}
+@12
+Hear the people, use your wits,\nand do not fear change.{05}{05}{05}
+@13
+Yes, my lord! We will\nengrave it on our hearts.{05}{05}{05}
+@14
+I will give my all to the world\nyou seek, {01}C{07}{00}!{05}{05}{05}
+@15
+(I can't fall behind\n either...){05}{05}{05}
+@16
+How reassuring!\nGood! Bring the drum!{05}{05}{05}
+@17
+Man's fifty years, beside the realm below heaven,{05}{05}{05}
+@18
+are but a dream, an illusion...{05}{05}{05}
+@19
+Born the son of a minor daimyo and\nraised as "the Fool," no one saw\nNobunaga's genius.{05}{05}{05}
+@20
+But his brilliance won him fortune\nand carried him to supremacy.{05}{05}{05}
+@21
+Under Oda Nobunaga, ruler of the realm, the world will change.{05}{05}{05}
+@22
+At last... at last...\n{01}C{07}{00} rules the realm...{05}{05}{05}
+@23
+What can I say...\nI am overcome...{05}{05}{05}
+@24
+Everyone... no...{05}{05}{05}
+@25
+It's all thanks to everyone\nwho followed me!{05}{05}{05}
+@26
+We only followed\n{01}C{07}{00}.{05}{05}{05}
+@27
+{01}I{02}{1D}{02}{05}{02}{06}Just so.{05}{05}{05}Just so. It was all\nyour doing, {01}C{07}{00}.{05}{05}{05}
+@28
+Is that so? Is that so?\nHahaha...{05}{05}{05}
+@29
+Come to think of it, the realm\nwas a dream within a dream...{05}{05}{05}
+@30
+I fought desperately to grab\nwhat my hands could not hold...{05}{05}{05}
+@31
+And before I knew it, there was\nno one above me...{05}{05}{05}
+@32
+{01}I{02}{1D}{02}{05}{02}{06}Truly the greatest rise\nin all Japan.{05}{05}{05}{01}C{07}{00}, yours is the greatest\nrise in all Japan.{05}{05}{05}
+@33
+Is that so? I suppose it is.\nHahaha...{05}{05}{05}
+@34
+Now, we must do\nwhat needs doing.{05}{05}{05}
+@35
+To make a world where\neveryone can live smiling.{05}{05}{05}
+@36
+First, the farmers' swords should\nbe turned into farm tools.{05}{05}{05}
+@37
+Oh, an excellent idea!{05}{05}{05}
+@38
+We must survey yields precisely\nand unify the currency...{05}{05}{05}
+@39
+There is a mountain\nof work to do!{05}{05}{05}
+@40
+Hashiba Hideyoshi, who rose from\nfarmer to ruler of the realm...{05}{05}{05}
+@41
+To make a world where the people\ncan live in peace, he now takes\nhis first step...{05}{05}{05}
+@42
+{01}C{07}{00}, your wish\nhas finally come true.{05}{05}{05}
+@43
+The farmers driven from their villages\ncan go home now too.{05}{05}{05}
+@44
+Hm,\nbut we must not be careless.{05}{05}{05}
+@45
+One misstep and we are back\nin an age of war.{05}{05}{05}
+@46
+Look at the Ashikaga shogunate.\nHistory is proof.{05}{05}{05}
+@47
+At that moment, Ieyasu felt\nhis retainers' faces grow firm.{05}{05}{05}
+@48
+Take heed, all of you!{05}{05}{05}
+@49
+Yes, my lord! We will stake\nour lives on it.{05}{05}{05}
+@50
+Ieyasu set about many reforms\nto build an age of great peace.{05}{05}{05}
+@51
+He stabilized the economy, fostered\nindustry, moved daimyo to new domains,\nand built a rock-solid order.{05}{05}{05}
+@52
+Ieyasu's words are recorded\nin the "Koro Shodan":{05}{05}{05}
+@53
+"I feigned ignorance and used them well,\n and so all became my right hands\n and showed their valor."{05}{05}{05}
+@54
+Tokugawa Ieyasu, finest bowman of the\nTokaido, took everything in with a broad\nheart and made it his strength.{05}{05}{05}
+@55
+His way of life never ceases to\ncaptivate later generations.{05}{05}{05}
+@56
+Our Tokugawa shogunate will not\nrepeat the Ashikaga's mistakes.{05}{05}{05}
+@57
+Yes, my lord. Let us build\na lasting age of peace.{05}{05}{05}
+@58
+Hm, which brings me to this.\nFor running the government...{05}{05}{05}
+@59
+Is there a good place for the\nshogunate's new seat?{05}{05}{05}
+@60
+Let me think...{05}{05}{05}
+@61
+{01}C{07}{00},\nhow about Edo...?{05}{05}{05}
+@62
+{01}I{02}{05}{18}{04}=1E-Edo? Away from\nthe capital region!?{05}{05}{05}E-Edo?\nAway from the capital region!?{05}{05}{05}
+@63
+That land is vast,\nand the sea is near.{05}{05}{05}
+@64
+Kamakura is near too, a land closely\ntied to the Seii Taishogun...{05}{05}{05}
+@65
+Hm, I see...\nIt might be good.{05}{05}{05}
+@66
+And so Ieyasu founded his shogunate in\nEdo, deftly managed the daimyo who swore\nfealty, and led all to great peace.{05}{05}{05}
+@67
+Tokugawa Ieyasu, who laid the foundation\nfor over 300 years of prosperity from Edo,\nwas later revered as "Shinkun."{05}{05}{05}
+@68
+{01}C{07}{00}, the land\nis finally united.{05}{05}{05}
+@69
+Hm, it was a\nlong war...{05}{05}{05}
+@70
+Men defied the shogunate, and\nthe land fell into chaos...{05}{05}{05}
+@71
+It was lamentable.{05}{05}{05}
+@72
+Truly!{05}{05}{05}
+@73
+But they have learned the folly\nof drawing bows on the shogunate!{05}{05}{05}
+@74
+From now on, we will boldly\npromote men of ability!{05}{05}{05}
+@75
+We will breathe new life\ninto the shogunate.{05}{05}{05}
+@76
+I have every confidence\nin my skills.{05}{05}{05}
+@77
+......{05}{05}{05}
+@78
+Having restored the shogunate,\n{02}{05}d took care not to\nrepeat the chaos of the past.{05}{05}{05}
+@79
+Here the age of war came to an end,\nand rule by the Ashikaga shogunate\nbegan once more.{05}{05}{05}
+@80
+The chief retainers were tense\nat the sudden summons.{05}{05}{05}
+@81
+{01}I{02}{05}{18}{04}=1I have gathered you\nto tell you something today.{05}{05}{05}I have gathered you all because\nI have something to tell you today.{05}{05}{05}
+@82
+{01}I{02}{05}{18}{04}=1Since the Onin War, the world has been a living hell...{05}{05}{05}Since the Onin War, chaos has made the world a hell...{05}{05}{05}
+@83
+That we are here like this\nseems almost a miracle.{05}{05}{05}
+@84
+It was thanks to all of you that\nthe wars ended. I thank you.{05}{05}{05}
+@85
+But the hard part\nstarts now.{05}{05}{05}
+@86
+We must never return\nto an age of war!{05}{05}{05}
+@87
+As you command!{05}{05}{05}
+@88
+With the {02}{06}e shogunate, let us\nlead the realm to peace.{05}{05}{05}
+@89
+Hm,\nI am counting on you.{05}{05}{05}
+@90
+{02}{05}d united the realm without court or shogunate.{05}{05}{05}
+@91
+Congratulations on bringing\npeace to the realm.{05}{05}{05}
+@92
+This too is thanks to all\nof you working so hard.{05}{05}{05}
+@93
+Such gracious words.\nAll our toil is rewarded.{05}{05}{05}
+@94
+Since the Onin War the realm was in\nturmoil, a world without order...{05}{05}{05}
+@95
+I never want to hear the\npeople's lament again.{05}{05}{05}
+@96
+Just so. The people's lament is\nproof of a lord's incompetence...{05}{05}{05}
+@97
+Without winning the people's\nhearts, we are sure to fail...{05}{05}{05}
+@98
+For the peace of the realm, lend\nme your strength once more.{05}{05}{05}
+@99
+As you command!{05}{05}{05}
+@100
+Takeda Shingen, the peerless tactician who\nled the mightiest cavalry of the age across\nthe field under the Furin Kazan banner...{05}{05}{05}
+@101
+When the age of peace began, Shingen\nleft the rule to his heir and devoted\nhimself to Buddhist practice.{05}{05}{05}
+@102
+And a few years later,\nit is said, he quietly passed away...{05}{05}{05}
+@103
+Uesugi Kenshin, who won on many fields\nunder the banner of Bishamonten and was\nhailed as the Dragon of Echigo...{05}{05}{05}
+@104
+This man of honor, rare in the age of war,\nsensed the coming of peace and took\nthe name "Soshin"...{05}{05}{05}
+@105
+"I have lost my worthy rival."\nWith these last words he vanished\nfrom the stage of history...{05}{05}{05}
+@106
+But never did I think I would\nhold the realm in my hands...{05}{05}{05}
+@107
+I fondly remember teaching\nFather how to conquer provinces.{05}{05}{05}
+@108
+Now that I think of it, that was...{05}{05}{05}
+@109
+perhaps Father's own way\nof looking out for me.{05}{05}{05}
+@110
+Such is a father's love......\nThat's my father for you!{05}{05}{05}
+@111
+(I should have been\n kinder to him...){05}{05}{05}
+@112
+Azai Nagamasa, the indomitable man\nwho overcame so much adversity...{05}{05}{05}
+@113
+The songs in praise of Nagamasa will\nsurely hold the people's hearts as\nlong as his rule endures...{05}{05}{05}
+@114
+Date Masamune, the late-blooming hero...\nhe lost his right eye to illness as a boy,\nbut his natural gifts charmed all.{05}{05}{05}
+@115
+"The One-Eyed Dragon, Date Masamune."\nHis fierce life inspired people, and his\nclear heart lights the world's darkness.{05}{05}{05}
+@116
+"The Shimazu have no foolish lords."\nUnder a line of wise rulers, the Shimazu\nwon the people's hearts and deep trust.{05}{05}{05}
+@117
+Watching the clouds drift by,\n{02}{05}f ponders his command.{05}{05}{05}
+@118
+The life of one who won through the\nage of war will be told for ages...{05}{05}{05}
+@119
+Motonari went to his room and gazed blankly at the sky...{05}{05}{05}
+@120
+Mori Motonari, born to a minor clan,\nwho overcame countless crises with his\ncunning and took the realm...{05}{05}{05}
+@121
+"Finding a friend, the cherry blossoms\nseem all the lovelier..." A verse from\nthree months before his death.{05}{05}{05}
+@122
+From an age of war to an age of\npeace... the times change greatly.{05}{05}{05}
+@123
+But however the times may change, the\ndeeds of the heroes of the Sengoku era\nwill be told forever...{05}{05}{05}
+@124
+{01}I{02}{11}{04}>1{02}{05}d and {02}{11} other officers\ncan now serve under you in\n"Clash of Warlords"!{05}{05}{05}{02}{05}d can now serve under\nyou in "Clash of Warlords"!{05}{05}{05}
+@125
+Officers now usable in "Clash of Warlords".{05}{05}{05}
+@126
+{01}I{02}{05}9Short of %s... We may have to raise taxes...{05}{05}{05}Short of %s. A tax rise may be unavoidable...{05}{05}{05}
+@127
+{01}I{02}{11}{04}=1Raise the tax rate in {02}{09}d\nto 60%? (normally 50%){05}{05}{05}Tax {02}{09}d and {02}{11} provinces at 60%? (normally 50%){05}{05}{05}
+@128
+{02}{05}d of {02}{09}d has\nfled and become a ronin.{05}{05}{05}
+@129
+{01}I{02}{05}<{04}=169Beside the realm below heaven,\nall is but a dream...{05}{05}{05}{01}I{02}{05}<{04}=422The hollyhock's rule of the realm\nwas still a little way off...{05}{05}{05}{01}I{02}{05}<{04}=369All of you... tomorrow, raise\nour banners at Seta...!{05}{05}{05}{01}I{02}{05}<{04}=104Heh... a lifetime's glory,\njust one cup of sake...{05}{05}{05}{01}I{02}{05}<{04}=525Lord Soun, your unworthy Ujiyasu\ncan go no further...{05}{05}{05}{01}I{02}{05}<{04}=27The long age of the Ashikaga...\nhere it comes to its end...{05}{05}{05}{01}I{02}{05}<{04}=593Do not lose heart.\nAll that lives must die.{05}{05}{05}{01}I{02}{05}<{04}=400Behold the Demon Child's end...\nburn it into your eyes!{05}{05}{05}{01}I{02}{05}<{04}=143My soul... is already\nin the hands of God...{05}{05}{05}{01}I{02}{05}<{04}=329A life without regret...\nLook, how wide the sky is...{05}{05}{05}{01}I{02}{05}<{04}=12The dream of my life... on\nwaking, all returns to one.{05}{05}{05}{01}I{02}{05}<{04}=474Naniwa was a dream within\na dream. It was a good dream...{05}{05}{05}{01}I{02}{05}<{04}=385To rule the realm, I needed\njust a little more time...{05}{05}{05}So my ambition\nends here...{05}{05}{05}
+@130
+The daimyo {02}{05}d has died.{05}{05}{05}
+@131
+{01}C{07}{00}, it seems the time\nhas come to say farewell...{05}{05}{05}
+@132
+{02}{05}d of {02}{05}'d\nhas died.{05}{05}{05}
+@133
+{01}I{02}{05}+{04}=0{02}{05}d of the {02}{05}(d clan\nseems to have died.{05}{05}{05}{02}{05}d, a ronin in {02}{05}'d,\nseems to have died.{05}{05}{05}
+@134
+One {02}{05}d seeks service in {02}{09}d.{05}{05}{05}
+@135
+{01}I{02}{05}{15}{04}>12If I may, let me join\nthe lowest ranks.{05}{05}{05}{01}I{02}{05}{0E}{04}>79Surely you have need\nof my strength...{05}{05}{05}{01}S{02}{19}3Please take me on\nas a retainer.{05}{05}{05}I will prove useful.{05}{05}{05}I will serve with\nall my loyalty.{05}{05}{05}
+@136
+Take them on as a retainer?{05}{05}{05}
+@137
+{01}S{02}{19}3I will prove useful.{05}{05}{05}Expect great things\nfrom me.{05}{05}{05}I have long awaited\nthis day.{05}{05}{05}
+@138
+{02}{05}d has joined you\nin {02}{09}d.{05}{05}{05}
+@139
+In {02}{11}, the {02}{01}d clan\nhas unified the realm!{05}{05}{05}
+@140
+The warlords of Sengoku are gone,\nand an age of peace has come.{05}{05}{05}
+@141
+No hero arose to unify the realm.\nHere the age of war comes\nto a close.{05}{05}{05}
+@142
+A typhoon is approaching %s.{05}{05}{05}
+@143
+{01}I{02}{11}{04}=0Fortunately, there was\nno damage anywhere.{05}{05}{05}{01}I{02}{11}{04}=1{02}{09}d has been hit.\nThis year's harvest is sure to fall.{05}{05}{05}{02}{09}d and {02}{11} provinces\nhave been hit.\nThis year's harvest is sure to fall.{05}{05}{05}
+@144
+{01}I{02}{11}{04}=1{02}{09}d, in {02}{01}d lands,\nwas also hit.{05}{05}{05}{02}{01}d lands were also hit:\n{02}{09}d and {02}{11} provinces\nsuffered damage.{05}{05}{05}
+@145
+Thanks to {02}{09}d's culture effect,\nthe stricken provinces suffered\nless than half the usual damage.{05}{05}{05}
+@146
+{01}I{02}{11}{04}=1Thanks to its culture effect,\n{02}{09}d suffered less than\nhalf the usual damage.{05}{05}{05}Thanks to their culture effect, {02}{09}d\nand {02}{11} provinces took less than\nhalf the usual damage.{05}{05}{05}
+@147
+An epidemic seems to have broken\nout in {02}{09}d.{05}{05}{05}
+@148
+{01}I{02}{11}{04}=1The epidemic seems to have\nstayed within {02}{09}d.{05}{05}{05}It has spread to nearby lands,\nreaching {02}{11} provinces.{05}{05}{05}
+@149
+{01}I{02}{11}{04}=1It has spread to {02}{09}d,\nin {02}{01}d lands, too.{05}{05}{05}It has spread into {02}{01}d lands:\n{02}{09}d and {02}{11} provinces\nare stricken.{05}{05}{05}
+@150
+{01}I{02}{11}{04}=1But thanks to the cure-all,\nno one in {02}{09}d has died.{05}{05}{05}But thanks to the cure-all,\nno one in {02}{09}d and {02}{11}\nprovinces has died.{05}{05}{05}
+@151
+An earthquake seems to have struck\noff {02}{09}d.{05}{05}{05}
+@152
+{01}I{02}{11}{04}=1{02}{09}d has been hit.{05}{05}{05}{02}{09}d and {02}{11} provinces\nhave been hit.{05}{05}{05}
+@153
+Heavy snow has struck %s.{05}{05}{05}
+@154
+The snow is so deep that neither\nhorses nor guns are any use.{05}{05}{05}
+@155
+This year, a rich harvest\nhas come across the land.{05}{05}{05}
+@156
+All of Japan seems to be\ncelebrating the harvest.{05}{05}{05}
+@157
+{01}I{02}{11}{04}=1{02}{09}d, in {02}{01}d lands, has full stores too.{05}{05}{05}Stores are full in {02}{09}d and {02}{11} {02}{01}d provinces.{05}{05}{05}
+@158
+This year, a poor harvest has\nstruck the whole land.{05}{05}{05}
+@159
+People everywhere are suffering\nfrom want.{05}{05}{05}
+@160
+{01}I{02}{11}{04}=1{02}{09}d, in {02}{01}d lands, was hit too.{05}{05}{05}{02}{09}d and {02}{11} {02}{01}d provinces were hit.{05}{05}{05}
+@161
+People are rising up everywhere.{05}{05}{05}
+@162
+{01}I{02}{11}{04}=1The people of {02}{09}d\nhave risen in revolt.{05}{05}{05}{02}{09}d and {02}{11} provinces have risen in revolt.{05}{05}{05}
+@163
+The people of {02}{09}d have risen!\nHow will you deal with it?{05}{05}{05}
+@164
+The people demand {02}{11} %s.\nWill you pay?{05}{05}{05}
+@165
+The persuasion worked.\nYour sincerity moved the people.{05}{05}{05}
+@166
+It has calmed down, but do not let your guard down.{05}{05}{05}
+@167
+The %s failed, and the\npeople resorted to force.{05}{05}{05}
+@168
+This is the price of\nneglecting your domain.{05}{05}{05}
+@169
+An Ikko uprising has broken\nout in {02}{09}d.{05}{05}{05}
+@170
+Fire in the castle!!!\nThe castle is burning down...{05}{05}{05}
+@171
+The rice storehouse is on fire!!!\nOur food is burning...{05}{05}{05}
+@172
+{02}{06}d,\nnow you know the Buddha's power!{05}{05}{05}
+@173
+{02}{05}d of {02}{09}d has\nrebelled and become a daimyo.{05}{05}{05}
+@174
+From today I, {02}{05}d,\nam master of my own castle!{05}{05}{05}
+@175
+Curse you, {02}{06}d!\nRepaying kindness with treachery...{05}{05}{05}
+@176
+{02}{05}d of {02}{09}d has fled the {02}{09}#d.{05}{05}{05}
+@177
+Your retainer {02}{05}d has\ndefected to the {02}{01}d clan\nwith {02}{11} soldiers.{05}{05}{05}
+@178
+Your retainer {02}{05}d has\ndefected to the {02}{01}d clan,\ntaking {02}{11} guns.{05}{05}{05}
+@179
+Your retainer {02}{05}d has\ndefected to the {02}{01}d clan,\ntaking {02}{0D}d.{05}{05}{05}
+@180
+{02}{05}d of the {02}{09}#d clan\nhas come over to us with\n{02}{11} soldiers.{05}{05}{05}
+@181
+{02}{05}d of the {02}{09}#d clan\nhas come over to us, bringing\n{02}{11} guns as a gift.{05}{05}{05}
+@182
+{02}{05}d of the {02}{09}#d clan\nhas come over to us, bringing\n{02}{0D}d as a gift.{05}{05}{05}
+@183
+{02}{05}d seems to have\njoined the {02}{01}d clan.{05}{05}{05}
+@184
+A rebellion has broken out in {02}{09}d.{05}{05}{05}
+@185
+　　　　　{02}{05}d Army\n　　　　　　　vs.\n　　　　　{02}{06}d Army{05}{05}{05}
+@186
+The {02}{05}d army has won.{05}{05}{05}
+@187
+The daimyo {02}{05}d has died,\nand {02}{06}d is the\nnew head of the clan.{05}{05}{05}
+@188
+The rebel {02}{05}d has\nbecome a ronin.{05}{05}{05}
+@189
+The rebel {02}{05}d has\nmet a sorry end.{05}{05}{05}
+@190
+{01}I{02}{05}{18}{04}=1No formalities tonight.\nCome, this way.{05}{05}{05}No formalities tonight.\nCome closer.{05}{05}{05}
+@191
+You let your guard down!\nYour life is mine!!{05}{05}{05}
+@192
+What a groundless grudge!\nHow outrageous!{05}{05}{05}
+@193
+{02}{05}d, who harbored treason,\nsuddenly drew his sword!{05}{05}{05}
+@194
+He has gone mad!{05}{05}{05}
+@195
+He has gone mad! He has gone mad!{05}{05}{05}
+@196
+{02}{05}d was cut down\nby {02}{06}d!{05}{05}{05}
+@197
+The attempt on {02}{05}d failed; {02}{06}d is gone.{05}{05}{05}
+@198
+A prospector is visiting {02}{09}d.\nWill you meet him?{05}{05}{05}
+@199
+For {02}{11} gold, I'll survey\nthis province's gold %s.{05}{05}{05}
+@200
+Have him survey?{05}{05}{05}
+@201
+There is no gold\nin this province.{05}{05}{05}
+@202
+There is gold buried\nin this province.{05}{05}{05}
+@203
+Searching for a gold mine here\nright now would be useless.{05}{05}{05}
+@204
+The gold mines of this province\nare nearly worked out.{05}{05}{05}
+@205
+The gold mines here have about {02}{11} uses left.{05}{05}{05}
+@206
+Hmm...\nhow shall I put this...{05}{05}{05}
+@207
+A gold mine has been found.{05}{05}{05}
+@208
+A mine dealer is visiting {02}{09}d.\nWill you meet him?{05}{05}{05}
+@209
+I'll buy this province's\ngold mine for {02}{11} gold.{05}{05}{05}
+@210
+Sell the gold mine?{05}{05}{05}
+@211
+Well then, how about\n{02}{11} gold?{05}{05}{05}
+@212
+Shall we shake on it?{05}{05}{05}
+@213
+{01}S{02}{19}2Much obliged, as always.{05}{05}{05}You drive a hard bargain.{05}{05}{05}
+@214
+Now that's a shame...{05}{05}{05}
+@215
+A gunsmith is visiting {02}{09}d.\nWill you meet him?{05}{05}{05}
+@216
+I will teach you the art\nof making %s.{05}{05}{05}
+@217
+Have him teach you?{05}{05}{05}
+@218
+{01}S{02}{19}3You fell for it, country bumpkin!{05}{05}{05}Wahahaha, you fool!{05}{05}{05}Foolish general,\nblinded by greed!{05}{05}{05}
+@219
+{01}I{02}{12}{04}=0Tech is now {02}{11}.{05}{05}{05}Tech is now {02}{11} (+{02}{12}).{05}{05}{05}
+@220
+What! We were swindled out of our gold!\nIt seems a ninja from another\nprovince posed as a gunsmith.{05}{05}{05}
+@221
+A black marketeer is visiting\n{02}{09}d. Will you meet him?{05}{05}{05}
+@222
+How about {02}{11} cheap guns\nfor {02}{12} gold?{05}{05}{05}
+@223
+Buy the guns?{05}{05}{05}
+@224
+What!? These are shoddy goods...\nIt seems we were cheated.{05}{05}{05}
+@225
+Guns are now {02}{11} (+{02}{12}).{05}{05}{05}
+@226
+A Toyama medicine seller is visiting\n{02}{09}d. Will you meet him?{05}{05}{05}
+@227
+This medicine works on epidemics too.\nOnly {02}{11} gold, a bargain!{05}{05}{05}
+@228
+Buy the medicine?{05}{05}{05}
+@229
+{01}S{02}{19}2It will surely prove useful.{05}{05}{05}Be prepared and you\nwill have no worries.{05}{05}{05}
+@230
+I see, what a pity.\nIt sells very well...{05}{05}{05}
+@231
+As a special favor, take this secret medicine, "Mankintan."{05}{05}{05}
+@232
+Will you try it?{05}{05}{05}
+@233
+You doubt me?\nHow hurtful.{05}{05}{05}
+@234
+Strength fills me! Politics is now {02}{11} (+{02}{12}).{05}{05}{05}
+@235
+The strength is draining from my body...\nAP in {02}{09}d fell to 0.\nIt seems the medicine was dubious.{05}{05}{05}
+@236
+{01}I{02}{11}{04}=0Sen no Rikyu is visiting {02}{09}d.\nWill you meet him?{05}{05}{05}{01}I{02}{11}{04}=1Tsuda Sogyu is visiting {02}{09}d.\nWill you meet him?{05}{05}{05}{01}I{02}{11}{04}=2Hasegawa Sojin is visiting {02}{09}d.\nWill you meet him?{05}{05}{05}Matsui Yukan is visiting {02}{09}d.\nWill you meet him?{05}{05}{05}
+@237
+{01}I{02}{11}{04}=0I would very much like to\nsee your tea ceremony.{05}{05}{05}Today is perfect weather\nfor a tea party.{05}{05}{05}
+@238
+Hold a tea party?{05}{05}{05}
+@239
+{01}S{02}{19}2You would hold a tea party\nwithout owning any tea ware...{05}{05}{05}One who owns no tea ware cannot\nbe called a Sengoku warlord.{05}{05}{05}
+@240
+It seems you have no\nfine tea ware...{05}{05}{05}
+@241
+Your retainers are all\nhiding their shame.{05}{05}{05}
+@242
+A fine ceremony. You have learned\nthe spirit of tea well.{05}{05}{05}
+@243
+Please continue to\ndevote yourself.{05}{05}{05}
+@244
+Your retainers too have touched\nthe spirit of tea more deeply.{05}{05}{05}
+@245
+{01}I{02}{12}{04}=0Culture in {02}{09}d is now\n{02}{11}.{05}{05}{05}Culture in {02}{09}d is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@246
+I think {02}{0D}d would\nsuit you well...{05}{05}{05}
+@247
+Lord {02}{05}d's {02}{0D}d is a fine piece.{05}{05}{05}
+@248
+To Lord {02}{05}f,\nrenowned as a wise ruler...{05}{05}{05}
+@249
+I hope I am not\nbeing presumptuous...{05}{05}{05}
+@250
+{01}I{02}{11}{04}=0Lord {02}{05}d seems unhappy\nwith his treatment.{05}{05}{05}There may well be a traitor\nwith a divided heart.{05}{05}{05}
+@251
+Do not let your guard down...{05}{05}{05}
+@252
+A missionary is visiting {02}{09}d.\nWill you meet him?{05}{05}{05}
+@253
+I have come from Portugal to\nspread the teachings of Deus.{05}{05}{05}
+@254
+Allow him to preach?{05}{05}{05}
+@255
+Oh, God will forsake\nthis land.{05}{05}{05}
+@256
+Christianity seems to have spread\namong the people of {02}{09}d.{05}{05}{05}
+@257
+The people of {02}{09}d have not accepted Christianity.{05}{05}{05}
+@258
+This has become God's land.\nIt will prosper with God.{05}{05}{05}
+@259
+Tech in {02}{09}d is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@260
+The heart of Deus\nhas reached them.{05}{05}{05}
+@261
+Please accept {02}{0D}d\nas thanks.{05}{05}{05}
+@262
+Obtained {02}{0D}d.{05}{05}{05}
+@263
+Oh, I have led the hearts of\nthe people of this land astray.{05}{05}{05}
+@264
+{01}I{02}{12}{04}=0Order in {02}{09}d is now {02}{11}.{05}{05}{05}Order in {02}{09}d is now\n{02}{11} (-{02}{12}).{05}{05}{05}
+@265
+Followers of the Ikko sect are\nstirring up trouble.{05}{05}{05}
+@266
+Obtained the following tea ware.{05}{05}{05}
+@267
+{01}I{02}{11}{04}=0Kano Eitoku is visiting {02}{09}d.\nWill you meet him?{05}{05}{05}{01}I{02}{11}{04}=1Hasegawa Tohaku is visiting {02}{09}d.\nWill you meet him?{05}{05}{05}{01}I{02}{11}{04}=2Kaiho Yusho is visiting {02}{09}d.\nWill you meet him?{05}{05}{05}Kano Sanraku is visiting {02}{09}d.\nWill you meet him?{05}{05}{05}
+@268
+{01}I{02}{11}{04}=0The heart of my art lies in\nbold, unbridled grandeur.{05}{05}{05}{01}I{02}{11}{04}=1Simple strength is the\nessence of my art.{05}{05}{05}{01}I{02}{11}{04}=2At the core of my art lies\ndeep, dreamlike mystery.{05}{05}{05}My art has an air of\nsplendid elegance.{05}{05}{05}
+@269
+Pay {02}{11} gold for a painting?{05}{05}{05}
+@270
+{01}S{02}{19}2A man without learning...{05}{05}{05}Ah, a man who does\nnot understand elegance.{05}{05}{05}
+@271
+{01}S{02}{19}2Hmm, a failure...{05}{05}{05}The brush will not move...{05}{05}{05}
+@272
+Hm, a masterpiece!{05}{05}{05}
+@273
+......{05}{05}{05}
+@274
+............{05}{05}{05}
+@275
+..................{05}{05}{05}
+@276
+The {02}{09}#d clan of {02}{09}d has\ninvaded its ally's province of {02}{0A}d,\nheld by the {02}{0A}#d clan.{05}{05}{05}
+@277
+The alliance between the {02}{01}d and\n{02}{02}d clans has ended.{05}{05}{05}
+@278
+Lord {02}{05}d, the {02}{09}#d have invaded {02}{0A}d!{05}{05}{05}
+@279
+The {02}{0B}#d and {02}{09}#d have invaded {02}{0A}d.{05}{05}{05}
+@280
+Enemy: {02}{11} officers, {02}{12} troops. Hold the castle?{05}{05}{05}
+@281
+Ask a neighboring province\nfor help?{05}{05}{05}
+@282
+Which province will you ask for help?{05}{05}{05}
+@283
+Who will be the envoy?{05}{05}{05}
+@284
+Ask the {02}{09}#d clan's province of\n{02}{09}d for help?{05}{05}{05}
+@285
+Call off the request for relief?{05}{05}{05}
+@286
+Lord {02}{06}d's reinforcements\nare truly welcome.{05}{05}{05}
+@287
+So {02}{06}d is a coward who\nturns his back on honor.{05}{05}{05}
+@288
+{01}I{02}{11}{03}*5{04}>{02}{12}{03}*4Let us show the {02}{01}d\narmy what we can do.{05}{05}{05}{01}I{02}{11}{03}*5{04}<{02}{12}{03}*3It will be a hard battle.{05}{05}{05}This battle will test\nour true worth.{05}{05}{05}
+@289
+Finish forming units.\nIs that all right?{05}{05}{05}
+@290
+{02}{09}{17}d, lord of {02}{09}d,\nis holding the castle.{05}{05}{05}
+@291
+An army has set out from {02}{0A}d\nof the {02}{0A}#d clan\nto relieve {02}{09}d.{05}{05}{05}
+@292
+Lord {02}{05}d of the {02}{05}(d clan\nhas come to ask for\na joint attack.{05}{05}{05}
+@293
+Let us invade {02}{09}d together\nwith our {02}{05}(d clan.{05}{05}{05}
+@294
+Send a joint army from {02}{0A}d to take {02}{09}#d's {02}{09}d?{05}{05}{05}
+@295
+Oh, how can I\never thank you...{05}{05}{05}
+@296
+{01}S{02}{19}2You cannot even tell\nfriend from foe...{05}{05}{05}...I am disappointed!{05}{05}{05}
+@297
+The {02}{02}d refused the {02}{01}d's call to join the attack.{05}{05}{05}
+@298
+Call off joining the battle?{05}{05}{05}
+@299
+It would be good to put the\n{02}{01}d clan in our debt.{05}{05}{05}
+@300
+Answer the {02}{01}d clan's\nrequest and go to battle?{05}{05}{05}
+@301
+Lord {02}{05}d of the {02}{05}(d clan,\nattacked by the {02}{01}d army,\nhas come asking for relief.{05}{05}{05}
+@302
+Please lend us your strength\nto defend {02}{09}d.{05}{05}{05}
+@303
+Send {02}{0A}d's troops to defend {02}{09}d from the {02}{01}d?{05}{05}{05}
+@304
+Oh, how can I\never thank you...{05}{05}{05}
+@305
+{01}I{02}{05}9{06}&{02}{05}{18}{04}=1{05}{05}{05}Now I know your\ntrue heart...{05}{05}{05}{01}I{02}{05}9Now I know your\ntrue heart.{05}{05}{05}Ngh, you would\nabandon us...{05}{05}{05}
+@306
+The {02}{02}d clan refused the\n{02}{01}d clan's request for relief.{05}{05}{05}
+@307
+Send a joint army from {02}{09}d to {02}{0A}#d's {02}{0A}d?{05}{05}{05}
+@308
+{01}I{02}{06}{07}<{04}={02}{05}<{06}&{02}{05}{18}{04}=0Do as you think best.{05}{05}{05}If that is your command,\nthen let us go.{05}{05}{05}
+@309
+The {02}{01}d clan has not asked\nfor relief. Go to battle anyway?{05}{05}{05}
+@310
+\n　{02}{01}d Army vs. {02}{02}d Army{05}{05}{05}
+@311
+　　　{02}{01}d-{02}{03}d Allied Army\n　　　　　　　vs.\n　　　　　　{02}{02}d Army{05}{05}{05}
+@312
+　　　　　　{02}{01}d Army\n　　　　　　　vs.\n　　　{02}{02}d-{02}{03}d Allied Army{05}{05}{05}
+@313
+　{02}{01}d-{02}{03}d Allied Army\n　　　　　　　vs.\n　{02}{02}d-{02}{04}d Allied Army{05}{05}{05}
+@314
+{02}{05}d of the {02}{01}d army\nhas defected.{05}{05}{05}
+@315
+The {02}{01}d army has won.{05}{05}{05}
+@316
+The {02}{01}d-{02}{02}d allied\narmy has won.{05}{05}{05}
+@317
+{02}{05}d has become a\nretainer of the {02}{01}d clan.{05}{05}{05}
+@318
+{02}{05}d was let go.{05}{05}{05}
+@319
+{01}I{02}{05}9The daimyo {02}{05}d\ntook his own life.{05}{05}{05}{02}{05}d was executed\nby {02}{01}{01}d.{05}{05}{05}
+@320
+For their hard fighting, the {02}{01}d clan\ngave the {02}{02}d army {02}{11} gold\nand {02}{12} food.{05}{05}{05}
+@321
+There may be a gold mine\nsleeping here...{05}{05}{05}
+@322
+A ronin seems to be\nstaying here.{05}{05}{05}
+@323
+{01}I{02}{09} {03}*10{04}>{02}{09}{1B}{03}*2Let us develop\ncommerce further.{05}{05}{05}{01}I{02}{09}{1B}{04}=999Commerce here is the\nmost developed in Japan.{05}{05}{05}{01}I{02}{09} {03}*10{04}={02}{09}{1B}{06}&{02}{09} {04}<100To develop commerce further,\nculture must rise.{05}{05}{05}Developing commerce\ndevelops the province.{05}{05}{05}
+@324
+{01}I{02}{09}{03}{04}>{02}{09}{1A}{03}*2Let us cultivate land\nand raise our farms.{05}{05}{05}{01}I{02}{09}{03}{04}={02}{09}{1A}It seems hard to cultivate\nmore land here.{05}{05}{05}More farms mean\nmore food income.{05}{05}{05}
+@325
+{01}I100{04}>{02}{09}{1C}With more Tech we could\nsurvey for gold mines.{05}{05}{05}{01}I200{04}>{02}{09}{1C}Raise Tech further and\nsomething may happen...{05}{05}{05}{01}I300{04}>{02}{09}{1C}Let us raise Tech further\nso we can make guns.{05}{05}{05}{01}I999{04}={02}{09}{1C}Tech here is the\nhighest in Japan.{05}{05}{05}The higher our Tech,\nthe cheaper guns become.{05}{05}{05}

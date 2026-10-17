@@ -1,0 +1,294 @@
+@0
+The {02}" Army is here... Wait, F-Father!?{05}{05}{05}
+@1
+Ha ha, I felt like going to war for once.{05}{05}{05}
+@2
+Ahhh... Then surely the commander of this battle isn't...{05}{05}{05}
+@3
+Of course, it's the daimyo... me, Azai Hisamasa!!{05}{05}{05}
+@4
+So {1B}C3if you're beaten, Odani Castle falls{1B}C1...?{05}{05}{05}
+@5
+Well, yes... What of it?{05}{05}{05}
+@6
+(I must rise to the occasion!){05}{05}{05}
+@7
+...Ugh, last time Father was here, but this time... wait...{05}{05}{05}
+@8
+I'm going out too, to clear my shame!{05}{05}{05}
+@9
+P-please hold back, Father! Please rest...!{05}{05}{05}
+@10
+Ha ha, {1B}C3Commander Azai Hisamasa is here!{1B}C1{05}{05}{05}
+@11
+(Still... we're better prepared than last time...){05}{05}{05}
+@12
+(Somehow... I must do something!){05}{05}{05}
+@13
+Take Odani Castle,\nheld by the Azai.{05}{05}{05}
+@14
+{1B}C3Their weak point is Hisamasa.{1B}C1\nSteer clear of the able Nagamasa.{05}{05}{05}
+@15
+Huff, huff... Father, are you all right?{05}{05}{05}
+@16
+Yes, a piece of cake! A piece of cake!{05}{05}{05}
+@17
+...Next time, please leave it to me, Nagamasa...{05}{05}{05}
+@18
+Ha ha ha! We Azai are unbeatable!!{05}{05}{05}
+@19
+{02}" Army, come any time!{05}{05}{05}
+@20
+No, um... Please never come again...{05}{05}{05}
+@21
+F-Fatherrr!{05}{05}{05}
+@22
+...Ugh, I was careless... We must retreat...{05}{05}{05}
+@23
+Ugh, even with Father here... I won't forget this shame!{05}{05}{05}
+@24
+That's it... I surrender!{05}{05}{05}
+@25
+F-Father! What!? I can still fight!{05}{05}{05}
+@26
+Nagamasa... you are still young. I'll bear the blame for defeat.{05}{05}{05}
+@27
+Listen, men! We steal the {02}" Army's war chest.{05}{05}{05}
+@28
+Even if I'm beaten, I'll manage to slip away, so...{05}{05}{05}
+@29
+Strike while they're off guard after beating the commander?{05}{05}{05}
+@30
+Exactly. Grab the gold at once and leave the field!{05}{05}{05}
+@31
+...The ninja band understands.{05}{05}{05}
+@32
+Ha ha ha! I'm counting on you, all right?{05}{05}{05}
+@33
+...We'll do what we're paid for.{05}{05}{05}
+@34
+It's a matter of pride now! We'll get that gold!{05}{05}{05}
+@35
+Sigh... Is that so.{05}{05}{05}
+@36
+I even paid the ninja handsomely for this...!{05}{05}{05}
+@37
+Indeed... we've already been paid.{05}{05}{05}
+@38
+...Wait, at that price, we lose money even if we get the gold...!{05}{05}{05}
+@39
+Ha ha ha! {1B}C3No one get beaten before me{1B}C1!{05}{05}{05}
+@40
+As you command...{05}{05}{05}
+@41
+Wh... what a waste...!{05}{05}{05}
+@42
+{1B}C3Beat Rokkaku Yoshikata before the\nothers and your gold will be stolen.{1B}C1{05}{05}{05}
+@43
+Beat {1B}C3all{1B}C1 the other units before\nthe commander, Rokkaku Yoshikata.{05}{05}{05}
+@44
+...Mission complete. We return to our village... Farewell.{05}{05}{05}
+@45
+...My lord, we simply won.{05}{05}{05}
+@46
+Well, that's fine too! Ha ha ha ha ha!{05}{05}{05}
+@47
+...Mission complete. Heh, that paid well.{05}{05}{05}
+@48
+We won, but... this loss...{05}{05}{05}
+@49
+Well, these things happen! Ha ha ha ha ha!{05}{05}{05}
+@50
+...They fell for it. Now, men!{05}{05}{05}
+@51
+Ninja, now! Take everything!{05}{05}{05}
+@52
+...Mission complete. ...Now, withdraw.{05}{05}{05}
+@53
+Now! ...Wait, there's no one left on the field!{05}{05}{05}
+@54
+...Mission failed. Our apologies...{05}{05}{05}
+@55
+Fall back! At least keep the losses down!{05}{05}{05}
+@56
+...Mission failed. We are ashamed...{05}{05}{05}
+@57
+Splendid tactics for a foe... My lord, our men and gold are spent...{05}{05}{05}
+@58
+Yes... Shall we surrender and go bow our heads...{05}{05}{05}
+@59
+You draw a bow on the shogun... Unforgivable, unforgivable!{05}{05}{05}
+@60
+We'll take Nijo Castle back from the rebel {02}" Army!{05}{05}{05}
+@61
+B-Brother, {1B}C3the men's morale isn't high enough yet{1B}C1...{05}{05}{05}
+@62
+The enemy are rebels. {1B}C3Morale will rise as we march{1B}C1!{05}{05}{05}
+@63
+B-Brother is... Brother is fired up!{05}{05}{05}
+@64
+To turn a blade on me, the shogun...{05}{05}{05}
+@65
+I'll make them regret it for three generations!{05}{05}{05}
+@66
+So many men gathered... My authority has not waned!{05}{05}{05}
+@67
+With this we can retake Nijo Castle!{05}{05}{05}
+@68
+The shogun himself commands! {1B}C3Morale will soon rise{1B}C1!{05}{05}{05}
+@69
+...This time... this time we'll take Nijo Castle... sob!{05}{05}{05}
+@70
+B-Brother is... Brother is crying!{05}{05}{05}
+@71
+Heh... Let us go, Yoshiaki... Show them the shogun's might!{05}{05}{05}
+@72
+The Ashikaga shogunate's army\nis attacking to retake Nijo Castle.{05}{05}{05}
+@73
+{1B}C3Enemy morale rises every day.{1B}C1\nSettle it quickly.{05}{05}{05}
+@74
+The shogun's authority raises\nAshikaga morale day by day.{05}{05}{05}
+@75
+Rebels have no future! The shogunate... justice has won!{05}{05}{05}
+@76
+Splendid, Brother... Your valor will ring across the realm.{05}{05}{05}
+@77
+This is only the signal fire... for the shogunate's revival!{05}{05}{05}
+@78
+Lord Takauji, do you see... We have struck down the rebels!{05}{05}{05}
+@79
+The world will hear the Ashikaga shogunate is alive and well!{05}{05}{05}
+@80
+Not yet... While rebels remain, our war goes on!{05}{05}{05}
+@81
+...You... you... lowly scum!{05}{05}{05}
+@82
+No, Brother! Falling back is the best plan!{05}{05}{05}
+@83
+Such shame... Curse you... curse you, curse you!{05}{05}{05}
+@84
+So this... this is the tide of the times...{05}{05}{05}
+@85
+So the Ashikaga age... ends here...{05}{05}{05}
+@86
+Now I am just a swordsman... ...Do as you will.{05}{05}{05}
+@87
+Losing, are we... It would be crude to die in a battle like this.{05}{05}{05}
+@88
+Sakon, is the thing I asked for ready?{05}{05}{05}
+@89
+The thing? Ah, Lord Oribe has that...{05}{05}{05}
+@90
+Lord Hisahide... what will you do with tea ware full of gunpowder?{05}{05}{05}
+@91
+Listen... if the worst comes, use it and be sure to survive.{05}{05}{05}
+@92
+Wh-what? Use tea ware as a weapon...?{05}{05}{05}
+@93
+With this much powder, the enemies around us... I see...{05}{05}{05}
+@94
+Yes... First, survive. Victory will follow.{05}{05}{05}
+@95
+The {02}" Army again... On the attack, are they? Then...{05}{05}{05}
+@96
+L-Lord Hisahide, surely this tea ware lined up here...{05}{05}{05}
+@97
+I've packed in more powder than last time.{05}{05}{05}
+@98
+With this, retreat is easy, and we can aim to beat the enemy too.{05}{05}{05}
+@99
+Ahh... the tea ware... what a waste...{05}{05}{05}
+@100
+Oribe, this time I value our generals in danger more than tea ware.{05}{05}{05}
+@101
+Our faith won't bend to numbers, {02}" Army!{05}{05}{05}
+@102
+{1B}C3Beating an enemy unit sets off powder\nthat hurts your adjacent units.{1B}C1{05}{05}{05}
+@103
+Keep losses down as you advance,\nand aim for Matsunaga Hisahide.{05}{05}{05}
+@104
+{02}{05}d lit the tea ware's\ngunpowder while withdrawing.{05}{05}{05}
+@105
+{02}{05}d's tea ware gunpowder\nseems to have been a dud.{05}{05}{05}
+@106
+The enemy is retreating. Victory is ours!{05}{05}{05}
+@107
+...My beloved tea ware is saved too...{05}{05}{05}
+@108
+Dear me... I'd rather not fight battles with no profit.{05}{05}{05}
+@109
+Hm... Tea ware as weapons. Perhaps a new tactic.{05}{05}{05}
+@110
+L-Lord Sakon! Not this tea ware!{05}{05}{05}
+@111
+Heh, Sakon has no taste. Learn to play a little.{05}{05}{05}
+@112
+I, Sakon... beaten...{05}{05}{05}
+@113
+...Ugh, my tea ware... I can't let the enemy take it...{05}{05}{05}
+@114
+Oribe, fall back! Spare your men and yourself first!{05}{05}{05}
+@115
+We're no match for this... What generalship.{05}{05}{05}
+@116
+{02}" Army... to fight such a beautiful battle...{05}{05}{05}
+@117
+...Enough waste. Of tea ware... and of everyone's lives.{05}{05}{05}
+@118
+So that's the one we're told not to let through!{05}{05}{05}
+@119
+Pop, we're taking on that small band with this many men?{05}{05}{05}
+@120
+It can't be helped... The Saika name rides on this.{05}{05}{05}
+@121
+Tch, fair enough... So what exactly do we do?{05}{05}{05}
+@122
+{1B}C3Don't let them get behind us... That's the job.{1B}C1{05}{05}{05}
+@123
+Got it! Lads, open fire!{05}{05}{05}
+@124
+This time it's just my own pride... Sorry to drag you in.{05}{05}{05}
+@125
+What're you saying, Pop? The Saika band is of one heart...{05}{05}{05}
+@126
+...Here they come, {02}" Army! Let's give 'em a shock!{05}{05}{05}
+@127
+Same goal as last time: {1B}C3stop the enemy getting behind us{1B}C1.{05}{05}{05}
+@128
+Our lost trust... and the pride of the Saika, the best gunners!{05}{05}{05}
+@129
+Lads... let's take it back!{05}{05}{05}
+@130
+The Saika gunners close on the {02}"\nArmy as it heads for the right edge.{05}{05}{05}
+@131
+{1B}C3Get just one of your units to\nthe right edge of the field.{1B}C1{05}{05}{05}
+@132
+Yo, job done! Nothing against you lot.{05}{05}{05}
+@133
+I wonder what our client feared about them...{05}{05}{05}
+@134
+Who knows... Right, home for a drink. That paid well!{05}{05}{05}
+@135
+Doing it properly... well, that's how it's done!{05}{05}{05}
+@136
+Dear me... The Saika's honor is somehow saved.{05}{05}{05}
+@137
+Heh... Drinks, drinks! Let's get home!{05}{05}{05}
+@138
+What... What is this...{05}{05}{05}
+@139
+Pop! ...He's not listening. All troops, fall back!{05}{05}{05}
+@140
+This doesn't pay... Tch, they'll get theirs!{05}{05}{05}
+@141
+Ugh, we blew it!{05}{05}{05}
+@142
+Everyone, fall back. We've no more business here...{05}{05}{05}
+@143
+Lost all our ammo and food... and this shame... Unforgivable.{05}{05}{05}
+@144
+Ha! They got us! What a getaway!{05}{05}{05}
+@145
+We sold the enemy short... They were too much for us.{05}{05}{05}
+@146
+The Saika lost fair and square! Lads, let's go home!{05}{05}{05}

@@ -1,0 +1,242 @@
+@0
+{01}I{02}{05}{1A}{04}}80{06}&{02}{05}{1B}{04}}80{06}&{02}{05}{1C}{04}}80{06}&{02}{05}{1D}{04}}80A new officer of the Sengoku era,\ngifted in every ability.{05}{05}{05}{01}I{02}{05};A new officer of the Sengoku era,\nskilled in politics and war,\ngifted enough to be a strategist.{05}{05}{05}{01}I{02}{05}{1A}{04}}80{06}&{02}{05}{1A}{04}}{02}{05}{1B}{06}&{02}{05}{1A}{04}}{02}{05}{1C}{06}&{02}{05}{1A}{04}}{02}{05}{1D}A new officer of the Sengoku era,\ngifted in politics and more.{05}{05}{05}{01}I{02}{05}{1B}{04}}80{06}&{02}{05}{1B}{04}}{02}{05}{1C}{06}&{02}{05}{1B}{04}}{02}{05}{1D}A new officer of the Sengoku era,\ngifted in war and more.{05}{05}{05}{01}I{02}{05}{1C}{04}}80{06}&{02}{05}{1C}{04}}{02}{05}{1D}A new officer of the Sengoku era,\ngifted in learning and more.{05}{05}{05}{01}I{02}{05}{1D}{04}}80A new officer of the Sengoku era,\ngifted with charm.{05}{05}{05}A new officer of the Sengoku era.{05}{05}{05}
+@1
+Toyotomi retainer of the Yellow Horo guard. He served in Kyushu and built Fushimi Castle, earning the Toyotomi name. Stripped of his fief for siding with the West at Sekigahara.{05}{05}{05}
+@2
+Tanba warlord, second son of Tokiie, who guarded his young nephew Tadaie after his brother fell. A great warrior, he drove off Akechi Mitsuhide and was called the "Red Demon of Tanba."{05}{05}{05}
+@3
+Sagara retainer who held Okuchi Castle on the Satsuma border. With many brave men he repeatedly threw back the Shimazu, cornered Shimazu Yoshihiro and slew Kawakami Hisaaki.{05}{05}{05}
+@4
+Azai retainer. With Kaihoku Tsunachika and Amenomori Yahyoe he was called one of the "Three Generals." He kept the Akao enclosure at Odani Castle. Captured and beheaded when the Azai fell.{05}{05}{05}
+@5
+Uragami retainer, lord of Sakane Castle. When Ukita Naoie attacked his lord's Tenjinyama Castle, he sided with Naoie and caused the Uragami's fall, then served Naoie.{05}{05}{05}
+@6
+Ukita retainer, son of Kagechika. Ran the domain after the clan's strife and led the Ukita vanguard at Sekigahara. Later joined Osaka Castle and fought hard leading Christian samurai.{05}{05}{05}
+@7
+Toyotomi retainer, son of Norifusa. Inherited 10,000 koku at Sumiyoshi in Awa. At Sekigahara he sided with the West and held Sawayama Castle; he escaped before it fell but killed himself in Kyoto.{05}{05}{05}
+@8
+Harima daimyo, son of Yoshisuke. He surrendered to Hideyoshi's invasion and fought in many battles as his retainer, earning 10,000 koku each in Harima and Awa.{05}{05}{05}
+@9
+Akamatsu retainer, lord of Tatsuno Castle. He welcomed his lord Harumasa into his castle, killed Uragami Masamune, and fought Kodera and Kuroda. He is said to have died of poison.{05}{05}{05}
+@10
+Son of Harumasa. He sided with Oda Nobunaga but lost to Uragami Masamune and fell into ruin. The Akamatsu descended from Murakami Genji and Akamatsu Norimura (Enshin).{05}{05}{05}
+@11
+Takeda retainer who led the Ina men; Tokugawa Ieyasu called him "the wild ox of the Takeda." He held Iwamura Castle against Oda Nobunaga but was captured and crucified.{05}{05}{05}
+@12
+Akechi retainer who joined his father-in-law Mitsuhide at Honnoji. He held Azuchi during Yamazaki, then fell back to Sakamoto, handed its treasures to the besiegers and took his own life.{05}{05}{05}
+@13
+Oda retainer valued by Nobunaga for his wit and learning, who suddenly rebelled and killed him at Honnoji. His later schemes failed; beaten at Yamazaki, he was killed while fleeing.{05}{05}{05}
+@14
+Omi daimyo, son of Hisamasa. He wed Nobunaga's sister Oichi, but sided with the Asakura against him. Besieged at Odani, he sent Oichi and his daughters to Nobunaga and killed himself.{05}{05}{05}
+@15
+Omi daimyo, lord of Odani Castle, son of Sukemasa. His policy of submitting to the Rokkaku angered his retainers, and he handed the clan to his son Nagamasa. Killed himself when the Azai fell.{05}{05}{05}
+@16
+Asakura retainer who led the pursuit of Nobunaga. After his lord Yoshikage lost at Tonezaka, he sided with Nobunaga and drove Yoshikage to suicide. Later killed by Ikko rebels.{05}{05}{05}
+@17
+Asakura retainer, grandson of Tsunekage. When Asakura Soteki fell ill he led the campaign against the Ikko rebels in Kaga. He later lost three sons in succession and died soon after.{05}{05}{05}
+@18
+Asakura retainer who led the Asakura at Anegawa. After the clan fell he served Nobunaga, but angered him by yielding to the Ikko rebels and was made to kill himself.{05}{05}{05}
+@19
+Asakura retainer, son of the third head Sadakage, adopted by Asakura Soteki. As lord of Tsuruga Castle he fought beside his father in Kaga, Wakasa and the capital region, later governing Tsuruga.{05}{05}{05}
+@20
+Fifth head of the Asakura, eldest son of Takakage. He allied with Ashikaga Yoshiaki in the coalition against Nobunaga but steadily lost power. Beaten at Tonezaka and betrayed by kin, he killed himself.{05}{05}{05}
+@21
+Toyotomi retainer, brother-in-law of Hideyoshi's wife Neneko. As head of the Five Commissioners he helped run the realm. After Hideyoshi died he opposed Ishida Mitsunari and joined the Tokugawa.{05}{05}{05}
+@22
+Imagawa retainer who won honors at Azukizaka. After the Imagawa fell he served Takeda Shingen as a Suruga man. When the Takeda fell, his Ihara hall was attacked and he took his own life.{05}{05}{05}
+@23
+Imagawa retainer, son of Yasuyoshi. He sheltered his lord Ujizane at Kakegawa and held out against the Tokugawa for five months, then fled with Ujizane to Sagami.{05}{05}{05}
+@24
+Imagawa retainer, lord of Kakegawa Castle. At Azukizaka in 1548 he aided Taigen Sessai in beating Oda Nobuhide, and served as vanguard of the Imagawa's westward advance.{05}{05}{05}
+@25
+Dewa warlord who, allied with the Ando, drove his brother Norisuke to suicide and took the clan. Plotting revolt with the Tsugaru, he was lured to a feast by Ando Chikasue and killed.{05}{05}{05}
+@26
+Dewa warlord, lord of Tokko Castle, eldest son of Noriyori. He clashed with his brother Katsuyori, who wished to submit to the Ando. Attacked by the Ando with Katsuyori's help, he took his own life.{05}{05}{05}
+@27
+Dewa warlord, son of Katsuyori, who hid in Tsugaru after his father's murder. He later ruled Hinai for the Ando, but died suddenly in Osaka amid a lawsuit over war levies.{05}{05}{05}
+@28
+Fifteenth Muromachi shogun. Nobunaga's backing made him shogun, but they fell out and he formed a coalition against Nobunaga. He raised an army himself but was beaten and driven from Kyoto.{05}{05}{05}
+@29
+Koga kubo, son of Haruuji. Raised under Hojo protection, he returned to Koga Castle but held no real power. With his line extinct at his death, his daughter Uji founded the Kitsuregawa house.{05}{05}{05}
+@30
+Thirteenth Muromachi shogun. Raised in exile in Omi, he returned to Kyoto. A master swordsman taught by Tsukahara Bokuden, he sought to restore the shogunate but was killed.{05}{05}{05}
+@31
+Sixteenth head of the Ashina. He made the Ashina one of the great houses of Oshu, rivaling the Date, and is hailed as their restorer. Using alliances well, he won lands from Aizu to northern Echigo.{05}{05}{05}
+@32
+Seventeenth Ashina head, Moriuji's heir. He died young amid the war with the Satake. His father once banned brewing in the domain to cure his illness.{05}{05}{05}
+@33
+Eighteenth Ashina head, son of Nikaido Moriyoshi, who wed Morioki's widow. Allied with the Uesugi and Hojo, he fought the Satake, but was killed in Kurokawa Castle by a resentful aide.{05}{05}{05}
+@34
+Twentieth Ashina head, second son of Satake Yoshishige. He wed Moritaka's daughter and took over the Ashina, but lost to Date Masamune at Suriagehara and fled to Hitachi.{05}{05}{05}
+@35
+Miyoshi retainer, son of Fuyuyasu, who led the Awaji navy after his brother. He sided secretly with the Mori, but surrendered to Hideyoshi and was confirmed in his lands by Nobunaga.{05}{05}{05}
+@36
+Oda retainer, son of Fuyuyasu, who led the Awaji navy. First allied with the Ishiyama Honganji, he surrendered to Nobunaga and fought the Mori navy at Kizugawaguchi.{05}{05}{05}
+@37
+Miyoshi retainer, son of Miyoshi Motonaga, who led the Awaji navy and served his brother Nagayoshi well, until Matsunaga Hisahide's slander got him killed. A poet and tea man.{05}{05}{05}
+@38
+Azai retainer who betrayed his lord for the Oda, then aided Akechi Mitsuhide after Honnoji, attacking Nagahama. After Mitsuhide died he surrendered but was killed with his father.{05}{05}{05}
+@39
+Azai retainer, lord of Yamamotoyama. He served Nobunaga after the Azai fell. After Honnoji he joined Akechi Mitsuhide and was killed with his son Sadahiro when Mitsuhide died.{05}{05}{05}
+@40
+One of Sanada's Ten Braves. Son of a Takeda retainer, he served Sanada Yukimura. Looking like Yukimura, he acted as his double and died in the summer siege of Osaka.{05}{05}{05}
+@41
+Takeda retainer, first among the clan's kin, who guarded the HQ in battle. He joined Ieyasu after the Takeda fell, and was killed by unknown men on his way home from Sakai after Honnoji.{05}{05}{05}
+@42
+Hida warlord, eldest son of Yoritsuna, who took over the clan at Sakurabora. Suspected of treason with his uncle Miki Akitsuna, he was killed by his father.{05}{05}{05}
+@43
+Hida warlord, son of Naoyori. Taking up the name of the Anegakoji governors of Hida, he sided with Uesugi Kenshin and fought a war of arms and diplomacy with the Ema, allies of Takeda Shingen.{05}{05}{05}
+@44
+Hida warlord, eldest son of Yoshiyori, who beat the local lords and united Hida. After Honnoji he joined Sassa Narimasa against Hideyoshi, lost, and retired to Kyoto, where he died.{05}{05}{05}
+@45
+Son of Sanehisa, raised up by Yamanaka Yukimori to restore the Amago. With Nobunaga's aid he tried to retake Izumo but failed. Beaten by the Mori at Kozuki Castle, he killed himself.{05}{05}{05}
+@46
+Izumo daimyo who succeeded his grandfather Tsunehisa as governor of eight provinces. Tricked by Mori Motonari, he destroyed his own Shingu clan, and died suddenly while fighting the Mori.{05}{05}{05}
+@47
+Izumo daimyo, son of Haruhisa. He held Gassan-Toda Castle against Mori Motonari, but fell to Motonari's schemes, even killing his own chief elder Uyama Hisakane.{05}{05}{05}
+@48
+Imagawa retainer, lord of Inui Castle, who won honors at Tawara Honjuku. After the Imagawa fell he served the Takeda against the Tokugawa, then the Hojo, earning honors against the Satake.{05}{05}{05}
+@49
+Ouchi retainer who joined the Mori after the Ouchi fell. After the Amago fell he held Gassan-Toda Castle and drove off Yamanaka Yukimori. He later helped Motonari's fifth son Motoaki rule Izumo.{05}{05}{05}
+@50
+Azai retainer, lord of Amenomori Castle in Omi, who fought in many battles from Hisamasa's day. With Kaihoku and Akao he was one of the "Three Generals."{05}{05}{05}
+@51
+Tanba warlord, lord of Saikusho Castle, famed for bold valor. After the Hatano fell he refused Akechi Mitsuhide's offer and sent his son Ujikiyo instead, who died at Yamazaki.{05}{05}{05}
+@52
+Ikeda retainer, lord of Arioka Castle. He later served Nobunaga in Settsu, but rebelled with the Honganji and Mori, lost and fled. He became a tea master, one of Rikyu's Seven Disciples.{05}{05}{05}
+@53
+Mori retainer and monk, son of Takeda Shigezane. A diplomat famed for predicting the fates of Nobunaga and Hideyoshi. Beheaded after siding with the West at Sekigahara.{05}{05}{05}
+@54
+Ninth head of the Hiyama Ando, eldest son of Chikasue. He fought the Nanbu and Tozawa and held his lands, but a misstep at Sekigahara cost him his Akita domain.{05}{05}{05}
+@55
+Ninth head of the Minato Ando, son of Kiyosue. After his brother Tomosue died, he was adopted by Ando Takasue and took over the house. He wed a daughter of Kakizaki Suehiro.{05}{05}{05}
+@56
+Eighth head of the Hiyama Ando, eldest son of Kiyosue. He united both Ando houses and, with clever strategy, built their largest domain, feared "like the Big Dipper in the northern sky."{05}{05}{05}
+@57
+Tenth head of the Minato Ando, eldest son of Shigesue. After his father died, his uncle Chikasue drove him from Minato Castle. After Chikasue's death he rebelled with the Tozawa, but failed.{05}{05}{05}
+@58
+Saito retainer, one of the Mino Triumvirate. He served Nobunaga after the Saito fell but was later banished. After Honnoji he rose to regain his old lands but was killed fighting Inaba Ittetsu.{05}{05}{05}
+@59
+Tokugawa retainer, one of the Four Heavenly Kings. His all-red troops, feared as the "Red Demons," always led the charge. At Sekigahara he chased the Shimazu and slew Shimazu Toyohisa.{05}{05}{05}
+@60
+Imagawa retainer, lord of Hikuma Castle. After Okehazama he defected to the Tokugawa, lost to his lord Ujizane and made peace. Later summoned to Sunpu by Ujizane, he was murdered there.{05}{05}{05}
+@61
+Ouchi magistrate, stationed mostly in Kyushu. He joined Sue Harukata's revolt and later served the new Ouchi head, Yoshinaga. Versed in archery and riding lore.{05}{05}{05}
+@62
+Settsu warlord, lord of Ikeda Castle, son of Nagamasa. He submitted to Nobunaga and was called one of the "Three Guardians of Settsu," but was driven out by kin in league with the Miyoshi.{05}{05}{05}
+@63
+Oda retainer, Nobunaga's milk brother, who fought at Anegawa and elsewhere. After Honnoji he was one of the four Oda elders. Siding with Hideyoshi, he died at Komaki-Nagakute.{05}{05}{05}
+@64
+Oda retainer, son of Tsuneoki, who joined the Toyotomi after Honnoji. Siding with the East at Sekigahara, he received 520,000 koku at Himeji: the "Himeji Councillor."{05}{05}{05}
+@65
+Settsu warlord, lord of Ikeda Castle. He took over after his father was forced to kill himself, served Miyoshi Nagayoshi and won honors against the Hatano and Hatakeyama.{05}{05}{05}
+@66
+Tokugawa elder who led the West Mikawa men. After Komaki-Nagakute he fled to the Toyotomi, which led the Tokugawa to remodel their army along Takeda lines.{05}{05}{05}
+@67
+Nanbu retainer and governor of Tsugaru, who aided his nephew Harumasa and greatly expanded Nanbu power. He killed himself when his retainer Oura (Tsugaru) Tamenobu rebelled.{05}{05}{05}
+@68
+Tokugawa retainer, son of Kazumasa, who followed his father to the Toyotomi and inherited Matsumoto. He sided with the East at Sekigahara, but lost his lands for hiding fiefs.{05}{05}{05}
+@69
+Toyotomi retainer, one of the Five Commissioners. After Hideyoshi died he led the West against Ieyasu at Sekigahara, but could not hold his generals together, lost and was beheaded.{05}{05}{05}
+@70
+Shimazu retainer, son of Tadaaki. With his father he forced Kimotsuki Kaneaki of Kajiki to surrender and managed his lands. Later an elder, he helped the Shimazu expand.{05}{05}{05}
+@71
+Shimazu retainer and elder, son of Tadakura. Beaten by Hideyoshi's Kyushu campaign, he became a hostage. Treated by Hideyoshi as his lord's equal, he fell out with his lord Tadatsune and was killed.{05}{05}{05}
+@72
+Tokugawa adviser who drafted laws like the Code for the Warrior Houses and stirred up the Hokoji bell affair as a pretext for war on Osaka: "the black-robed minister."{05}{05}{05}
+@73
+Soma retainer, lord of Izumida Castle. In 1588 he drove Date Masamune's army from Okoshi Castle, and fought the Date again and again under his lord Yoshitane.{05}{05}{05}
+@74
+Nanbu retainer, adopted by his uncle Izumiyama Yasutomo, whose name and village he took. His daughter Jishoin became his lord Nobunao's second wife.{05}{05}{05}
+@75
+Nanbu retainer, son of Furuyasu and brother-in-law of his lord Nobunao. He took the Ishigame name when that line died out, and ranked among the twenty chief Nanbu retainers.{05}{05}{05}
+@76
+Azai retainer, lord of Sawayama, who led the vanguard at Anegawa. He later yielded to Nobunaga and held Shinjo Castle, but fell from favor and fled to Mount Koya.{05}{05}{05}
+@77
+Hojo secretary and councillor, skilled in diplomacy, such as peace talks with Tokugawa Ieyasu and dealings with Hideyoshi. After the Hojo fell he served Hideyoshi as a storyteller.{05}{05}{05}
+@78
+Kikkawa retainer who, with his father Kikkawa Tsuneyo, helped Mori Motonari's second son Motoharu inherit the Kikkawa. After the Ouchi fell he served the Mori as magistrate of Yamaguchi.{05}{05}{05}
+@79
+Otomo retainer, lord of Komure Castle in Bungo. He spent most of his life in camp, yet was a man of taste who held cherry-viewing parties for his lord Sorin. He killed himself when a kinsman rebelled.{05}{05}{05}
+@80
+Otomo retainer who wed Sorin's daughter. He crushed his kinsman Takahashi Akitane's revolt and fought the Mori and Ryuzoji. Beaten by the Shimazu, he was ordered to kill himself.{05}{05}{05}
+@81
+Tango daimyo who took over the Isshiki at Yumiki Castle after Hosokawa Fujitaka murdered his nephew. Besieged by Hosokawa Tadaoki, he charged the enemy camp and died.{05}{05}{05}
+@82
+Tango daimyo who fought Hosokawa Fujitaka after his father's death. He made peace through Akechi Mitsuhide and wed Fujitaka's daughter, but was killed when he rebelled again.{05}{05}{05}
+@83
+Tango daimyo, son of Yoshiyuki. Sheltering the exiled shogun Ashikaga Yoshiaki, he was attacked by the Oda. He fought well, but his retainer Numata betrayed him and he took his own life.{05}{05}{05}
+@84
+Tango daimyo who often fought the Takeda of Wakasa. The Isshiki, a branch of the Ashikaga, were one of the four great houses with the Yamana, Akamatsu and Kyogoku.{05}{05}{05}
+@85
+Tsutsui retainer, lord of Ido Castle. Leaving his castle to his son, he served Nobunaga and won 20,000 koku at Makishima. He sided with Akechi Mitsuhide at Yamazaki and lost his fief.{05}{05}{05}
+@86
+Toyotomi retainer who guided Hideyoshi's Kyushu campaign and won back Obi in Hyuga. He served in Korea and sided with the East at Sekigahara, but died of illness soon after.{05}{05}{05}
+@87
+Son of Suketake who led the army at Kizakibaru. Attacking the Shimazu at Iino Castle, he was routed by Shimazu Yoshihiro's ruse, trapped while retreating and killed.{05}{05}{05}
+@88
+Hyuga daimyo who built the Ito's largest domain, but declined after losing to the Shimazu at Kizakibaru. After the Otomo's rout at Mimikawa he wandered the land.{05}{05}{05}
+@89
+Hyuga daimyo, son of Yoshisuke. Though not the eldest, he took over when the heir died young and, guided by his father, led the Ito to their peak. He died of illness while facing the Shimazu.{05}{05}{05}
+@90
+Isshiki retainer, founder of the Inatomi school of gunnery. After the Isshiki fell he taught gunnery to Hosokawa Tadaoki. Later, as Tokugawa gunnery officer, he organized the Kunitomo gunsmiths.{05}{05}{05}
+@91
+Isshiki retainer, lord of Oshiki Castle in Tango. He learned gunnery from Sasaki Yoshikuni and added his own ideas. He taught his grandson Sukenao and laid the foundation of the Inatomi school.{05}{05}{05}
+@92
+Saito retainer, one of the Mino Triumvirate. After the Saito fell he served the Oda. At Anegawa he struck the Azai flank and led the Oda to victory. His stubbornness gave rise to the word "ittetsu."{05}{05}{05}
+@93
+Ashina retainer. At his second wife's urging he plotted to disinherit his son Moritane and fought him. He later betrayed the Ashina for the Date and led the vanguard against them at Suriagehara.{05}{05}{05}
+@94
+Ashina retainer, son of Morikuni. When the Ashina lost at Suriagehara he followed his lord Morishige to Hitachi, but later left him and returned to Inawashiro to live out his days.{05}{05}{05}
+@95
+Tenth Imagawa head, Yoshimoto's heir. He devoted himself to kickball and poetry and let his days drift by, until Tokugawa Ieyasu and Takeda Shingen drove him from his lands.{05}{05}{05}
+@96
+Ninth Imagawa head, who won the clan from his half-brother. With his rear secured by alliance, he marched on Kyoto but died in Nobunaga's surprise attack at Okehazama.{05}{05}{05}
+@97
+Uesugi retainer, lord of Hirabayashi, who took over after his brother died and helped crush the Senboku uprising in Dewa. He fell ill and died on the Korean campaign.{05}{05}{05}
+@98
+Lord of Odate Castle in Mutsu. In the Date clan's Tenbun War he sided with Harumune, who had married his daughter Kubo. He often fought Satake Yoshiatsu, and was a fine poet.{05}{05}{05}
+@99
+Miyoshi retainer, one of the Miyoshi Triumvirate. Answering the shogun Yoshiaki's call, he held Yodo Castle, but was attacked by Hosokawa Fujitaka and killed.{05}{05}{05}
+@100
+Sagara retainer who had his lord Yorifusa secretly side with the East at Sekigahara, saving the clan. Later chief elder, his high-handedness got him exiled to Tsugaru.{05}{05}{05}
+@101
+Sagara retainer famed for valor, who traded linked verses with the enemy general Niiro Tadamoto at Minamata. After his lord died, he guarded the boy lord Yorifusa.{05}{05}{05}
+@102
+Son of Nagao Masakage, adopted by Uesugi Kenshin. He won the Otate War to succeed Kenshin. He sided with the West at Sekigahara, fighting the Mogami and Date, and later held Yonezawa.{05}{05}{05}
+@103
+Seventh son of Hojo Ujiyasu, sent to Echigo as a hostage and adopted by Kenshin. After Kenshin died he fought Kagekatsu for the clan in the Otate War and was killed.{05}{05}{05}
+@104
+Uesugi retainer who took the Uesugi name with his lord Kenshin when Kenshin became Kanto Kanrei. A pillar of the family, he fought far and wide. He sided with Kagetora in the Otate War and was killed.{05}{05}{05}
+@105
+Echigo daimyo, second son of Tamekage. Given the Kanto Kanrei post by Uesugi Norimasa, he took the Uesugi name. Charging under his "Bi" banner, he was feared as a god of war: the "Dragon of Echigo."{05}{05}{05}
+@106
+Head of the Fukaya Uesugi in Musashi, who lost his lands to the Hojo after their win at Kawagoe. He strove to recover, but finally handed the house to his son and surrendered.{05}{05}{05}
+@107
+Twentieth head of the Yamanouchi Uesugi. Beaten at Kawagoe, he fled to Echigo and gave the Uesugi name and Kanto Kanrei post to Kenshin. Killed by Kagekatsu in the Otate War.{05}{05}{05}
+@108
+Head of the Fukaya Uesugi. He lost to Takeda Shingen at Usui Pass beside Uesugi Norimasa, then allied with Kenshin against the Hojo, but was beaten by Hojo Ujimasa and surrendered.{05}{05}{05}
+@109
+Ogigayatsu Uesugi retainer who surrendered to the Hojo invasion of Musashi and served them after. As lord of Matsuyama Castle he issued his own seal and ruled independently of the Hojo.{05}{05}{05}
+@110
+Sagara retainer, second son of Yorioki and brother of Haruhiro. Vying for the clan, he clashed with Haruhiro's heir Yoshihi. He rebelled, lost and fled, and was assassinated when he came back.{05}{05}{05}
+@111
+Ukita retainer, son of Okiie, who did much to help his brother Naoie build the clan. After Naoie died he guarded his nephew Hideie, and crossed to Korea with Hideie, commander of the Toyotomi army.{05}{05}{05}
+@112
+Uragami retainer, lord of Otoko Castle. Using every scheme and trick, he disposed of rivals, then drove out his lord Munekage and seized Bizen: a peerless schemer.{05}{05}{05}
+@113
+Toyotomi retainer, Naoie's heir and Hideyoshi's favorite, one of the Five Elders. Strife cost him most of his retainers. He sided with the West at Sekigahara and was exiled to Hachijo.{05}{05}{05}
+@114
+Uesugi retainer, said to have founded the Echigo school of strategy. He joined Kamijo Sadanori's revolt, later returned to help govern, and drowned while boating with Nagao Masakage.{05}{05}{05}
+@115
+Mogami retainer who led the army for his lord Yoshimori in the Tenbun War. In the clan's succession dispute, though gravely ill, he talked Yoshimori into handing the clan to Yoshiaki.{05}{05}{05}
+@116
+Saito retainer, one of the Mino Triumvirate, who served the Oda after the Saito fell and won honors in Ise. When the Oda lost to the Nagashima Ikko rebels, he led the rearguard and was killed.{05}{05}{05}
+@117
+Mogami retainer, son of Sadanao. Shrewd and clever, he helped destroy the Tendo and Shiratori, served as envoy to the Date and won honors at the capture of Mamuro Castle.{05}{05}{05}
+@118
+Otomo retainer, commander of Kojidake Castle in Chikuzen. He also managed Otomo diplomacy, arranging peace with the Ouchi and the adoption of his lord Sorin's brother Haruhide into the Ouchi.{05}{05}{05}
+@119
+Otomo retainer, one of the Three Elders of Bungo. He handled diplomacy, governed Hizen affairs, helped run the domain and led the army that subdued Chikuzen.{05}{05}{05}
+@120
+Twenty-second Utsunomiya head. He joined Hideyoshi's Odawara campaign and kept his lands, but was later caught in Toyotomi power struggles and stripped of his fief.{05}{05}{05}

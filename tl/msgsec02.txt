@@ -1,0 +1,656 @@
+@0
+{01}I{02}{12}{04}=0Culture in {02}{09}d is now\n{02}{11}.{05}{05}{05}Culture in {02}{09}d is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@1
+{02}{01}d clan retainers' loyalty rose by {02}{11}.{05}{05}{05}
+@2
+{01}I{02}{12}{04}=0{02}{05}d's loyalty is now\n{02}{11}.{05}{05}{05}{02}{05}d's loyalty is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@3
+{01}I{02}{12}{04}=0{02}{05}d's Politics is now\n{02}{11}.{05}{05}{05}{02}{05}d's Politics is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@4
+{01}I{02}{12}{04}=0{02}{05}d's War is now\n{02}{11}.{05}{05}{05}{02}{05}d's War is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@5
+{01}I{02}{12}{04}=0{02}{05}d's Learning is now\n{02}{11}.{05}{05}{05}{02}{05}d's Learning is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@6
+{01}I{02}{12}{04}=0{02}{05}d's Charm is now\n{02}{11}.{05}{05}{05}{02}{05}d's Charm is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@7
+Imagawa Yoshimoto, hailed as the finest\nbowman of the east, at last set out for\nKyoto and marched into Owari...{05}{05}{05}
+@8
+Meanwhile, at Kiyosu, the Oda\nretainers gathered in council on\nhearing of the Imagawa invasion...{05}{05}{05}
+@9
+As his retainers argued, Nobunaga\nyawned aloud. When all eyes turned\nto him, he suddenly stood up.{05}{05}{05}
+@10
+Nobunaga left the room without a word.\nThe retainers left behind hung\ntheir heads in frustration.{05}{05}{05}
+@11
+In the corridor, Nobunaga's expression\nchanged. In the garden knelt his\nretainer, Yanada Masatsuna.{05}{05}{05}
+@12
+On Nobunaga's orders, Masatsuna had sent\nscouts near Dengaku-hazama. When\nhe was gone, Nobunaga muttered...{05}{05}{05}
+@13
+With the Imagawa army about to\ninvade, an eerie silence hung over\nthe castle town of Owari.{05}{05}{05}
+@14
+At dawn, Nobunaga's roar suddenly\nrang through Kiyosu Castle.{05}{05}{05}
+@15
+His dance done, Nobunaga called\nfor the army to march.{05}{05}{05}
+@16
+The moment he finished, Nobunaga\nmounted his horse with a few men\nand rode straight for Atsuta Shrine.{05}{05}{05}
+@17
+Leaving the castle with just five\nriders, Nobunaga reached Atsuta Shrine\nand offered up the prayer he had written...{05}{05}{05}
+@18
+Tokugawa Ieyasu of Mikawa has become\nindependent.{05}{05}{05}
+@19
+Lord Tokugawa Ieyasu has arrived.{05}{05}{05}
+@20
+Tokugawa Ieyasu has formed an alliance\nwith Oda Nobunaga.{05}{05}{05}
+@21
+Okehazama, it is!{05}{05}{05}
+@22
+Form an alliance?{05}{05}{05}
+@23
+Against the great Imagawa army,\nwe can only hold the castle...{05}{05}{05}
+@24
+No, we must gamble everything\nand strike out...{05}{05}{05}
+@25
+I'm going to bed.{05}{05}{05}
+@26
+How can you be so carefree!{05}{05}{05}
+@27
+Stop your idle chatter, all of you,\nand get some rest.{05}{05}{05}
+@28
+Masatsuna.\nHow did it go?{05}{05}{05}
+@29
+Sir, just as you ordered.{05}{05}{05}
+@30
+Yoshimoto thinks me a fool,\nand he is complacent...{05}{05}{05}
+@31
+We strike at that gap with\na surprise attack and kill him!{05}{05}{05}
+@32
+Bring the drum!\nI will dance!{05}{05}{05}
+@33
+...Man's fifty years, beside the realm below heaven...{05}{05}{05}
+@34
+are but a dream, an illusion...{05}{05}{05}
+@35
+Bring my armor! We march!\nTo the shrine at Atsuta!{05}{05}{05}
+@36
+Listen well, men!\nThe god of Atsuta is with us!{05}{05}{05}
+@37
+Now we go to kill Yoshimoto!\nLag behind and shame your line forever!{05}{05}{05}
+@38
+Lord Nobunaga, let us\nform an alliance.{05}{05}{05}
+@39
+Lord Nobunaga, you take the west;\nI will take the east.{05}{05}{05}
+@40
+Y-you jest...\nThat's not what history says!{05}{05}{05}
+@41
+I do not care for war. I would rather live for art than rule.{05}{05}{05}
+@42
+One day, the renowned priest Takugen\nSoon visited Oda Nobunaga, who\nhad taken Mino.{05}{05}{05}
+@43
+Why, Master Soon.\nWhat brings you here?{05}{05}{05}
+@44
+I have carved the seal\nyou asked me for.{05}{05}{05}
+@45
+Oh,\nthe seal I asked for?{05}{05}{05}
+@46
+Nobunaga took the seal from Soon\nand pressed it onto paper.{05}{05}{05}
+@47
+"Tenka Fubu"... the realm by force\nof arms. Truly excellent!{05}{05}{05}
+@48
+From this land as a foothold,\nI shall bring the realm to order.{05}{05}{05}
+@49
+Then why not take this chance\nto rename this place?{05}{05}{05}
+@50
+Oh, a new name?\nIt may be a fine opportunity.{05}{05}{05}
+@51
+Then have you a good name\nworthy of this land?{05}{05}{05}
+@52
+After King Wen of Zhou,\nhow about "Gifu"?{05}{05}{05}
+@53
+Oh, a fitting name for\nbringing the realm under arms!{05}{05}{05}
+@54
+I am honored that\nit pleases you.{05}{05}{05}
+@55
+True to the Tenka Fubu seal I\nreceived today and the name Gifu,{05}{05}{05}
+@56
+I will surely bring\nthe realm to order!{05}{05}{05}
+@57
+And so, by Nobunaga's resolve,\nInabayama Castle was renamed\nGifu Castle.{05}{05}{05}
+@58
+Oda Nobunaga renamed Inabayama Castle\nas Gifu Castle.{05}{05}{05}
+@59
+From this foothold, Nobunaga\naims to rise still higher.{05}{05}{05}
+@60
+Mori Motonari's sons met at his castle after many years.{05}{05}{05}
+@61
+Heir Takamoto, Kikkawa Motoharu and Kobayakawa Takakage.{05}{05}{05}
+@62
+Adopted out, Motoharu and Takakage had grown distant.{05}{05}{05}
+@63
+It has been a long time since\nfather and sons were all together.{05}{05}{05}
+@64
+Father, why have you\ngathered us brothers?{05}{05}{05}
+@65
+Hm, today I have something\nimportant to tell you.{05}{05}{05}
+@66
+Takamoto, Motoharu, Takakage,\ntry to break this arrow.{05}{05}{05}
+@67
+Motonari handed each of\nhis sons a single arrow.{05}{05}{05}
+@68
+This is nothing.{05}{05}{05}
+@69
+Oh, you all broke them.\nThen what about this?{05}{05}{05}
+@70
+So saying, Motonari handed them\na bundle of three arrows.{05}{05}{05}
+@71
+Nngh......{05}{05}{05}
+@72
+Hmmm......{05}{05}{05}
+@73
+Ugh, this is......{05}{05}{05}
+@74
+None of you three can break it.{05}{05}{05}
+@75
+One arrow alone is weak, but\nthree bound together are strong.{05}{05}{05}
+@76
+If the Mori clan weakens, other\nhouses will fall into disorder too.{05}{05}{05}
+@77
+Motoharu, Takakage, aid Takamoto and make the Mori thrive.{05}{05}{05}
+@78
+Yes, Father.{05}{05}{05}
+@79
+I will do my utmost.{05}{05}{05}
+@80
+I am fortunate to have\nsuch dependable brothers.{05}{05}{05}
+@81
+So Motonari united his family and made the Mori strong.{05}{05}{05}
+@82
+The loyalty of Takamoto, Motoharu\nand Takakage is now 100.{05}{05}{05}
+@83
+Oda Nobunaga was celebrating\nthe New Year with his retainers.{05}{05}{05}
+@84
+Our might now resounds\nacross the realm!{05}{05}{05}
+@85
+And so I wish to show my power\nand my resolve even further.{05}{05}{05}
+@86
+Power and resolve...\nAnd how?{05}{05}{05}
+@87
+Hm! I will build the finest\ncastle in Japan in Omi!{05}{05}{05}
+@88
+Oh!\nWhat a fine idea!{05}{05}{05}
+@89
+This needs 2000 gold.\nCarry it out?{05}{05}{05}
+@90
+Good! Then begin building\nat once!{05}{05}{05}
+@91
+The Oda clan has begun building\na castle in Omi.{05}{05}{05}
+@92
+Hmm, a pity, but with our\nfunds now it is too hard.{05}{05}{05}
+@93
+The Oda clan seems to have begun\nbuilding a castle in Omi.{05}{05}{05}
+@94
+The castle in Omi is finished?\nShow me around at once!{05}{05}{05}
+@95
+Hm, splendid!\nTruly the finest castle in Japan!{05}{05}{05}
+@96
+From "a land of peace and joy," I name\nthis castle Azuchi!{05}{05}{05}
+@97
+And so, with Azuchi Castle built,\nthe Oda clan's power and resolve\nwere shown to the realm.{05}{05}{05}
+@98
+The Oda clan has completed\nAzuchi Castle in Omi.{05}{05}{05}
+@99
+The castle building in Omi\nhas been halted.{05}{05}{05}
+@100
+Tch, our retreat is cut off...\nSo this is the end......{05}{05}{05}
+@101
+But I, Hisahide,\nwill not die for nothing.{05}{05}{05}
+@102
+This will be my gift\nto take to hell.{05}{05}{05}
+@103
+So saying, Matsunaga Hisahide began\npacking explosives into the Hiragumo\nkettle, dearer to him than life.{05}{05}{05}
+@104
+A tea party with the demons\nof hell would be amusing!{05}{05}{05}
+@105
+With those last words, Hisahide lit\nthe Hiragumo kettle and vanished\nin a great explosion.{05}{05}{05}
+@106
+Matsunaga Hisahide, the very image of\nthe low toppling the high, blew himself\nup clutching the finest tea kettle.{05}{05}{05}
+@107
+Dying in an explosion with the Hiragumo\nkettle in his arms was the first such\nflashy end recorded in Japan...{05}{05}{05}
+@108
+Having destroyed many foes, Oda\nNobunaga was the man most likely to\nwin the realm, famed across the land.{05}{05}{05}
+@109
+One day, with only a few\nattendants, Nobunaga\nlodged at Honnoji.{05}{05}{05}
+@110
+My, my, dealing with those\ncourtiers is no easy task.{05}{05}{05}
+@111
+Tonight we drop all formality.\nRelax, everyone.{05}{05}{05}
+@112
+Father, do not let it\naffect tomorrow's march.{05}{05}{05}
+@113
+Do not worry.\nI know what I'm about.{05}{05}{05}
+@114
+Well then,\nI shall dance.{05}{05}{05}
+@115
+Father,\n"Atsumori"?{05}{05}{05}
+@116
+...Man's fifty years, beside the realm below heaven...{05}{05}{05}
+@117
+...Once born into this world,\nwhat being does not perish...{05}{05}{05}
+@118
+The feast that ran late into the\nnight was over, and Nobunaga went\nto sleep. After a while...{05}{05}{05}
+@119
+...Hm? What is that noise?\n......What is this!?{05}{05}{05}
+@120
+My lord!\nTerrible news!{05}{05}{05}
+@121
+Honnoji is surrounded\nby soldiers!{05}{05}{05}
+@122
+And the crest on their banners?{05}{05}{05}
+@123
+Th-the bellflower crest,\nmy lord.{05}{05}{05}
+@124
+Wahahaha!\nSo it is Mitsuhide!?{05}{05}{05}
+@125
+If anyone in my house would stand\nin my way, I thought it would be him.{05}{05}{05}
+@126
+It cannot be helped...{05}{05}{05}
+@127
+There were only a few hundred men at\nHonnoji. Nobunaga fought hard, but\nit could not turn the tide.{05}{05}{05}
+@128
+And so, with the realm almost in his\ngrasp, Oda Nobunaga vanished into\nthe raging flames of Honnoji.{05}{05}{05}
+@129
+Meanwhile, at Myokakuji,\nwhere he was staying,\nOda Nobutada...{05}{05}{05}
+@130
+The Akechi army has attacked\nHonnoji!? Father...{05}{05}{05}
+@131
+Curse you, Mitsuhide!!\nTo Honnoji at once!{05}{05}{05}
+@132
+But Oda Nobutada could not withstand\nthe Akechi onslaught and was forced\nto take his own life......{05}{05}{05}
+@133
+Many thought the genius Nobunaga would end the age of war...{05}{05}{05}
+@134
+But once again Japan was about to be\ndrawn into a whirlpool of war.{05}{05}{05}
+@135
+The Oda clan has split apart.\nChoose the daimyo you will\ncontinue to play.{05}{05}{05}
+@136
+Akechi Mitsuhide seems to have\nrebelled against Oda Nobunaga and\nattacked him at Honnoji.{05}{05}{05}
+@137
+Oda Nobunaga took his own life, and\nthe leaderless Oda clan has split.{05}{05}{05}
+@138
+When Date Masamune marched into\nAshina lands, Nihonmatsu Yoshitsugu,\nan Ashina ally, sued for peace.{05}{05}{05}
+@139
+But Masamune refused. At his wits' end,\nYoshitsugu asked Masamune's father,\nTerumune, to intercede.{05}{05}{05}
+@140
+Terumune visited Masamune where he was resting his troops.{05}{05}{05}
+@141
+Father, what brings you\nall the way here?{05}{05}{05}
+@142
+Masamune, there is something\nI must ask of you.{05}{05}{05}
+@143
+What is it, Father?{05}{05}{05}
+@144
+I once owed a great debt\nto Lord Yoshitsugu.{05}{05}{05}
+@145
+For my sake, will you not\nlet Lord Yoshitsugu go?{05}{05}{05}
+@146
+Pardon Nihonmatsu Yoshitsugu?{05}{05}{05}
+@147
+I cannot refuse my father's\nrequest. Let us make peace.{05}{05}{05}
+@148
+Even Masamune could not defy his\nfather's words, and so he\naccepted the peace.{05}{05}{05}
+@149
+And so, I have come to\nterms with Masamune.{05}{05}{05}
+@150
+Oh, thank you!\nI owe it all to you, Lord Terumune.{05}{05}{05}
+@151
+Haha, though he is my own son,\nMasamune has the temper of a lion.{05}{05}{05}
+@152
+Once he is angry, even I\ncannot control him.{05}{05}{05}
+@153
+Hm, indeed.{05}{05}{05}
+@154
+It is strange that I was\npardoned like this......{05}{05}{05}
+@155
+Could this be a trap\nto put me off my guard?{05}{05}{05}
+@156
+Haha, surely you are\nthinking too much.{05}{05}{05}
+@157
+No, with that Masamune,\nit is quite possible!{05}{05}{05}
+@158
+Knowing Masamune's temper,\nYoshitsugu feared his shadow\nand lost his composure.{05}{05}{05}
+@159
+I will not be killed\nlike this without a fight.{05}{05}{05}
+@160
+Then I will take you hostage\nand make my escape!{05}{05}{05}
+@161
+On hearing that Yoshitsugu had seized\nTerumune and was fleeing Date lands,\nMasamune gave chase at once.{05}{05}{05}
+@162
+As Yoshitsugu was about to cross the\nAbukuma River at the border,\nMasamune's army caught up.{05}{05}{05}
+@163
+Stay back! One step closer\nand I cut Terumune down!{05}{05}{05}
+@164
+You cur! Using the man who\nsaved your life as a shield!{05}{05}{05}
+@165
+You are in no position to\nlecture me on honor!{05}{05}{05}
+@166
+They hurled insults at each other,\nbut neither could move.\nThen Terumune spoke.{05}{05}{05}
+@167
+What are you doing, Masamune!\nNever mind me, shoot!{05}{05}{05}
+@168
+But......{05}{05}{05}
+@169
+Do not hesitate\nover such a thing!{05}{05}{05}
+@170
+Ngh, Father......!{05}{05}{05}
+@171
+Masamune...\nI leave the rest to you......{05}{05}{05}
+@172
+Fire!{05}{05}{05}
+@173
+At Masamune's roaring command,\nhundreds of bullets poured\ndown like rain......{05}{05}{05}
+@174
+And so Date Terumune met\na harrowing end.{05}{05}{05}
+@175
+Before the body of his father\nTerumune, Date Masamune vowed\nto become even mightier.{05}{05}{05}
+@176
+......Even at your request, Father,\nthis I cannot yield.{05}{05}{05}
+@177
+If I pardon Yoshitsugu now,\nour enemies from now on{05}{05}{05}
+@178
+will grow arrogant, thinking\nthey will be spared if they yield.{05}{05}{05}
+@179
+I see......\nThen it cannot be helped.{05}{05}{05}
+@180
+Knowing the danger of being swayed\nby sentiment, Masamune refused\nhis father's request.{05}{05}{05}
+@181
+Masamune refused peace and\ntook Nihonmatsu Castle.{05}{05}{05}
+@182
+And so, the world learned how ruthless\nDate Masamune could be, and people came\nto fear him as the "One-Eyed Dragon."{05}{05}{05}
+@183
+Date Terumune died after being seized by Nihonmatsu Yoshitsugu.{05}{05}{05}
+@184
+After Terumune's death, the Date clan\nsplit between those backing the head,\nMasamune, and his brother Kojiro.{05}{05}{05}
+@185
+One day, Masamune's mother,\nLady Yoshi, invited him to a meal\nfor the first time in a long while.{05}{05}{05}
+@186
+Busy with government since his father's\ndeath, he had had no time with his\nmother. He gladly accepted.{05}{05}{05}
+@187
+Thank you for inviting\nme today.{05}{05}{05}
+@188
+Thank you for coming,\nbusy as you are.{05}{05}{05}
+@189
+Today it is just mother and son,\nfor the first time in so long. Relax.{05}{05}{05}
+@190
+Masamune enjoyed the time with his mother and the meal.{05}{05}{05}
+@191
+Since Father died, I have made\nyou lonely, Mother.{05}{05}{05}
+@192
+Masamune......{05}{05}{05}
+@193
+From now on I will cherish\nthe time with you......{05}{05}{05}
+@194
+Gah...... what is......\nwh...... what......{05}{05}{05}
+@195
+Suddenly writhing in agony,\nMasamune collapsed and\nknocked over the tray.{05}{05}{05}
+@196
+Hearing the noise, retainers\ncame rushing in.{05}{05}{05}
+@197
+Mo...... Mother......\nwh...... why{05}{05}{05}
+@198
+......{05}{05}{05}
+@199
+The retainers carried the suffering Masamune inside.{05}{05}{05}
+@200
+For three days and nights Masamune\nhovered between life and death,\nbut somehow he survived.{05}{05}{05}
+@201
+There is no doubt that Mother\nwas behind this.{05}{05}{05}
+@202
+A plot to make\nKojiro head of the clan......{05}{05}{05}
+@203
+Those kind eyes that day, that smile...\nto think it was all a lie...{05}{05}{05}
+@204
+Being poisoned by his own mother,\nLady Yoshi, forced Masamune\nto make another decision.{05}{05}{05}
+@205
+So as long as Kojiro lives,\nthere will be no end to strife......{05}{05}{05}
+@206
+Masamune finally made a decision\non the problem he had put off\nall this time.{05}{05}{05}
+@207
+And so Kojiro, Masamune's own\nyounger brother, met a tragic\nend at his brother's hand.{05}{05}{05}
+@208
+But Masamune could not bring\nhimself to harm his mother,{05}{05}{05}
+@209
+and he sent her back to her\nfamily, the Mogami clan.{05}{05}{05}
+@210
+Mother......{05}{05}{05}
+@211
+With Masamune's decision, the Date\nclan's family strife was settled\nand its unity grew firm.{05}{05}{05}
+@212
+Ishida Mitsunari, Otani Yoshitsugu and others came to tea.{05}{05}{05}
+@213
+Then, if I may go first...\n...Ah!{05}{05}{05}
+@214
+Lord Yoshitsugu,\nwhat is wrong?{05}{05}{05}
+@215
+F-forgive me.{05}{05}{05}
+@216
+My nose dripped\ninto the tea......{05}{05}{05}
+@217
+No one noticed.\nCome, pass the bowl.{05}{05}{05}
+@218
+B-but, Lord Mitsunari!{05}{05}{05}
+@219
+Surely you know of\nmy illness?{05}{05}{05}
+@220
+That...?\nIt is of no matter.{05}{05}{05}
+@221
+Lord Mitsunari!{05}{05}{05}
+@222
+...Lord Yoshitsugu, you once\nsaid this to me:{05}{05}{05}
+@223
+"Money does not move people.\n Unless you treat them{05}{05}{05}
+@224
+ with sincerity, however\n great a stipend you give,{05}{05}{05}
+@225
+ they will be of no use\n when it matters."{05}{05}{05}
+@226
+Ever since I heard those words,\nI have resolved that for you,{05}{05}{05}
+@227
+Lord Yoshitsugu, I would\ngladly give my life.{05}{05}{05}
+@228
+Then...{05}{05}{05}
+@229
+Without a moment's hesitation,\nMitsunari drained the tea\ninto which Yoshitsugu's nose had dripped.{05}{05}{05}
+@230
+...I am deeply moved by\nyour heart, Lord Mitsunari.{05}{05}{05}
+@231
+For you, Lord Mitsunari, I would gladly lay down my life.{05}{05}{05}
+@232
+Lord Yoshitsugu...{05}{05}{05}
+@233
+From that day on, the bond between\nIshida Mitsunari and Otani Yoshitsugu\ngrew ever stronger and firmer.{05}{05}{05}
+@234
+One day, {02}{05}d\nlooked down over the castle town,\nlost in thought.{05}{05}{05}
+@235
+Most of the land is now\nin my hands......{05}{05}{05}
+@236
+But force of arms alone cannot\nbring an age of war to order.{05}{05}{05}
+@237
+Is it time to found a shogunate and show my authority?{05}{05}{05}
+@238
+Become Seii Taishogun and\nfound a shogunate?{05}{05}{05}
+@239
+{02}{05}d has founded\na new shogunate.{05}{05}{05}
+@240
+From this day, I am\nSeii Taishogun!{05}{05}{05}
+@241
+Hear me, all of you!{05}{05}{05}
+@242
+To end this age of war, I expect\nyour service to be all the greater!{05}{05}{05}
+@243
+Culture in {02}{01}d lands has risen, and so has loyalty.{05}{05}{05}
+@244
+No! Bound by the old power{05}{05}{05}
+@245
+called the shogun, we would\nonly repeat history's folly.{05}{05}{05}
+@246
+I will forge my path to\nsupremacy with my own hands.{05}{05}{05}
+@247
+One day an envoy came to\n{02}{05}d, who had taken\nKyushu in hand.{05}{05}{05}
+@248
+Your work is splendid.\nWe expect much of you.{05}{05}{05}
+@249
+Yes, my lord!{05}{05}{05}
+@250
+We therefore appoint you\nKyushu Tandai.{05}{05}{05}
+@251
+It is a great charge: to\ngovern all of Kyushu.{05}{05}{05}
+@252
+Sir, I will spare\nno effort.{05}{05}{05}
+@253
+{02}{05}d has been appointed\nKyushu Tandai.{05}{05}{05}
+@254
+Shogun {02}{05}d calls for {02}{06}d's head.{05}{05}{05}
+@255
+Lord {02}{06}d, envoy of\nthe shogun, Lord {02}{05}d,\nhas arrived.{05}{05}{05}
+@256
+{02}{06}d is a traitor to the shogun. Strike him!{05}{05}{05}
+@257
+Will you accept?{05}{05}{05}
+@258
+The shogun, Lord {02}{06}d,\nwill surely be pleased.{05}{05}{05}
+@259
+{02}{07}d!\nYou are a traitor too!{05}{05}{05}
+@260
+{01}I{02}{12}{04}=0Amity with the shogun's {02}{05}e\nclan is now {02}{11}.{05}{05}{05}Shogun's {02}{05}e clan amity: {02}{11} (+{02}{12}).{05}{05}{05}
+@261
+{01}I{02}{12}{04}=0Amity with the {02}{05}e clan\nis now {02}{11}.{05}{05}{05}Amity with the {02}{05}e clan\nfell to {02}{11} (-{02}{12}).{05}{05}{05}
+@262
+Amity with the shogun's {02}{05}e clan\nand other daimyo has fallen.{05}{05}{05}
+@263
+{02}{05}d's %s is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@264
+From now on, {02}{05}d will\nhead the {02}{01}d clan.{05}{05}{05}
+@265
+From now on, {02}{05}d will succeed.{05}{05}{05}
+@266
+The {02}{01}d clan has fallen.{05}{05}{05}
+@267
+{01}I{02}{09}-{04}=1Making{05}{05}{05}{01}I{02}{09}{1C}{04}<300Low Tech{05}{05}{05}OK{05}{05}{05}
+@268
+{01}I{02}{09},{04}>0Making{05}{05}{05}{01}I{02}{09},{04}=0{06}&{02}{09}.{04}=1Built{05}{05}{05}{01}I{02}{09}{16}{04}=1No sea{05}{05}{05}{01}I{02}{09}{1C}{04}<600Low Tech{05}{05}{05}OK{05}{05}{05}
+@269
+=
+@270
+Tech in {02}{09}d rose: new technique "%s".{05}{05}{05}
+@271
+In neighboring {02}{09}d, Tech has\nrisen, and the technique "%s"\nseems to have been developed.{05}{05}{05}
+@272
+Culture in {02}{09}d is\nas high as it can be.{05}{05}{05}
+@273
+{02}{09}d's culture effect,\n"{01}CK{00}", now spreads\nacross all {02}{09}#d lands.{05}{05}{05}
+@274
+In neighboring {02}{09}d,\nculture is as high\nas it can be.{05}{05}{05}
+@275
+{02}{09}d's culture effect,\n"{01}CK{00}", will likely spread\nacross all {02}{09}#d lands.{05}{05}{05}
+@276
+Culture in {02}{09}d\nis rising.{05}{05}{05}
+@277
+{02}{09}d's own culture effect,\n"{01}CK{00}",\nhas blossomed.{05}{05}{05}
+@278
+In neighboring {02}{09}d,\nculture is rising.{05}{05}{05}
+@279
+{02}{09}d's own culture effect,\n"{01}CK{00}",\nseems to have blossomed.{05}{05}{05}
+@280
+Saving. Do not turn off\nthe power or remove the\nGame Card.{05}{05}{05}
+@281
+Saved.{05}{05}{05}
+@282
+Save here.\nIs that all right?{05}{05}{05}
+@283
+Overwrite this save.\nIs that all right?{05}{05}{05}
+@284
+Load this data.\nIs that all right?{05}{05}{05}
+@285
+{1B}C6Message Speed{1B}C1\n　Choose Normal or Wait.\n　\n　On Wait, messages stay on screen until you press a button.{05}{05}{05}
+@286
+{1B}C6Music{1B}C1\n　Change the music volume.\n　{05}{05}{05}
+@287
+{1B}C6Sound Effects{1B}C1\n　Change the sound effect volume.\n　{05}{05}{05}
+@288
+Hand your daimyo to the computer.\nIn demo play you cannot see\nthe ending.{05}{05}{05}
+@289
+Hand your daimyo to the computer\nand switch to demo play?{05}{05}{05}
+@290
+Quit the game.\nIs that all right?{05}{05}{05}
+@291
+Quit Clash of Warlords.\nIs that all right?{05}{05}{05}
+@292
+There is no data to load.{05}{05}{05}
+@293
+You have not obtained any SP officers.{05}{05}{05}
+@294
+There are no SP officers who can appear.{05}{05}{05}
+@295
+The Onin War spread across the land;\nthe Muromachi shogunate lost its power,\nand the realm was again engulfed in war.{05}{05}{05}
+@296
+Amid battle after battle, men emerged\nwho rose above the rest and sought\nto claim mastery of the realm.{05}{05}{05}
+@297
+Takeda Shingen, who beat Murakami Yoshikiyo\nof Shinano and took vast lands; Miyoshi\nNagayoshi, master of the capital region...{05}{05}{05}
+@298
+In the west, Otomo Sorin made northern\nKyushu his own, while Mori Motonari\nsteadily built up his strength.{05}{05}{05}
+@299
+In the Tokai, the Imagawa held sway, and\nOda Nobunaga, later hailed as a hero,\nwas still just a minor daimyo.{05}{05}{05}
+@300
+The fate of the realm was\nstill in chaos...{05}{05}{05}
+@301
+The year before, Imagawa Yoshimoto had\nmarched into Owari with a vast army,\nonly to fall to Oda Nobunaga at Okehazama.{05}{05}{05}
+@302
+Yoshimoto's death shook the warlords\nand set loose the young eagle of\nMikawa, Tokugawa Ieyasu, into the sky.{05}{05}{05}
+@303
+The spark of unifying the realm became\na flame among the ambitious warlords,\nkindling new wars.{05}{05}{05}
+@304
+Uesugi Kenshin advanced into the Kanto;\nTakeda Shingen, at the Hojo's request,\nbuilt a castle at Kawanakajima.{05}{05}{05}
+@305
+In the west, Mori Motonari killed\nSue Harukata at Itsukushima and resolved\nto destroy the Amago of Izumo.{05}{05}{05}
+@306
+Sleeping dragons who dream of the realm\nare now about to take flight.{05}{05}{05}
+@307
+The Miyoshi killed Ashikaga Yoshiteru;\nhis brother Yoshiaki fled Kyoto and took\nrefuge with the rising Oda.{05}{05}{05}
+@308
+Backing Yoshiaki, Nobunaga marched on\nKyoto, drove out the Rokkaku and Miyoshi,\nand held the capital in just half a year.{05}{05}{05}
+@309
+But Yoshiaki, who wished to restore the\nshogunate, clashed with Nobunaga, who\nsought a new order. A new war brewed.{05}{05}{05}
+@310
+Spurred by Yoshiaki's call to arms,\nopposition to Nobunaga grew everywhere,\nand the flames of war burned fiercer.{05}{05}{05}
+@311
+His brother-in-law Azai Nagamasa's betrayal,\nMori pressure, Miyoshi and Asakura attacks,\nthe Ishiyama Honganji's resistance, and...{05}{05}{05}
+@312
+Takeda Shingen, with the cavalry hailed as\nthe mightiest of the age, marches on Kyoto.\nThe battle to decide the true master begins.{05}{05}{05}
+@313
+"Nobunaga has died at Honnoji..." Betrayed\nby his chief retainer Akechi Mitsuhide,\nNobunaga and his heir Nobutada were slain.{05}{05}{05}
+@314
+The sudden death of the absolute lord and\nhis heir threw the Oda generals into\nconfusion... but Mitsuhide's rule was short.{05}{05}{05}
+@315
+Facing the Mori, Hashiba Hideyoshi raced\nback from Bitchu to Kyoto like a gale,\ncaught Mitsuhide off guard and avenged his lord.{05}{05}{05}
+@316
+Hideyoshi gradually revealed his ambition\nfor the realm, clashing with Shibata Katsuie,\nwho wished the Oda clan to survive.{05}{05}{05}
+@317
+And so the realm fell into chaos again...\nThe Chosokabe set out to unify Shikoku,\nand the Shimazu swept across Kyushu.{05}{05}{05}
+@318
+And Tokugawa Ieyasu, the late-blooming eagle,\nwas spreading his wings in Mikawa.\nThe age of war was seeking its master...{05}{05}{05}
+@319
+In an age of war at its most chaotic, many\nheroes shone like the sun and showed the\nway like the moon...{05}{05}{05}
+@320
+From the past: the Viper, Saito Dosan,\nTakeda Shingen, the Tiger of Kai, and the\nmatchless schemer Mori Motonari...{05}{05}{05}
+@321
+And later: the demon Shima Sakon, the\nOne-Eyed Dragon Date Masamune, and\nthe peerless Sanada Yukimura...{05}{05}{05}
+@322
+With Nobunaga, Hideyoshi and Ieyasu,\nwarlords gather across time for a\ngreat battle for the realm!{05}{05}{05}
+@323
+Having escaped the greatest crisis of his\nlife, the coalition against him, Oda Nobunaga\npressed on toward ruling the realm by arms.{05}{05}{05}
+@324
+On good terms with the court, Nobunaga\nquelled the wars in the blink of an eye,\ncalled himself the Demon King and ruled all.{05}{05}{05}
+@325
+The Demon King Nobunaga carried out great\nreforms, moving every daimyo to new lands\nand sweeping away the old order.{05}{05}{05}
+@326
+For a time, the realm seemed at peace...\nBut under the Demon King Nobunaga,\nthat peace did not last long.{05}{05}{05}
+@327
+Anger at his tyrannical reforms erupted!\nThe daimyo of the land rose in revolt as one,\nand the realm was torn apart once more...{05}{05}{05}

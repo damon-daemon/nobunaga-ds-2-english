@@ -1,0 +1,394 @@
+@0
+They say Rokkaku Yoshiharu next door in Iga is after Omi... Nagamasa, wh-what do we do!?{05}{05}{05}
+@1
+Calm down! First, let's gather information on the Rokkaku.{05}{05}{05}
+@2
+I-information!? What's that? Will that save us!?{05}{05}{05}
+@3
+...I said calm down... View another province on the strategy screen, and you get this.{05}{05}{05}
+@4
+Wh-what is this... I can't make out a thing! Nagamasa!{05}{05}{05}
+@5
+For details like other provinces' troops and officers' skills, use {1B}C3[Spy]{1B}C1 under {1B}C3[Diplomacy]{1B}C1.{05}{05}{05}
+@6
+Just this once, I'll use my secret art to spy on them in an instant...{05}{05}{05}
+@7
+Hnnnraaah!{05}{05}{05}
+@8
+Huff, huff, cough cough... ...How's that, Father... ugh...{05}{05}{05}
+@9
+I-impressive, yes... but best not use that art again... Now, the information...{05}{05}{05}
+@10
+...140 troops! More than we have!{05}{05}{05}
+@11
+What! To think they gathered so many...{05}{05}{05}
+@12
+If we fight a foe this big, I worry others will strike while we're busy. I'd like some ally to rely on.{05}{05}{05}
+@13
+Hm, an ally would be nice... What should we do?{05}{05}{05}
+@14
+...First, send {1B}C3[Tribute]{1B}C1 to raise amity with clans who dislike us, then propose an {1B}C3[Alliance]{1B}C1!{05}{05}{05}
+@15
+...Oh... As for allies, I have a fine one in mind.{05}{05}{05}
+@16
+Wh-who would that be? (...I have a bad feeling...){05}{05}{05}
+@17
+Lord Yoshikage, head of the noble Asakura! We're friends, so no tribute needed... He's ever so good at kemari!{05}{05}{05}
+@18
+...I'll leave this to you, Father. (The Asakura... noble, yes, but their future worries me...){05}{05}{05}
+@19
+You'll go yourself this time, but normally it's safer to leave {1B}C3[Tribute]{1B}C1 and {1B}C3[Alliance]{1B}C1 to someone with high Politics.{05}{05}{05}
+@20
+Now choose {1B}C3[Alliance]{1B}C1 under {1B}C3[Diplomacy]{1B}C1 and go propose an alliance to Lord Asakura Yoshikage yourself.{05}{05}{05}
+@21
+Father... Please do as Nagamasa says!{05}{05}{05}
+@22
+Father!! The ally is Lord Asakura Yoshikage!{05}{05}{05}
+@23
+Didn't I say I'd leave it to you?{05}{05}{05}
+@24
+Nagamasa, Lord Yoshikage agreed to the alliance.{05}{05}{05}
+@25
+Well done, Father. Now there's far less fear of the Asakura attacking us.{05}{05}{05}
+@26
+Ha ha, Lord Yoshikage would never attack me. He'll surely send a {1B}C3joint army{1B}C1, too.{05}{05}{05}
+@27
+Indeed, he's now more likely to answer {1B}C3[Joint]{1B}C1 or calls for aid when we're attacked!{05}{05}{05}
+@28
+Though in this lawless age, alliances can be broken with {1B}C3[Break]{1B}C1... ...What a dishonorable world...!{05}{05}{05}
+@29
+N-now, now... ...So, what about the Rokkaku?{05}{05}{05}
+@30
+...I don't care for such methods, but you can use {1B}C3[Rumor]{1B}C1 to lower Iga's order and weaken it with revolts,{05}{05}{05}
+@31
+use {1B}C3[Betray]{1B}C1 to get disloyal men to switch sides in battle...{05}{05}{05}
+@32
+or use {1B}C3[Hostile]{1B}C1 to sour the Rokkaku's ties with their neighbors...{05}{05}{05}
+@33
+...Well, er... I'll leave that to you, Nagamasa!{05}{05}{05}
+@34
+Oh... So you don't care to defend Omi, Father?{05}{05}{05}
+@35
+N-no, not at all... I'll help...{05}{05}{05}
+@36
+Yes, let's do our best together! (...Well, those commands may be hard for Father...){05}{05}{05}
+@37
+Form an alliance with the Asakura{05}{05}{05}
+@38
+We're allied with the Asakura... He who strikes first wins: let's attack the Rokkaku!{05}{05}{05}
+@39
+Oh, I see! Go get 'em, go get 'em~{05}{05}{05}
+@40
+We'll do our best together, yes?{05}{05}{05}
+@41
+Y-yes...{05}{05}{05}
+@42
+By the way, there are two things to do before battle... but I doubt you know them, Father...{05}{05}{05}
+@43
+{1B}C3[Train]{1B}C1 and {1B}C3[Make]{1B}C1, isn't it?{05}{05}{05}
+@44
+C-correct...!{05}{05}{05}
+@45
+High {1B}C3training{1B}C1 makes troops stronger in battle and surprise attacks likelier to work,{05}{05}{05}
+@46
+and {1B}C3[Make]{1B}C1 works when tech is high, making guns and ironclads to help in battle!{05}{05}{05}
+@47
+A fine answer, Father! Training drops when you conscript, so do it often.{05}{05}{05}
+@48
+Yes, I picked up a memo you wrote in the hall just now, so I'm fine!{05}{05}{05}
+@49
+...I thought it was missing... So that's how you knew...{05}{05}{05}
+@50
+No worries about training or guns... Shall we attack now?{05}{05}{05}
+@51
+Well... normally, calling for aid with {1B}C3[Joint]{1B}C1 under {1B}C3[Military]{1B}C1 helps too, but...{05}{05}{05}
+@52
+Even Lord Yoshikage can't come all the way from Echizen to Iga...{05}{05}{05}
+@53
+You can only ask daimyo next to the province where the battle is.{05}{05}{05}
+@54
+Now, when you order a battle and choose the province to attack, you get this screen.{05}{05}{05}
+@55
+Here you choose the officers, troops and unit types to send.{05}{05}{05}
+@56
+This shows the supplies in the castle. Put soldiers in units, and of course the troop count here drops.{05}{05}{05}
+@57
+What's this? All gray, how dreary...{05}{05}{05}
+@58
+This is the number of officers with each {1B}C3talent{1B}C1; every two give an effect.{05}{05}{05}
+@59
+Officers added by a joint army, or lost when units are beaten, don't change the effect, so rest easy!{05}{05}{05}
+@60
+Um... So gather two officers with the same talent and the army gets stronger?{05}{05}{05}
+@61
+Exactly! Try to send officers who share a talent.{05}{05}{05}
+@62
+For unit types, see the top screen.{05}{05}{05}
+@63
+{1B}C6Unit Types{1B}C1{05}{05}{05}
+@64
+{1B}C4Ashigaru{1B}C1... Standard troops\n　　　Can switch to bow units\n{1B}C4Cavalry{1B}C1... Fast, but can't climb walls\n　　　Powerful charge attacks\n　　　Needs 1 gold per soldier\n{1B}C4Guns{1B}C1... Can fire guns\n　　　Linked attacks when adjacent\n　　　Can switch to cannons\n　　　Needs 1 gun per soldier{05}{05}{05}
+@65
+I hear cavalry and guns are strong... but they don't come free...{05}{05}{05}
+@66
+On sea or lake, whatever the type, units with ironclads use them... the rest become small boats.{05}{05}{05}
+@67
+Ironclads can fire cannons on the water. On water, they're truly unmatched!{05}{05}{05}
+@68
+Right, got it! Then let's go...{05}{05}{05}
+@69
+Not so fast! We haven't chosen tactics, the most important thing in battle!{05}{05}{05}
+@70
+T-tactics... What are those...{05}{05}{05}
+@71
+Special commands you can use just 3 times per battle! You set them on the next screen.{05}{05}{05}
+@72
+There are many kinds of tactics: raising mobility or attack, switching to bows or cannons...{05}{05}{05}
+@73
+Their power is tremendous! One can turn the tide of battle!{05}{05}{05}
+@74
+I-I see... ...Hm? What's this...{05}{05}{05}
+@75
+It says techniques here! So the techniques I got by raising tech are useful here?{05}{05}{05}
+@76
+Exactly! Choose tactics with your techniques and unit types in mind.{05}{05}{05}
+@77
+Ah, but of the 6 tactics, the 3 you start with can't be changed, so please bear that in mind...{05}{05}{05}
+@78
+I'll keep that in mind... ...So, once tactics are set, it's finally battle?{05}{05}{05}
+@79
+Yes, now you can set out. ...That ran a bit long. Did you follow it?{05}{05}{05}
+@80
+I may feel like I may not quite not have followed it!{05}{05}{05}
+@81
+(...Which is it...){05}{05}{05}
+@82
+Well, um, you see... No need to learn the details now. You'll soon get used to it!{05}{05}{05}
+@83
+Nagamasa! Th-this is bad! The Rokkaku army is here!{05}{05}{05}
+@84
+At last, battle. Father, are you ready?{05}{05}{05}
+@85
+R-r-ready... how could I be... What do I do on the battlefield?{05}{05}{05}
+@86
+Nagamasa is with you, Father. Please calm down.{05}{05}{05}
+@87
+Hm, true. No use panicking now.{05}{05}{05}
+@88
+...Battles have victory conditions. Please see the top screen.{05}{05}{05}
+@89
+{1B}C6Victory Conditions{1B}C1{05}{05}{05}
+@90
+{1B}C4<Attacker wins if>{1B}C1\n1. Enemy commander beaten or retreats\n2. Enemy accepts a demand (siege)\n3. You take the keep (siege)\n{1B}C4<Defender wins if>{1B}C1\n1. Enemy commander beaten or retreats\n2. The turn limit runs out\n　 Field battle: 7 days (56 turns)\n　 Siege: 30 days (30 turns){05}{05}{05}
+@91
+In battle, units with fewer troops act first as the turns go by.{05}{05}{05}
+@92
+When the turn limit passes the defender wins, but field battles and sieges have different limits.{05}{05}{05}
+@93
+In a siege, one turn is a day: 30 days (30 turns).{05}{05}{05}
+@94
+In a field battle, one turn is 3 hours: you fight 7 days (56 turns).{05}{05}{05}
+@95
+Hmm... So we lose if the commander is beaten... ...Wait, that's me!{05}{05}{05}
+@96
+Exactly, Father. Please take care not to be beaten.{05}{05}{05}
+@97
+Now let me explain the top screen.{05}{05}{05}
+@98
+On the left is the attacker, the Rokkaku; on the right the defender, the Azai.{05}{05}{05}
+@99
+It shows food on hand, total troops, and the troops' training and morale.{05}{05}{05}
+@100
+Running out of food lowers morale, so take care.{05}{05}{05}
+@101
+Running out of food... how frightening, just to think of it...{05}{05}{05}
+@102
+Now please look here.{05}{05}{05}
+@103
+This shows how many times you can still use tactics, as I explained before.{05}{05}{05}
+@104
+Hm, we haven't used any, so we still have {1B}C33{1B}C1 left.{05}{05}{05}
+@105
+This is a field battle, so we fight day and night.{05}{05}{05}
+@106
+The enemy may launch a surprise attack in the dark of night. They're not to be taken lightly!{05}{05}{05}
+@107
+For surprise attacks, please see the top screen.{05}{05}{05}
+@108
+{1B}C6Surprise Attacks{1B}C1{05}{05}{05}
+@109
+　In field battles at night or in rain, you\n　can only see squares next to your units.\n　Moving next to an unseen enemy unit\n　can trigger a surprise attack by\n　either side.\n　Which side attacks depends on unit\n　training and the officers' War.\n　The attacker takes almost no damage.{05}{05}{05}
+@110
+I'll stay behind you, Nagamasa, so I'm not ambushed.{05}{05}{05}
+@111
+Please do.{05}{05}{05}
+@112
+It would be bad if you fell to a cavalry charge or gunfire...{05}{05}{05}
+@113
+F-fell...? I don't want to die! I still have lots I want to do!{05}{05}{05}
+@114
+Fear not. I, Nagamasa, will use my cavalry's speed to crush the enemy.{05}{05}{05}
+@115
+Yes, yes, I'm counting on you. Meanwhile I'll have some tea in the rear...{05}{05}{05}
+@116
+...No tea, Father. Wait and build up your mobility.{05}{05}{05}
+@117
+Oh, waiting builds up mobility?{05}{05}{05}
+@118
+If the enemy is about to attack, use that mobility to get away.{05}{05}{05}
+@119
+Y-yes... (I'm glad he cares... but somehow it makes me sad...){05}{05}{05}
+@120
+If you're about to be beaten, choose {1B}C3[Retreat]{1B}C1.{05}{05}{05}
+@121
+Attackers retreat to the province they came from; defenders in the field, into the castle or a neighbor.{05}{05}{05}
+@122
+If you defend a siege and lose, every officer in the castle who didn't fight is captured.{05}{05}{05}
+@123
+...That's terrible...{05}{05}{05}
+@124
+Then don't loaf around. Be prepared at all times.{05}{05}{05}
+@125
+Now, the enemy is closing in. Father! Are you ready!?{05}{05}{05}
+@126
+Not yet!{05}{05}{05}
+@127
+......{05}{05}{05}
+@128
+Phew... The Rokkaku seem to have retreated. Now I can enjoy kemari and tea at last.{05}{05}{05}
+@129
+Father, there's no time for that. Now is the time to strike back!{05}{05}{05}
+@130
+I-I'm going too?{05}{05}{05}
+@131
+Of course! Show your might as daimyo, so no one looks down on the Azai!{05}{05}{05}
+@132
+Y-yes...{05}{05}{05}
+@133
+I'll go with you. With over 120 troops in all, I think we can win.{05}{05}{05}
+@134
+Let's take 30 days' food.{05}{05}{05}
+@135
+Yes, running out of food would be bad.{05}{05}{05}
+@136
+Next, how to choose tactics. Please see the next screen.{05}{05}{05}
+@137
+To set a tactic, you must have the techniques it needs.{05}{05}{05}
+@138
+Setting a tactic takes the techniques it needs from your total. Remove it and they come back.{05}{05}{05}
+@139
+Hm, so techniques aren't used up. I can try all sorts of combinations.{05}{05}{05}
+@140
+Since you're setting out, Omi needs a lord. Someone with high loyalty and Politics is best.{05}{05}{05}
+@141
+Ha ha, leave the castle to Nagamasa and all is well.{05}{05}{05}
+@142
+Ha ha, so you don't mind if Nagamasa stays out of the battle?{05}{05}{05}
+@143
+Ugh... Th-that won't do! I'll make someone else lord...{05}{05}{05}
+@144
+For some reason, many people are supporting us Azai in this battle.{05}{05}{05}
+@145
+Men have gathered, and merchants left us guns and food. It's truly a joy.{05}{05}{05}
+@146
+Did they bring any good tea ware?{05}{05}{05}
+@147
+Of course they didn't...{05}{05}{05}
+@148
+Now's the time to show what you've learned. Form units and choose officers as you like.{05}{05}{05}
+@149
+Now, Father! Please prepare to set out.{05}{05}{05}
+@150
+Father, we won!{05}{05}{05}
+@151
+Yes... I'm not sure how, but it seems we won.{05}{05}{05}
+@152
+Victory is partly luck. This time, the goddess of victory smiled on us.{05}{05}{05}
+@153
+(...Well, this time it was pure chance, no doubt.){05}{05}{05}
+@154
+Ha ha, it's thanks to your teaching, Nagamasa. That's my son!{05}{05}{05}
+@155
+I never thought I'd hear such words from you, Father.{05}{05}{05}
+@156
+Father, to celebrate the win, shall we play kemari together for once?{05}{05}{05}
+@157
+Ah, no... I'm not in the mood... (Nagamasa's terrible at kemari... He's no match...){05}{05}{05}
+@158
+I-is that so... (Odd... He plays kemari all the time...){05}{05}{05}
+@159
+Let us go back. Now you can stand proud as a daimyo, Father.{05}{05}{05}
+@160
+I'm counting on you, Father.{05}{05}{05}
+@161
+Y-yes......{05}{05}{05}
+@162
+To think we lost... Curse the Rokkaku, they'll pay.{05}{05}{05}
+@163
+Well, these things happen. Come, shall we go home and play kemari?{05}{05}{05}
+@164
+If we pull back now, we'll be shamed before the whole realm!{05}{05}{05}
+@165
+Now, now, you did well, Nagamasa. Come, shall we go home and have tea?{05}{05}{05}
+@166
+Father! Please form the army once more!{05}{05}{05}
+@167
+Attack the Rokkaku{05}{05}{05}
+@168
+Father... Please prepare for battle.{05}{05}{05}
+@169
+You must go into battle too, Father!{05}{05}{05}
+@170
+You don't mind if Nagamasa stays out of the battle?{05}{05}{05}
+@171
+Ugh... Th-that won't do.{05}{05}{05}
+@172
+A few more troops... At least 30...{05}{05}{05}
+@173
+Under 100 troops will be hard.{05}{05}{05}
+@174
+Father... won't you take 30 days' food?{05}{05}{05}
+@175
+Father... Let's attack the Rokkaku...{05}{05}{05}
+@176
+Personnel, domestic affairs, battle... I feel I mostly get it... maybe.{05}{05}{05}
+@177
+The rest comes with practice. Once you actually try, it's not that hard.{05}{05}{05}
+@178
+If you get stuck, you can watch the tutorial again, or read the Art of War.{05}{05}{05}
+@179
+Having heard all this... ...I've made up my mind.{05}{05}{05}
+@180
+Such a serious face, for once... What is it?{05}{05}{05}
+@181
+I shall retire and leave the Azai to you, Nagamasa!{05}{05}{05}
+@182
+Wh... WHAT!?{05}{05}{05}
+@183
+It's all yours now, Nagamasa. Do your best!{05}{05}{05}
+@184
+...Father, don't tell me... ...it got too bothersome?{05}{05}{05}
+@185
+...............gulp{05}{05}{05}
+@186
+W-well, look, with the Asakura's help we'll manage!{05}{05}{05}
+@187
+...Y-yes... (Betraying the Asakura would be dishonorable... but are they worth relying on now...?){05}{05}{05}
+@188
+(Really, I'd rather rely on the rising Oda...){05}{05}{05}
+@189
+Hm, what is it, Nagamasa? Is the weight of leading the clan crushing you?{05}{05}{05}
+@190
+No, I was wondering what to do with the Omi someone so carelessly dumped on me.{05}{05}{05}
+@191
+I-I'll help properly, all right...{05}{05}{05}
+@192
+Oh, well... Now that you've said it, I'll hold you to helping properly!{05}{05}{05}
+@193
+Accounts differ as to why, but Hisamasa did hand the clan to the young Nagamasa.{05}{05}{05}
+@194
+In history, Nagamasa's sense of honor met a tragic end...{05}{05}{05}
+@195
+But in this world, no one yet knows how it will end.{05}{05}{05}
+@196
+1561... The chaotic age of war has only just begun...{05}{05}{05}

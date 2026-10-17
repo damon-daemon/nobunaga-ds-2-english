@@ -1,0 +1,304 @@
+@0
+{02}" Army! Care for a contest to liven up our tea party?{05}{05}{05}
+@1
+{1B}C3Beat all the other units before you beat me{1B}C1.{05}{05}{05}
+@2
+If you can, I'll give you a lovely reward.{05}{05}{05}
+@3
+Can you beat us in one month... Let's see what you can do!{05}{05}{05}
+@4
+I, Kiyomasa, will face you with all my might!{05}{05}{05}
+@5
+Oh, it's just entertainment! Let's make it a showy battle!{05}{05}{05}
+@6
+Then let the Daigo "battle" begin!{05}{05}{05}
+@7
+Sorry about last time... This time the reward is good.{05}{05}{05}
+@8
+Like last time, {1B}C3beat the other units before our lord{1B}C1.{05}{05}{05}
+@9
+Mind you {1B}C3beat all the units first{1B}C1, all right?{05}{05}{05}
+@10
+We won't lose this time!{05}{05}{05}
+@11
+We're fully prepared!{05}{05}{05}
+@12
+Heh, good, good. A party it may be... but we must win!{05}{05}{05}
+@13
+...Now, are you ready? This battle will be a bit tougher!{05}{05}{05}
+@14
+Fight Hideyoshi to liven up the tea\nparty. Take Wakae Castle.{05}{05}{05}
+@15
+{1B}C3But unless you beat all other units\nbefore Hideyoshi, you get no reward.{1B}C1{05}{05}{05}
+@16
+Well done, Kiyomasa and Masanori! Splendid!{05}{05}{05}
+@17
+Ha ha, just doing our job!{05}{05}{05}
+@18
+Guests, it's only a party... Don't be too downcast.{05}{05}{05}
+@19
+Guests, it seems you just can't get it right, eh?{05}{05}{05}
+@20
+It seems my work wasn't in vain.{05}{05}{05}
+@21
+Splitting your forces and breaking the rules can be a strategy too...{05}{05}{05}
+@22
+What a bore... Were you even listening!?{05}{05}{05}
+@23
+I believe I said {1B}C3all the other units before our lord{1B}C1...{05}{05}{05}
+@24
+I'd heard this army had more backbone...{05}{05}{05}
+@25
+Splendid! As a reward, I'll make you tea myself!{05}{05}{05}
+@26
+(That taste... I shudder just remembering it...){05}{05}{05}
+@27
+(Take my advice and run for it!){05}{05}{05}
+@28
+I give up... Splendid! Then I'll make you my special {1B}C3Super Tea{1B}C1...{05}{05}{05}
+@29
+(S-{1B}C3Super Tea{1B}C1... That taste is pure hell.){05}{05}{05}
+@30
+(Retreat now, while you can!){05}{05}{05}
+@31
+Well, strategist, what do you think of our new weapon, the ironclad?{05}{05}{05}
+@32
+In a word, superb... It opens up a new kind of warfare.{05}{05}{05}
+@33
+My only complaint is that it's too strong to make war fun.{05}{05}{05}
+@34
+Reassuring... For a start, let's go after the {02}" Army.{05}{05}{05}
+@35
+I see, rule the Seto Inland Sea and approach Kyoto by sea...{05}{05}{05}
+@36
+A clever move... ...Interesting, I must say...{05}{05}{05}
+@37
+Heh, spare me the flattery. Now, march on, everyone.{05}{05}{05}
+@38
+Keep losses down and seize Kyoto... the realm, by the shortest way!{05}{05}{05}
+@39
+The {02}" Army is back... It won't go like last time.{05}{05}{05}
+@40
+I know their strength now... Strategist, any plan?{05}{05}{05}
+@41
+Heh... No plan. I just gathered good generals and ironclads.{05}{05}{05}
+@42
+Crushing the enemy by force... the classic way is fun too.{05}{05}{05}
+@43
+I see. Then we'll force our way through the Inland Sea.{05}{05}{05}
+@44
+Understood... {02}" Army, show me an interesting battle!{05}{05}{05}
+@45
+I care nothing for my name... I take the shortest road to power!{05}{05}{05}
+@46
+The Ukita army, with many\nironclads, has attacked.{05}{05}{05}
+@47
+{1B}C3Fighting on the water is a losing game.{1B}C1\nLure them onto land and fight there.{05}{05}{05}
+@48
+...So that's all it was. A dull battle.{05}{05}{05}
+@49
+Taking this place matters. Thank you, strategist.{05}{05}{05}
+@50
+But... ironclads are fearsome. Is this the warfare of the future...{05}{05}{05}
+@51
+That was quite an interesting battle. I'd like another round.{05}{05}{05}
+@52
+Not me, thanks. I don't want to lose men in battle.{05}{05}{05}
+@53
+Still, {02}" Army... I expected a bit more of you.{05}{05}{05}
+@54
+Even with ironclads... Everyone, fall back!{05}{05}{05}
+@55
+...Interesting... I'll remember your name, {02}" Army!{05}{05}{05}
+@56
+Men's lives... food, gold... I won't let this defeat be in vain!{05}{05}{05}
+@57
+So this... is true generalship...{05}{05}{05}
+@58
+I, Kanbee, am utterly beaten. An interesting... battle!{05}{05}{05}
+@59
+The shortest road to the realm... They might just make it.{05}{05}{05}
+@60
+The {02}" Army... no match for us. Charge, chaaarge!{05}{05}{05}
+@61
+M-my lord... you're too far ahead! Advance with the main force...{05}{05}{05}
+@62
+Shikanosuke, you worry too much... Hm? The enemy's right here...{05}{05}{05}
+@63
+Wh-what do we do, Shikanosuke... We can't win this...{05}{05}{05}
+@64
+...Listen, my lord. Hold out where you are.{05}{05}{05}
+@65
+{1B}C3Once the main force arrives, we'll outnumber them{1B}C1. We'll hurry too!{05}{05}{05}
+@66
+All right... C-come as fast as you can!!{05}{05}{05}
+@67
+Understood! I, Shikanosuke, will take on every hardship!{05}{05}{05}
+@68
+This time we're prepared! No enemy can stand against us!{05}{05}{05}
+@69
+Charge, chaaarge! The Amago have no equal!{05}{05}{05}
+@70
+(Ah... and I told him last time... They're coming for sure now...){05}{05}{05}
+@71
+Eek! Th-the {02}" Army, here of all places!!{05}{05}{05}
+@72
+My lord... {1B}C3I'm coming to help. Please hold on a little{1B}C1...{05}{05}{05}
+@73
+Y-yes, hurry! I'm counting on you, prodigy of the San'in!{05}{05}{05}
+@74
+Heaven... how long must these hardships go on...{05}{05}{05}
+@75
+Amago Haruhisa has attacked.\nHis main force has far more troops.{05}{05}{05}
+@76
+{1B}C3The commander, Amago Haruhisa, is out\nin front. Beat him before help comes.{1B}C1{05}{05}{05}
+@77
+W-we won... did we?{05}{05}{05}
+@78
+We won! ...From now on, advance with the main force...{05}{05}{05}
+@79
+Well, isn't that fine! We won, we won~♪{05}{05}{05}
+@80
+Oh... I thought we were done for, but it worked out.{05}{05}{05}
+@81
+"It worked out" isn't good enough! At this rate the Amago will...{05}{05}{05}
+@82
+Oh, it's fine! The Amago's dawn is near!{05}{05}{05}
+@83
+No! My lord!!{05}{05}{05}
+@84
+Ugh... Is this the end... ...Sh-Shikanosuke!?{05}{05}{05}
+@85
+I'll draw the enemy off! Retreat while you can, my lord!{05}{05}{05}
+@86
+We give up! The Amago army surrenders!{05}{05}{05}
+@87
+Wh-what are you saying...?{05}{05}{05}
+@88
+It is a retainer's duty... Your life comes first...{05}{05}{05}
+@89
+Motoharu, the lesson of the three arrows... do you remember it?{05}{05}{05}
+@90
+Yes! We three brothers must work together to raise the Mori.{05}{05}{05}
+@91
+Good. Now, Takakage, its other meaning?{05}{05}{05}
+@92
+...If you or one arrow breaks, the rest hold up the house.{05}{05}{05}
+@93
+Exactly. {1B}C3In this battle, it's enough that one of us four survives{1B}C1.{05}{05}{05}
+@94
+Three arrows bound together, and I, Motonari... Break us if you can!{05}{05}{05}
+@95
+Er, Father... nothing for me, the eldest...?{05}{05}{05}
+@96
+...Ah. Right, um... do your best?{05}{05}{05}
+@97
+...Motoharu, what do you think lost us the last battle?{05}{05}{05}
+@98
+We took the enemy lightly. The {02}" Army is strong...{05}{05}{05}
+@99
+True, we misjudged them... Takakage, how do we fix it?{05}{05}{05}
+@100
+We raised training and morale and added troops.{05}{05}{05}
+@101
+Good. {1B}C3It's enough that one of our blood survives{1B}C1... Now...{05}{05}{05}
+@102
+Er, Father... you haven't forgotten me...{05}{05}{05}
+@103
+...Ha ha, wh-what are you saying? H-how could I forget my eldest...{05}{05}{05}
+@104
+...Take this fury... {02}" Army!{05}{05}{05}
+@105
+Take Yoshida-Koriyama Castle,\nheld by Mori Motonari and his clan.{05}{05}{05}
+@106
+{1B}C3Before Motonari, beat all three Mori\nbrothers, his heirs.{1B}C1{05}{05}{05}
+@107
+Motoharu, Takakage! Well done! I believed in you!{05}{05}{05}
+@108
+Y-yes... Good job, Motoharu, Takakage?{05}{05}{05}
+@109
+Of course... Takamoto too... I believed in you, you know?{05}{05}{05}
+@110
+Motoharu, Takakage... truly brilliant deeds, my sons.{05}{05}{05}
+@111
+......F-Father......{05}{05}{05}
+@112
+(If only Takamoto were a bit more of a man...){05}{05}{05}
+@113
+Ugh! All troops, fall back! We regroup!{05}{05}{05}
+@114
+...Luckily, the three arrows still remain...{05}{05}{05}
+@115
+{02}" Army, sorry... ...but the Mori will not break...!{05}{05}{05}
+@116
+Fall back, everyone! Don't break ranks!{05}{05}{05}
+@117
+Father, retreat quickly too! The other two have already fallen back.{05}{05}{05}
+@118
+(Beaten, yes... but heh, we'll rise again soon...){05}{05}{05}
+@119
+We give up! Motoharu, Takakage... Takamoto, we surrender!{05}{05}{05}
+@120
+Ugh... to think the three arrows broke... It's my... my fault...!{05}{05}{05}
+@121
+It's all right, Takamoto... Besides, the arrows aren't broken yet.{05}{05}{05}
+@122
+You're all still alive. Heh, the Mori won't break...{05}{05}{05}
+@123
+Wait, Keiji! You've been spending the family's money again...!{05}{05}{05}
+@124
+What? Uncle, you spend money on flair too...{05}{05}{05}
+@125
+Fool! I don't spend the family's money!{05}{05}{05}
+@126
+A true dandy spends only what he himself has...{05}{05}{05}
+@127
+Argh, all right! I'll slay an enemy general instead!{05}{05}{05}
+@128
+Out of the way! Here comes the great Maeda Keiji!{05}{05}{05}
+@129
+F... fool! {1B}C3That leaves the main camp thinly held...{1B}C1{05}{05}{05}
+@130
+Cover that dandy! Honestly... I'll lecture him later!{05}{05}{05}
+@131
+Sorry, Uncle... Last time was my fault...{05}{05}{05}
+@132
+Honestly, ignoring the plan is no show at all!{05}{05}{05}
+@133
+...Still, I don't dislike that spirit of yours.{05}{05}{05}
+@134
+Th-then, Uncle...{05}{05}{05}
+@135
+Keiji, I'll give you more men! ...This time, be a dandy to the end.{05}{05}{05}
+@136
+You bet! I'll pour this fury out on the enemy!{05}{05}{05}
+@137
+Now, let's show them what we dandies are made of!{05}{05}{05}
+@138
+Maeda elites are charging hard and\nare closing in on your main camp.{05}{05}{05}
+@139
+{1B}C3Their own main camp is thinly held.{1B}C1\nStrike it and turn the tables.{05}{05}{05}
+@140
+See that, Uncle! So we're square now, right?{05}{05}{05}
+@141
+...No, that's another matter. Home for your lecture, Keiji.{05}{05}{05}
+@142
+Hear this dandy's furious lecture to your heart's content!{05}{05}{05}
+@143
+We broke through! Not much of an enemy!{05}{05}{05}
+@144
+Heh... Keiji, you stood out plenty on the battlefield.{05}{05}{05}
+@145
+You were great too, Uncle. Now, the dandies' triumphant return!{05}{05}{05}
+@146
+F-fall back! To think I, Toshiie, misread it...{05}{05}{05}
+@147
+Damn it... Damn it! You'll pay for this!{05}{05}{05}
+@148
+Keiji, fall back too! A dandy must know when to withdraw!{05}{05}{05}
+@149
+They got us...!{05}{05}{05}
+@150
+What, even with Keiji we couldn't break through...{05}{05}{05}
+@151
+The {02}" Army... They're quite the dandies too!{05}{05}{05}

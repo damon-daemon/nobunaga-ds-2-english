@@ -1,0 +1,196 @@
+@0
+Field battle or siege: which?{05}{05}{05}
+@1
+{1B}C6Field battle or siege: which?{1B}C1\nWhen invaded, the defender chooses a field battle or a siege.\nIn a field battle, even if you lose, officers left in the castle can retreat to another province.\nIn a siege, all are captured if you lose.\nIn a siege you can ask a neighboring third clan for relief, though they may not send troops.{05}{05}{05}
+@2
+How do I win a battle?{05}{05}{05}
+@3
+{1B}C6How do I win a battle?{1B}C1\nMeet any one condition to win.\n{1B}C4<Attacker wins>{1B}C1\n1. Defeat or rout the defending commander\n2. The defender surrenders (siege)\n3. Take the keep (siege)\n{1B}C4<Defender wins>{1B}C1\n1. Defeat or rout the attacking commander\n2. The turn limit passes\n　Field: 7 days (56 turns) Siege: 30 days{05}{05}{05}
+@4
+Taking the HQ doesn't win?{05}{05}{05}
+@5
+{1B}C6Taking the HQ doesn't win?{1B}C1\nTaking the HQ does not win the battle.\nIt burns all the enemy's {1B}C3food{1B}C1 and greatly lowers their {1B}C3morale{1B}C1.\nIn a siege, however, the attacker wins by taking the keep.{05}{05}{05}
+@6
+What if we run out of food?{05}{05}{05}
+@7
+{1B}C6What if we run out of food?{1B}C1\nRunning out of food does not lose the battle.\nBut without food, {1B}C3morale{1B}C1 falls sharply every turn.{05}{05}{05}
+@8
+Does morale matter?{05}{05}{05}
+@9
+{1B}C6Does morale matter?{1B}C1\nThe morale gap between the armies greatly affects unit strength, allied armies included.\nMorale rises when you destroy enemy units, and falls when your HQ is taken or food runs out.\nAt 0 morale, troops start to desert.{05}{05}{05}
+@10
+Tell me about battle turns{05}{05}{05}
+@11
+{1B}C6Tell me about battle turns{1B}C1\nThe attacker loses when {1B}C37 days (56 turns){1B}C1 pass in a field battle, or {1B}C330 days (30 turns){1B}C1 in a siege.{05}{05}{05}
+@12
+Tell me about the weather{05}{05}{05}
+@13
+{1B}C6Tell me about the weather{1B}C1\nThere are four kinds of weather: clear, cloudy, rain and snow.\nIn rain, guns and cannons cannot fire, and in field battles you only see squares next to your units.\nIn snow, the attacker's morale falls every turn and movement is greatly limited.{05}{05}{05}
+@14
+Tell me about tactics{05}{05}{05}
+@15
+{1B}C6Tell me about tactics{1B}C1\nTactics are commands strong enough to change the course of battle.\nUp to {1B}C33{1B}C1 per battle, used by regular units (not allied armies), once per turn.{05}{05}{05}
+@16
+How is unit order decided?{05}{05}{05}
+@17
+{1B}C6How is unit order decided?{1B}C1\nUnits act {1B}C3from fewest troops up{1B}C1. With equal troops, the one with higher War goes first.\nThe order is set at the start of each turn, so it does not change even if a unit loses troops.{05}{05}{05}
+@18
+What are talents?{05}{05}{05}
+@19
+{1B}C6What are talents?{1B}C1\nEvery officer has one talent: Brave, Fiery or Wise.\nIn regular armies only, every two officers with the same talent trigger a talent bonus.{05}{05}{05}
+@20
+What are talent bonuses?{05}{05}{05}
+@21
+{1B}C6What are talent bonuses?{1B}C1\nBonuses gained for every two officers with the same talent. They apply to regular armies only and are set at the start of battle.\nThey do not change even if officers with the talent join later or are defeated.{05}{05}{05}
+@22
+What do talent bonuses do?{05}{05}{05}
+@23
+{1B}C6What do talent bonuses do?{1B}C1\nBrave 2: better wall climbing\n　　4: waiting mobility +1→+2\n　　6: base mobility +1\nFiery 2: attack up (small)\n　　4: attack up (large)\n　　6: own starting morale up\nWise 2: defense up (small)\n　　4: defense up (large)\n　　6: enemy starting morale down{05}{05}{05}
+@24
+What is unit aptitude?{05}{05}{05}
+@25
+{1B}C6What is unit aptitude?{1B}C1\nOfficers have an aptitude for each unit type, from A to D; A is best.\nHigher aptitude means more attack with that unit type.\nBows use the ashigaru aptitude and cannons the gun aptitude. Kobaya and ironclads ignore aptitude.{05}{05}{05}
+@26
+A tactic's effect vanished... why?{05}{05}{05}
+@27
+{1B}C6A tactic's effect vanished... why?{1B}C1\nTactics that last for a set number of turns (Spear Wall, Volley and so on) cannot be active at once. Even for different unit types, {1B}C3the later tactic{1B}C1 wins.\nThe switch to bows or cannons (Bow Ready, Cannons) is never cancelled by a later tactic.{05}{05}{05}
+@28
+Does confusion or taunting weaken units?{05}{05}{05}
+@29
+{1B}C6Do confusion and taunts weaken units?{1B}C1\nThe unit does not get weaker, but tactic effects are disabled while it lasts.\nA tactic used during confusion or a taunt takes effect once the state ends.\nThe switch to bows or cannons is never disabled.{05}{05}{05}
+@30
+What unit types are there?{05}{05}{05}
+@31
+{1B}C6What unit types are there?{1B}C1\nThere are 7 unit types:\n{1B}C4<Ashigaru, Cavalry, Gun>{1B}C1\n　Chosen when forming units.\n{1B}C4<Bow>{1B}C1\n　Ashigaru change with "Bow Ready".\n{1B}C4<Cannon>{1B}C1\n　Gun units change with "Cannons".\n{1B}C4<Kobaya, Ironclad>{1B}C1\n　Units change on entering sea or lake.{05}{05}{05}
+@32
+Tell me about ashigaru{05}{05}{05}
+@33
+{1B}C6Tell me about ashigaru{1B}C1\nThe common unit type, formed from troops alone.\n{1B}C4Base mobility{1B}C1: 4\n{1B}C4Features{1B}C1: can enter moats and walls\n{05}{05}{05}
+@34
+Tell me about bow units{05}{05}{05}
+@35
+{1B}C6Tell me about bow units{1B}C1\nAshigaru switch to bows with the tactic "Bow Ready".\n{1B}C4Base mobility{1B}C1: 4\n{1B}C4Features{1B}C1: {1B}C3archery{1B}C1 attacks\n{05}{05}{05}
+@36
+Tell me about cavalry{05}{05}{05}
+@37
+{1B}C6Tell me about cavalry{1B}C1\nA unit type with high mobility. Forming it costs 1 gold per soldier.\n{1B}C4Base mobility{1B}C1: 6\n{1B}C4Features{1B}C1: high mobility\n　can {1B}C3charge{1B}C1 adjacent enemies\n　cannot enter moats or walls\n{05}{05}{05}
+@38
+Tell me about gun units{05}{05}{05}
+@39
+{1B}C6Tell me about gun units{1B}C1\nA unit type that attacks from range with guns. Forming it needs 1 gun per soldier.\n{1B}C4Base mobility{1B}C1: 4\n{1B}C4Features{1B}C1: {1B}C3gunfire{1B}C1 attacks\n　linked attacks\n　can enter moats and walls\n{05}{05}{05}
+@40
+Tell me about cannon units{05}{05}{05}
+@41
+{1B}C6Tell me about cannon units{1B}C1\nA unit type with powerful long-range cannon attacks. Gun units switch to cannons with the tactic "Cannons".\n{1B}C4Base mobility{1B}C1: 3\n{1B}C4Features{1B}C1: {1B}C3cannon{1B}C1 attacks\n　cannot enter moats or walls{05}{05}{05}
+@42
+Tell me about kobaya{05}{05}{05}
+@43
+{1B}C6Tell me about kobaya{1B}C1\nA unit led by an officer without an ironclad becomes a kobaya (a sea unit) on entering sea or lake.\n{1B}C4Base mobility{1B}C1: 4\n{1B}C4Features{1B}C1: --\n{05}{05}{05}
+@44
+Tell me about ironclads{05}{05}{05}
+@45
+{1B}C6Tell me about ironclads{1B}C1\nA unit led by an officer with an ironclad becomes an ironclad (a sea unit) on entering sea or lake.\n{1B}C4Base mobility{1B}C1: 6\n{1B}C4Features{1B}C1: {1B}C3cannon{1B}C1 attacks\n{05}{05}{05}
+@46
+What are field battles like?{05}{05}{05}
+@47
+{1B}C6What are field battles like?{1B}C1\nField battles have these features:\n・56 turns (8 turns a day for 7 days)\n・Day and night; ambushes at night\n・Ironclads can be used if the field has sea or lake{05}{05}{05}
+@48
+Tell me about field terrain{05}{05}{05}
+@49
+{1B}C6Tell me about field terrain{1B}C1\n{1B}C4Terrain\tEffect\tMobility{1B}C1\nMountain\tImpassable\tImpassable\nHills\t　○\t　3\nPlains\t　△\t　2\nForest\t　○\t　3\nRiver/Moat\t　×\t　6\nSea/Lake\t　×\t　3\nHQ\t　◎\t　3\n{1B}C3*Better terrain effect helps in combat{1B}C1{05}{05}{05}
+@50
+Tell me about the passing of time{05}{05}{05}
+@51
+{1B}C6Tell me about the passing of time{1B}C1\nIn field battles each day is split into day and night.\nNight depends on the season: 21:00 to 03:00 in spring and summer, 18:00 to 03:00 in autumn and winter.\nAt night you only see squares next to your units.{05}{05}{05}
+@52
+Tell me about ambushes{05}{05}{05}
+@53
+{1B}C6Tell me about ambushes{1B}C1\nIn field battles at night or in rain, you only see squares next to your units.\nMoving next to an unseen enemy may lead one side to ambush the other. Which side ambushes depends on training and the officers' War.\nThe ambusher attacks while taking almost no damage.{05}{05}{05}
+@54
+Tell me about naval battles{05}{05}{05}
+@55
+{1B}C6Tell me about naval battles{1B}C1\nWhen the defender chooses a {1B}C3field battle{1B}C1, in some provinces they can also choose a naval battle, where most terrain is sea.\nIf you have officers with {1B}C3ironclads{1B}C1, a naval battle may be worth it.{05}{05}{05}
+@56
+What are sieges like?{05}{05}{05}
+@57
+{1B}C6What are sieges like?{1B}C1\nSieges have these features:\n・30 turns (1 turn a day for 30 days)\n・Defenders can fire guns and other ranged attacks from inside the walls{05}{05}{05}
+@58
+Tell me about siege terrain{05}{05}{05}
+@59
+{1B}C6Tell me about siege terrain{1B}C1\n{1B}C4Terrain\tEffect\tMobility{1B}C1\nCastle ground\t　△\t　2\nMoat\t　×\t　6*\nWall\t　×\t　9*\nOpen gate\t　○\t　2\nFence\tImpassable\tImpassable\nTower\t　○\t　3\nKeep\t　◎\t　3\n{1B}C3*Cavalry and cannons cannot enter{1B}C1{05}{05}{05}
+@60
+I can't see inside the castle... why?{05}{05}{05}
+@61
+{1B}C6I can't see inside the castle... why?{1B}C1\nIn a siege, the attacker cannot see inside the castle.\nOpen a gate and enter, and the inside gradually comes into view.{05}{05}{05}
+@62
+What are towers for?{05}{05}{05}
+@63
+{1B}C6What are towers for?{1B}C1\nTowers inside the castle have a high {1B}C3terrain effect{1B}C1 and also extend the {1B}C3range{1B}C1 of bows and guns by 2 squares.\n*Cannon range is not extended.{05}{05}{05}
+@64
+Tell me about "Melee"{05}{05}{05}
+@65
+{1B}C6Tell me about "Melee"{1B}C1\nAttack an adjacent enemy unit directly.\nThe officers' {1B}C3War{1B}C1, the units' {1B}C3training{1B}C1 and the {1B}C3morale{1B}C1 gap greatly affect the damage.{05}{05}{05}
+@66
+Tell me about "Charge"{05}{05}{05}
+@67
+{1B}C6Tell me about "Charge"{1B}C1\nA {1B}C3cavalry{1B}C1 attack that deals heavy damage to an adjacent enemy.\nIf the terrain behind the enemy can be entered, the cavalry sometimes {1B}C3breaks through{1B}C1.\nDestroying a unit with a charge may {1B}C3slay the enemy general{1B}C1.{05}{05}{05}
+@68
+Tell me about "Gunfire"{05}{05}{05}
+@69
+{1B}C6Tell me about "Gunfire"{1B}C1\nA ranged attack with guns, on enemies up to 2 squares away (range 2). It cannot fire past {1B}C3obstacles (mountains, hills, forests, walls, units...){1B}C1.\nFrom a {1B}C3tower{1B}C1 it reaches farther.\nA stray bullet may {1B}C3kill{1B}C1 the enemy general (not in the keep, HQ or towers).{05}{05}{05}
+@70
+Tell me about "Archery"{05}{05}{05}
+@71
+{1B}C6Tell me about "Archery"{1B}C1\nA ranged attack with bows, on enemies up to 2 squares away (range 2), even over obstacles (but not over mountains).\nFrom a {1B}C3tower{1B}C1 it reaches farther.{05}{05}{05}
+@72
+Tell me about "Cannon fire"{05}{05}{05}
+@73
+{1B}C6Tell me about "Cannon fire"{1B}C1\nA ranged attack with cannons, on enemies up to 3 squares away (range 3), even over obstacles (but not over mountains).{05}{05}{05}
+@74
+What is a linked gun attack?{05}{05}{05}
+@75
+{1B}C6What is a linked gun attack?{1B}C1\nWhen a gun unit fires, adjacent friendly gun units fire at the same target too, if they can reach it and have not yet acted.{05}{05}{05}
+@76
+Tell me about "Surrender"{05}{05}{05}
+@77
+{1B}C6Tell me about "Surrender"{1B}C1\nDemand that the enemy commander surrender, ending the battle.\nOnly the attacker can do this, and it rarely works unless the gap in strength is large.{05}{05}{05}
+@78
+Tell me about "Betrayal"{05}{05}{05}
+@79
+{1B}C6Tell me about "Betrayal"{1B}C1\nGive the signal to an officer who agreed to defect, and they turn on the spot.\nRegular armies only. It needs that officer on the field, and it fails if they are the enemy commander.{05}{05}{05}
+@80
+Tell me about "Deploy"{05}{05}{05}
+@81
+{1B}C6Tell me about "Deploy"{1B}C1\nSend an officer in the castle out with troops.\nOnly the defender's regular army can do this, and only if troops and officers remain in the castle.\nAn officer who retreated into the castle cannot deploy again in that battle.{05}{05}{05}
+@82
+What does "maximum units" mean?{05}{05}{05}
+@83
+{1B}C6What does "maximum units" mean?{1B}C1\nA regular army can have up to 6 units.\nWith 6 units already, "Betrayal" and "Deploy" cannot be used.{05}{05}{05}
+@84
+Tell me about retreating to a neighbor{05}{05}{05}
+@85
+{1B}C6Retreating to a neighbor{1B}C1\nThe attacker can do this, and so can the defender if a neighboring province is theirs.\nWhen the commander retreats, all units retreat to the same province.{05}{05}{05}
+@86
+Tell me about retreating into the castle{05}{05}{05}
+@87
+{1B}C6Retreating into the castle{1B}C1\nRetreat into the castle of the province under attack.\nOnly the defender's regular units can do this, and not the commander's unit.\nAn officer who retreats into the castle cannot deploy again in that battle.{05}{05}{05}
+@88
+Tell me about the rearguard{05}{05}{05}
+@89
+{1B}C6Tell me about the rearguard{1B}C1\nThe rearguard stays at the very back during a retreat and holds off the pursuing enemy.\nIt raises the other units' chance of escaping, but lowers its own officer's chance.{05}{05}{05}
+@90
+What should I do with captives?{05}{05}{05}
+@91
+{1B}C6What should I do with captives?{1B}C1\nRecruit them to strengthen your retainers.\nIf you execute everyone who refuses, you may make enemies where you least expect.{05}{05}{05}
+@92
+Can't I recruit a daimyo?{05}{05}{05}
+@93
+{1B}C6Can't I recruit a daimyo?{1B}C1\nYou can make the offer to a daimyo who lost all their provinces in battle.{05}{05}{05}
+@94
+Do sieges lower castle defense?{05}{05}{05}
+@95
+{1B}C6Do sieges lower castle defense?{1B}C1\nThe province's castle defense drops with each gate broken.\nRaise it again with the strategy command [Fortify].{05}{05}{05}
+@96
+I took a province... now what?{05}{05}{05}
+@97
+{1B}C6I took a province... now what?{1B}C1\nFirst, secure enough troops to hold it. Then adjust how many officers are there.\nUse Move and Transport well, keeping in mind relations with nearby daimyo and balance with your other provinces.{05}{05}{05}

@@ -1,0 +1,272 @@
+@0
+How do I win or lose?{05}{05}{05}
+@1
+{1B}C6How do I win or lose?{1B}C1\n{1B}C4<Victory>{1B}C1\nThe daimyo you chose rules all 52 provinces and unifies the realm.\n{1B}C4<Defeat>{1B}C1\nWhen your daimyo dies with no retainers or no provinces left, or you accept another clan's demand to surrender.{05}{05}{05}
+@2
+Tell me about provinces!{05}{05}{05}
+@3
+{1B}C6Tell me about provinces!{1B}C1\nThere are these kinds of province:\n・{1B}C4Home{1B}C1: ruled by the daimyo in person\n・{1B}C4Domain{1B}C1: ruled by that daimyo\n・{1B}C4Empty{1B}C1: ruled by no one\nWin a battle in another clan's province to make it your own.\nMove a retainer into an empty province to make it yours.{05}{05}{05}
+@4
+Tell me about officers!{05}{05}{05}
+@5
+{1B}C6Tell me about officers!{1B}C1\nThere are these kinds of officer:\n・{1B}C4Daimyo{1B}C1: the lord of the retainers\n・{1B}C4Retainer{1B}C1: an officer serving a daimyo\n・{1B}C4Lord{1B}C1: an officer ruling a province\n・{1B}C4Strategist{1B}C1: a retainer whose Politics and War total 150 or more\n・{1B}C4Ronin{1B}C1: an officer who serves no daimyo and wanders the land{05}{05}{05}
+@6
+Tell me about action points!{05}{05}{05}
+@7
+{1B}C6Tell me about action points!{1B}C1\nCommands use up the province's action points (AP). How many depends on the command.\nAt the end of each turn, a province recovers {1B}C3AP equal to its lord's Politics{1B}C1.\nAP builds up to a maximum of 200.{05}{05}{05}
+@8
+Should lords carry out commands?{05}{05}{05}
+@9
+{1B}C6Should lords carry out commands?{1B}C1\nThe daimyo and lords can carry out any number of commands as long as AP allows.\nOther officers can carry out only one command per turn.\nLeaving things to lords may seem best, but many commands cost them double AP, so it is not always an advantage.{05}{05}{05}
+@10
+Tell me about "Culture"!{05}{05}{05}
+@11
+{1B}C6Tell me about "Culture"!{1B}C1\nThe cultural level of the province. Raising culture brings these benefits:\n・Higher commerce limit\n・A little more gold each January\n・Cheaper tea ware and guns\n・The province's own {1B}C3culture effect{1B}C1\nAt culture 100, the culture effect spreads to all your provinces.{05}{05}{05}
+@12
+Tell me about culture effects!{05}{05}{05}
+@13
+{1B}C6Tell me about culture effects!{1B}C1\nA special effect gained when a province's culture reaches {1B}C375 or more{1B}C1. Each province has its own.\nE.g.) Iga: better [Diplomacy - Betray] success\n　　Iwami: more gold from mines\nAt culture {1B}C3100{1B}C1, all your provinces benefit from it.{05}{05}{05}
+@14
+How do I raise culture?{05}{05}{05}
+@15
+{1B}C6How do I raise culture?{1B}C1\nThere are four ways to raise culture:\n・Hold tea parties\n・Have a painter paint\n・Take provinces with high culture\n・Trade, such as buying tea ware{05}{05}{05}
+@16
+Can I trust my strategist's advice?{05}{05}{05}
+@17
+{1B}C6Can I trust my strategist's advice?{1B}C1\nThe higher their Politics, the more accurate the advice, but strategists are only human and can be wrong.\nTreat advice as advice only. As the daimyo, the final decision is yours.{05}{05}{05}
+@18
+I can't raise my farms!{05}{05}{05}
+@19
+{1B}C6I can't raise my farms!{1B}C1\nSometimes farms stop rising even at only 300.\nThat is because each province has its own {1B}C3farm limit{1B}C1.\nEchigo, Musashi and others have high limits, while Hida, Tango and the provinces of Shikoku have low ones.{05}{05}{05}
+@20
+I can't raise commerce!{05}{05}{05}
+@21
+{1B}C6I can't raise commerce!{1B}C1\nSometimes commerce stops rising even at only 300.\nThat is because the province's culture is low.\nThe commerce limit is the province's {1B}C3culture x 10{1B}C1, so raising culture raises the limit.{05}{05}{05}
+@22
+How much order is enough?{05}{05}{05}
+@23
+{1B}C6How much order is enough?{1B}C1\nWith order {1B}C3below 80{1B}C1 there may be uprisings, and {1B}C3below 40{1B}C1 you cannot conscript.\nHigher is always better, but keep it at 80 or more.{05}{05}{05}
+@24
+What does raising Tech do?{05}{05}{05}
+@25
+{1B}C6What does raising Tech do?{1B}C1\nRaising Tech brings these benefits:\n　{1B}C4Tech 100{1B}C1... [Domestic - Gold Mine]\n　{1B}C4Tech 200{1B}C1... new techniques\n　{1B}C4Tech 300{1B}C1... making guns\n　{1B}C4Tech 600{1B}C1... building ironclads\nIt also makes farms and commerce easier to raise.{05}{05}{05}
+@26
+What does fortifying do?{05}{05}{05}
+@27
+{1B}C6What does fortifying do?{1B}C1\nFortifying raises castle defense.\nHigher castle defense improves the keep's terrain effect and the gates' strength in sieges, keeping enemies out.\nWhen a gate is broken in a siege, castle defense drops, so be careful.{05}{05}{05}
+@28
+I can't find a gold mine...{05}{05}{05}
+@29
+{1B}C6I can't find a gold mine...{1B}C1\nOnly some provinces have gold mines. Searching where there are none is useless.\nAsk the prospectors who visit from time to time.\nMines run dry after enough digging, but searching again a few years later may find them once more.{05}{05}{05}
+@30
+How do I read market prices?{05}{05}{05}
+@31
+{1B}C6How do I read market prices?{1B}C1\nThere are rice prices and troop prices.\n{1B}C3Rice ranges from 0.8 to 2.5{1B}C1 and {1B}C3troops from 3.0 to 7.0{1B}C1.\nBuy rice near 0.8 and sell near 2.5. The troop price is the cost of one conscript, so near 3.0 you can conscript cheaply.{05}{05}{05}
+@32
+I want to trade lots of food at once{05}{05}{05}
+@33
+{1B}C6I want to trade lots of food at once{1B}C1\nYou can trade food at once up to {1B}C3the province's farm value{1B}C1.\nWith farms at 300, you can buy or sell 300 food at a time.\nTo trade more, trade several times.{05}{05}{05}
+@34
+The merchant won't sell guns or tea ware{05}{05}{05}
+@35
+{1B}C6The merchant won't sell guns or tea ware{1B}C1\nThe merchant Imai Sokyu chooses his customers. Try the following:\n・Have an officer with high Learning trade\n・Trade often to raise amity with Sokyu\n・Obtain tea ware\n・Raise your total farms{05}{05}{05}
+@36
+Retainers volunteer to cultivate...{05}{05}{05}
+@37
+{1B}C6Retainers volunteer to cultivate...{1B}C1\nWhen you give a domestic command, a retainer may volunteer: "Leave it to me!"\nLetting them do it raises their loyalty and may work better than an ordinary order.\nBut a disloyal one may cause trouble, so take care...{05}{05}{05}
+@38
+My gold and food income won't grow!{05}{05}{05}
+@39
+{1B}C6My gold and food income won't grow!{1B}C1\nMany retainers and soldiers in a province mean more spending.\nIf income seems low for your farms and commerce, move officers or soldiers to richer provinces, or transport supplies.\nIf order is low, raise it too; it affects income.{05}{05}{05}
+@40
+How is spending decided?{05}{05}{05}
+@41
+{1B}C6How is spending decided?{1B}C1\nSalaries are paid to retainers and soldiers: {1B}C3gold in January, food in July{1B}C1.\nA retainer's salary depends on ability: one whose Politics and War total 200 gets 10 gold and 10 food. Each soldier gets 1 gold and 1 food.{05}{05}{05}
+@42
+Move or Transport?{05}{05}{05}
+@43
+{1B}C6Move or Transport?{1B}C1\n"Move" moves officers as well as supplies, up to two provinces away (the neighbor of a neighbor).\n"Transport" moves supplies only, to any of your provinces, but sending them to one not linked by road may fail (some supplies are lost).{05}{05}{05}
+@44
+How many can go to battle?{05}{05}{05}
+@45
+{1B}C6How many can go to battle?{1B}C1\nUp to {1B}C36{1B}C1 officers, attacking or defending.\nAn allied army can send up to {1B}C33{1B}C1.{05}{05}{05}
+@46
+How is the commander chosen?{05}{05}{05}
+@47
+{1B}C6How is the commander chosen?{1B}C1\nIf the castle lord takes the field, the lord is always the commander.\nIf the commander's unit is destroyed, the battle is lost.\nAppoint an officer with high War.{05}{05}{05}
+@48
+Can't I attack with only one officer?{05}{05}{05}
+@49
+{1B}C6Can't I attack with only one officer?{1B}C1\nWhen attacking, you cannot leave the province you set out from empty (unruled).\nAt least one officer must stay behind, so a province with only one officer cannot use [Military - Battle].{05}{05}{05}
+@50
+Can't lords join an allied army?{05}{05}{05}
+@51
+{1B}C6Can't lords join an allied army?{1B}C1\nA lord is entrusted with a province, so they cannot join an allied army sent to help another clan.{05}{05}{05}
+@52
+I can't form cavalry or gun units...{05}{05}{05}
+@53
+{1B}C6I can't form gun or cavalry units...{1B}C1\nGun units can only be formed when the province has as many guns as soldiers. A gun unit cannot have more troops than there are guns.\nCavalry units cost 1 gold per soldier.{05}{05}{05}
+@54
+Can I ask non-allies to join an attack?{05}{05}{05}
+@55
+{1B}C6Can I ask non-allies to join an attack?{1B}C1\nYes, you can ask clans you are not allied with too.\nWhether they accept depends on many things, such as alliances and amity between the clans.\nSome daimyo promise but never send troops.\nIf you win, the allied army is paid a reward.{05}{05}{05}
+@56
+Is conscripting too much bad?{05}{05}{05}
+@57
+{1B}C6Is conscripting too much bad?{1B}C1\nConscripting lowers order and lowers the troops' training. In January and July you must pay salaries in gold and food.\nWhen you conscript, watch your balance and keep restoring order and training troops at the same time.{05}{05}{05}
+@58
+Do I have to train?{05}{05}{05}
+@59
+{1B}C6Do I have to train?{1B}C1\nLow training does not restrict what units can do.\nBut train well to bring out your units' strength. It matters most of all for {1B}C3ambushes{1B}C1.{05}{05}{05}
+@60
+What does Make make?{05}{05}{05}
+@61
+{1B}C6What does Make make?{1B}C1\nYou can make guns and ironclads.\nGuns need {1B}C3Tech 300 or more{1B}C1; 10 are made at a time (ready next month).\nIronclads need {1B}C3Tech 600 or more{1B}C1 and a province on the sea (about 3 months to build).\nEach officer can have one ironclad; once built, choose one of the province's officers to receive it.{05}{05}{05}
+@62
+What are tactics?{05}{05}{05}
+@63
+{1B}C6What are tactics?{1B}C1\nIn battle, tactics give special effects to all enemy or allied (regular) units.\nFor example, "Blitz" raises your units' mobility for several turns.\nYou can use up to {1B}C33{1B}C1 tactics in one battle. Which to use, and when, is the key.{05}{05}{05}
+@64
+How many tactics can I have?{05}{05}{05}
+@65
+{1B}C6How many tactics can I have?{1B}C1\nThere are 40 tactics, but a clan can have {1B}C3at most 6{1B}C1.\nThree are fixed for each clan and cannot be changed (starting tactics). The other three you can set freely.\nEach tactic needs certain {1B}C3techniques{1B}C1 to set.{05}{05}{05}
+@66
+What are techniques?{05}{05}{05}
+@67
+{1B}C6What are techniques?{1B}C1\nEach province has its own technique. There are {1B}C38 kinds{1B}C1, such as "Gunpowder" and "Ninjutsu".\nYou gain a technique by raising the province's {1B}C3Tech{1B}C1. For example, raising Tech in Kai gives "Riding".\nTechniques are needed to set tactics.{05}{05}{05}
+@68
+How do tactics and techniques relate?{05}{05}{05}
+@69
+{1B}C6How do tactics and techniques relate?{1B}C1\nEach tactic needs certain {1B}C3techniques{1B}C1. For example:\n・Blitz <needs: March x2>\n・Wall Leap <needs: March, Ninjutsu>\nTo get both tactics you need three "March" and one "Ninjutsu".{05}{05}{05}
+@70
+How do I see how many techniques I have?{05}{05}{05}
+@71
+{1B}C6How many techniques do I have?{1B}C1\nSee the tactic setup screen in [Military - Tactics] or [Military - Battle].\nOn the top screen they show as e.g. "March 1/2/4":\nright: techniques in your domain\nmiddle: techniques acquired\nleft: techniques still free for new tactics{05}{05}{05}
+@72
+Is it fine never to change tactics?{05}{05}{05}
+@73
+{1B}C6Is it fine never to change tactics?{1B}C1\nAdd or change tactics in [Military - Tactics] or when going to battle.\nBefore battle, think about the field and your forces and pick the best tactics.\nNew provinces or higher Tech can bring new techniques and so new tactics. Check often.{05}{05}{05}
+@74
+How do I get more officers?{05}{05}{05}
+@75
+{1B}C6How do I get more officers?{1B}C1\nThere are these ways:\n・Recruit ronin\n・Ronin may ask to serve you\n・Children of the daimyo or retainers come of age\n・Recruit captives after battle{05}{05}{05}
+@76
+Ronin won't accept my offer...{05}{05}{05}
+@77
+{1B}C6Ronin won't accept my offer...{1B}C1\nRecruiting can fail.\nIt works better when an officer with high {1B}C3Charm{1B}C1 does it.\nRonin may also refuse if they get on badly with your daimyo, or if you executed the daimyo they once served.{05}{05}{05}
+@78
+What happens if loyalty is low?{05}{05}{05}
+@79
+{1B}C6What happens if loyalty is low?{1B}C1\nOfficers may rebel and break away, flee, or defect during battle.\nKeep loyalty high.{05}{05}{05}
+@80
+Who gives tea ware, lord or daimyo?{05}{05}{05}
+@81
+{1B}C6Who gives tea ware, lord or daimyo?{1B}C1\nThe daimyo, not the lords, gives and takes back tea ware.\nThe daimyo's tea ware can be given to retainers, but a lord's cannot.\nTo give tea ware held by another officer to someone else, first take it back so it belongs to the daimyo.{05}{05}{05}
+@82
+My tea parties go badly...{05}{05}{05}
+@83
+{1B}C6My tea parties go badly...{1B}C1\nThey succeed more easily with {1B}C3officers of high Learning{1B}C1 or {1B}C3high-grade tea ware{1B}C1 (Grade 1 is the best).\nThe tea ware only has to be held by someone in that province, not by an officer attending.{05}{05}{05}
+@84
+Tea parties don't raise culture...{05}{05}{05}
+@85
+{1B}C6Tea parties don't raise culture...{1B}C1\nCulture only rises if the tea party succeeds. The higher the culture, the smaller the rise.\nHigher-grade tea ware makes success likelier and raises culture more.{05}{05}{05}
+@86
+Who should be lord?{05}{05}{05}
+@87
+{1B}C6Who should be lord?{1B}C1\nEach month, a province recovers AP equal to its lord's {1B}C3Politics{1B}C1.\nIn battle, a lord who takes the field is always the {1B}C3commander{1B}C1.\nKeep these in mind. Of course, a lord with low loyalty, however able, may rebel.{05}{05}{05}
+@88
+Should I banish disloyal officers?{05}{05}{05}
+@89
+{1B}C6Should I banish disloyal officers?{1B}C1\nYou can, but make good use of able officers.\nFirst raise their loyalty with rewards (gold).\nTea ware works even better.\nWith high loyalty their treason may vanish and they may become loyal vassals.{05}{05}{05}
+@90
+What is Spy?{05}{05}{05}
+@91
+{1B}C6What is Spy?{1B}C1\nSend ninja to another clan to gather information.\nIf it works, you can see that clan's provinces and officers in detail.\nIt gets harder the more provinces they have, but ninja officers like {1B}C3Hattori Hanzo, Fuma Kotaro and Momochi Sandayu{1B}C1 always succeed.{05}{05}{05}
+@92
+What is Betray?{05}{05}{05}
+@93
+{1B}C6What is Betray?{1B}C1\nIf it works, the officer will defect to you in battle.\nYou can turn officers in neighboring provinces whose loyalty is {1B}C3below 100{1B}C1.{05}{05}{05}
+@94
+Betrayal won't work...{05}{05}{05}
+@95
+{1B}C6Betrayal won't work...{1B}C1\nThe lower their loyalty, the easier, but the officer's sense of duty and how they get on with their daimyo matter too.\nFor officers who won't budge, try a gift of fine tea ware.{05}{05}{05}
+@96
+What is Rumor?{05}{05}{05}
+@97
+{1B}C6What is Rumor?{1B}C1\nSpread bad rumors in another province to lower its {1B}C3order{1B}C1.\nLow order makes {1B}C3uprisings{1B}C1 more likely.\nThe officers there may also lose loyalty.\nUse {1B}C3Spy{1B}C1 first to learn about the province.{05}{05}{05}
+@98
+What is Hostility?{05}{05}{05}
+@99
+{1B}C6What is Hostility?{1B}C1\nLower the {1B}C3amity{1B}C1 between other daimyo to start a war between them.\nIt works better when {1B}C3your officer's Politics{1B}C1 is high and {1B}C3the target daimyo's Politics{1B}C1 is low.\nUse {1B}C3Spy{1B}C1 first to learn about the daimyo.{05}{05}{05}
+@100
+How long does an alliance last?{05}{05}{05}
+@101
+{1B}C6How long does an alliance last?{1B}C1\nAlliances {1B}C3never expire{1B}C1.\nAn alliance ends if you use {1B}C3[Diplomacy - Break]{1B}C1 or invade the other's domain.{05}{05}{05}
+@102
+My alliances fail...{05}{05}{05}
+@103
+{1B}C6My alliances fail...{1B}C1\nRaise amity with the other daimyo and send an officer with high Politics.\nTo raise amity, use {1B}C3[Diplomacy - Tribute]{1B}C1.\nBut if the two daimyo's {1B}C3compatibility{1B}C1 is poor, alliances are harder.{05}{05}{05}
+@104
+Can I invade an ally?{05}{05}{05}
+@105
+{1B}C6Can I invade an ally?{1B}C1\nYes, you can invade an ally's domain (the alliance ends the moment you do).\nBut there are drawbacks, such as {1B}C3your retainers' loyalty dropping{1B}C1.\nBefore invading an ally, use {1B}C3[Diplomacy - Break]{1B}C1 to end the alliance first.{05}{05}{05}
+@106
+What is Demand?{05}{05}{05}
+@107
+{1B}C6What is Demand?{1B}C1\nDemand another clan's {1B}C3surrender{1B}C1 to make it your vassal.\nIf it works, that clan is destroyed and its officers and provinces become yours.\nIt only works on daimyo with {1B}C32 provinces or fewer{1B}C1 and {1B}C3a fifth of your troops or fewer{1B}C1.{05}{05}{05}
+@108
+What disasters are there?{05}{05}{05}
+@109
+{1B}C6What disasters are there?{1B}C1\nThere are typhoons, epidemics, earthquakes, heavy snow and more.\n<Effects> (down↓ up↑)\n・{1B}C4Typhoon{1B}C1: farms, commerce↓\n・{1B}C4Epidemic{1B}C1: troops, farms, commerce, order↓\n・{1B}C4Earthquake{1B}C1: troops, commerce, defense↓\n・{1B}C4Heavy snow{1B}C1: some commands unavailable{05}{05}{05}
+@110
+What can't I do in heavy snow?{05}{05}{05}
+@111
+{1B}C6What can't I do in heavy snow?{1B}C1\nThe roads to other provinces close, and these commands cannot be used:\n・{1B}C4Trade{1B}C1\n・{1B}C4Move{1B}C1\n・{1B}C4Transport{1B}C1\n・{1B}C4Battle{1B}C1\n・{1B}C4Joint attack{1B}C1\nHeavy snow falls in the provinces of Tohoku and Hokuriku.{05}{05}{05}
+@112
+I want to prevent disasters...{05}{05}{05}
+@113
+{1B}C6I want to prevent disasters...{1B}C1\nYou cannot prevent the disasters themselves, but you can lessen the damage.\nRule provinces whose {1B}C3culture effect{1B}C1 reduces disaster damage, and raise their culture.{05}{05}{05}
+@114
+I want to prevent Ikko uprisings...{05}{05}{05}
+@115
+{1B}C6I want to prevent Ikko uprisings...{1B}C1\nIkko uprisings break out in certain provinces.\nThey stop if you {1B}C3raise amity with the Honganji{1B}C1 or {1B}C3destroy the Honganji{1B}C1.{05}{05}{05}
+@116
+What are tea masters?{05}{05}{05}
+@117
+{1B}C6What are tea masters?{1B}C1\nThey visit the daimyo and suggest holding a tea party.\nIf you accept and it succeeds, the attending officers' loyalty and abilities and the province's culture may rise.\nThe tea masters are {1B}C3Sen no Rikyu, Tsuda Sogyu, Hasegawa Sojin and Matsui Yukan{1B}C1.{05}{05}{05}
+@118
+Should I hold every tea party?{05}{05}{05}
+@119
+{1B}C6Should I hold every tea party?{1B}C1\nNot necessarily.\nWithout tea ware to impress the visiting tea master, the party fails and your retainers' loyalty drops.\nDo not show off; sometimes you need the courage to decline.{05}{05}{05}
+@120
+Who else visits besides tea masters?{05}{05}{05}
+@121
+{1B}C6Who else visits besides tea masters?{1B}C1\nThese people:\n・{1B}C4Prospector{1B}C1\n・{1B}C4Mine dealer{1B}C1\n・{1B}C4Black marketeer{1B}C1\n・{1B}C4Gunsmith{1B}C1\n・{1B}C4Toyama medicine seller{1B}C1\n・{1B}C4Missionary{1B}C1\n・{1B}C4Painter{1B}C1{05}{05}{05}
+@122
+What is a prospector?{05}{05}{05}
+@123
+{1B}C6What is a prospector?{1B}C1\nFor gold, they find {1B}C3gold mines{1B}C1 in the province or tell you how many more times a mine can be worked.\nSometimes they tell you nothing.{05}{05}{05}
+@124
+What is a mine dealer?{05}{05}{05}
+@125
+{1B}C6What is a mine dealer?{1B}C1\nThey buy your gold mines.\nIf you don't like their price, you can haggle.{05}{05}{05}
+@126
+What is a black marketeer?{05}{05}{05}
+@127
+{1B}C6What is a black marketeer?{1B}C1\nThey sell {1B}C3guns{1B}C1 from shady sources at low prices.\nSome try to sell you shoddy goods.{05}{05}{05}
+@128
+What is a gunsmith?{05}{05}{05}
+@129
+{1B}C6What is a gunsmith?{1B}C1\nThey teach the {1B}C3art of making{1B}C1 guns and ironclads (the province's Tech rises greatly).\nNinja from other provinces sometimes pose as gunsmiths and steal your gold.{05}{05}{05}
+@130
+What is a Toyama medicine seller?{05}{05}{05}
+@131
+{1B}C6What is a Toyama medicine seller?{1B}C1\nThey sell a {1B}C3cure-all{1B}C1.\nWith it, an {1B}C3epidemic{1B}C1 does you no harm (it is used up).\nSometimes they throw in a secret medicine as a bonus.{05}{05}{05}
+@132
+What is a missionary?{05}{05}{05}
+@133
+{1B}C6What is a missionary?{1B}C1\nNanban missionaries come to spread Christianity.\nIf you allow it and it succeeds, the province's {1B}C3Tech{1B}C1 rises. They may also give you tea ware.\nIf it fails, order worsens.{05}{05}{05}
+@134
+What is a painter?{05}{05}{05}
+@135
+{1B}C6What is a painter?{1B}C1\nThey paint pictures. If it succeeds, {1B}C3culture{1B}C1 rises; if it fails, culture does not fall.\nThe painters are {1B}C3Kano Eitoku, Hasegawa Tohaku, Kaiho Yusho and Kano Sanraku{1B}C1.{05}{05}{05}

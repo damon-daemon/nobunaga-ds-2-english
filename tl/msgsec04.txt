@@ -1,0 +1,712 @@
+@0
+Who will you order?{05}{05}{05}
+@1
+Who will you order? (Max {02}{11}){05}{05}{05}
+@2
+Who will be lord of {02}{09}d?{05}{05}{05}
+@3
+Your orders for {02}{09}d?{05}{05}{05}
+@4
+{01}I{02}{09}"{04}>0Not enough action points.{05}{05}{05}No action points left.{05}{05}{05}
+@5
+There is no clan to target.{05}{05}{05}
+@6
+There is no province to target.{05}{05}{05}
+@7
+%s (AP {02}{11} ({02}{12}), Gold {02}{13}){05}{05}{05}
+@8
+%s (AP {02}{11}){05}{05}{05}
+@9
+%s (AP {02}{11} ({02}{12})){05}{05}{05}
+@10
+%s (AP {02}{11}, Gold {02}{12}){05}{05}{05}
+@11
+%s (AP 0){05}{05}{05}
+@12
+Return to the strategy command screen.{05}{05}{05}
+@13
+View information on each clan.{05}{05}{05}
+@14
+View information on each province.{05}{05}{05}
+@15
+View diplomatic relations with other clans.{05}{05}{05}
+@16
+View information on your domain.{05}{05}{05}
+@17
+View information on your retainers.{05}{05}{05}
+@18
+View the tea ware your clan owns.{05}{05}{05}
+@19
+End this month's orders.{05}{05}{05}
+@20
+Ask for advice.{05}{05}{05}
+@21
+View the officers in {02}{09}d.{05}{05}{05}
+@22
+View each province on the map.{05}{05}{05}
+@23
+Delegate a province or rule it directly.{05}{05}{05}
+@24
+Show the System commands.{05}{05}{05}
+@25
+Not enough gold ({02}{11} gold needed).{05}{05}{05}
+@26
+Not enough gold (20 gold needed).{05}{05}{05}
+@27
+Not enough gold (40 gold needed).{05}{05}{05}
+@28
+Not enough gold (50 gold needed).{05}{05}{05}
+@29
+Not enough gold (100 gold needed).{05}{05}{05}
+@30
+You need 100 gold or a piece of tea ware.{05}{05}{05}
+@31
+Not enough AP (retainer 10, lord 20).{05}{05}{05}
+@32
+Not enough AP (retainer 15, lord 30).{05}{05}{05}
+@33
+Not enough AP (retainer 20, lord 40).{05}{05}{05}
+@34
+Not enough AP (retainer 25, lord 50).{05}{05}{05}
+@35
+Not enough AP (retainer 45, lord 90).{05}{05}{05}
+@36
+Not enough AP (retainer 50, lord 100).{05}{05}{05}
+@37
+Not enough AP (10 needed).{05}{05}{05}
+@38
+Not enough AP (20 needed).{05}{05}{05}
+@39
+Not enough AP (50 needed).{05}{05}{05}
+@40
+Not enough AP (70 needed).{05}{05}{05}
+@41
+Not enough AP (80 needed).{05}{05}{05}
+@42
+No idle officer has Learning of 80 or more.{05}{05}{05}
+@43
+Not enough Tech (100 or more needed).{05}{05}{05}
+@44
+The miners have taken a rest.{05}{05}{05}
+@45
+Not possible because of heavy snow.{05}{05}{05}
+@46
+No more land can be cultivated.{05}{05}{05}
+@47
+No more can be invested.{05}{05}{05}
+@48
+Order is already at its best.{05}{05}{05}
+@49
+It is as developed as it can be.{05}{05}{05}
+@50
+It is as developed as it can be.{05}{05}{05}
+@51
+The castle's defenses are perfect.{05}{05}{05}
+@52
+There is no food to sell.{05}{05}{05}
+@53
+You cannot hold any more gold.{05}{05}{05}
+@54
+You do not have enough gold to buy food.{05}{05}{05}
+@55
+You cannot hold any more food.{05}{05}{05}
+@56
+You cannot hold any more guns.{05}{05}{05}
+@57
+The merchant has no tea ware to sell.{05}{05}{05}
+@58
+There is no province to move to.{05}{05}{05}
+@59
+There is no province to transport to.{05}{05}{05}
+@60
+There is nothing to transport.{05}{05}{05}
+@61
+No other clan's province borders yours.{05}{05}{05}
+@62
+There are no soldiers.{05}{05}{05}
+@63
+You cannot go to battle with only one officer.{05}{05}{05}
+@64
+There is no province to ask for a joint attack.{05}{05}{05}
+@65
+You cannot conscript any more.{05}{05}{05}
+@66
+Order is below 40, so you cannot conscript.{05}{05}{05}
+@67
+There are no soldiers.{05}{05}{05}
+@68
+They cannot be trained any further.{05}{05}{05}
+@69
+You cannot hold any more guns.{05}{05}{05}
+@70
+Not enough Tech (300 or more needed).{05}{05}{05}
+@71
+There is no sea or lake.{05}{05}{05}
+@72
+Guns are already being made.{05}{05}{05}
+@73
+Ironclads are already being built.{05}{05}{05}
+@74
+Not enough Tech (600 or more needed).{05}{05}{05}
+@75
+At the current Tech level, {02}{11} gold is needed.{05}{05}{05}
+@76
+Everyone already has an ironclad.{05}{05}{05}
+@77
+There are no ronin in this province.{05}{05}{05}
+@78
+Everyone's loyalty is at its maximum.{05}{05}{05}
+@79
+Only possible in the daimyo's home province.{05}{05}{05}
+@80
+No officer can be given or stripped of tea ware.{05}{05}{05}
+@81
+No tea ware can be given or taken back.{05}{05}{05}
+@82
+You have no tea ware.{05}{05}{05}
+@83
+Only one officer can attend.{05}{05}{05}
+@84
+No officer with Learning of 60 or more can attend.{05}{05}{05}
+@85
+The daimyo cannot be removed as lord.{05}{05}{05}
+@86
+There are only lords.{05}{05}{05}
+@87
+There is no officer you can banish.{05}{05}{05}
+@88
+You have information on every daimyo.{05}{05}{05}
+@89
+There is no one to turn.{05}{05}{05}
+@90
+Your only enemy is the {02}{01}d clan.{05}{05}{05}
+@91
+Your amity with every daimyo is 100.{05}{05}{05}
+@92
+There is no new daimyo to ally with.{05}{05}{05}
+@93
+No other clan borders yours.{05}{05}{05}
+@94
+You have no allied daimyo.{05}{05}{05}
+@95
+{01}I{02}{11}{04}={02}{12}Spend {02}{12} gold\nto cultivate land?{05}{05}{05}Spend {02}{11} gold each, {02}{12} in all,\nto cultivate land?{05}{05}{05}
+@96
+{01}I{02}{11}{04}={02}{12}Invest {02}{12} gold in the town?{05}{05}{05}Invest {02}{11} gold each, {02}{12} in all,\nin the town?{05}{05}{05}
+@97
+{01}I{02}{11}{04}={02}{12}Spend {02}{12} gold\nto improve order?{05}{05}{05}Spend {02}{11} gold each, {02}{12} in all,\nto improve order?{05}{05}{05}
+@98
+{01}I{02}{11}{04}={02}{12}Spend {02}{12} gold\nto improve Tech?{05}{05}{05}Spend {02}{11} gold each, {02}{12} in all,\nto improve Tech?{05}{05}{05}
+@99
+{01}I{02}{11}{04}={02}{12}Spend {02}{12} gold on castle defense?{05}{05}{05}Spend {02}{11} gold each ({02}{12} in all) on defense?{05}{05}{05}
+@100
+Search for a gold mine?{05}{05}{05}
+@101
+Mine gold?{05}{05}{05}
+@102
+Buy {02}{11} food?\n(Food %d→%d  Gold %d→%d){05}{05}{05}
+@103
+Sell {02}{11} food?\n(Food %d→%d  Gold %d→%d){05}{05}{05}
+@104
+Buy {02}{11} guns?\n(Guns %d→%d  Gold %d→%d){05}{05}{05}
+@105
+Buy {02}{0D}d?\n(Gold %d→%d){05}{05}{05}
+@106
+Farms are now {02}{11}\n(+{02}{12}).{05}{05}{05}
+@107
+Commerce is now {02}{11}\n(+{02}{12}).{05}{05}{05}
+@108
+Order is now {02}{11}\n(+{02}{12}).{05}{05}{05}
+@109
+Tech is now {02}{11}\n(+{02}{12}).{05}{05}{05}
+@110
+Castle defense is now {02}{11}\n(+{02}{12}).{05}{05}{05}
+@111
+Found a gold mine!{05}{05}{05}
+@112
+No gold mine was found.{05}{05}{05}
+@113
+Mined gold. Gold is now {02}{11}\n(+{02}{12}).{05}{05}{05}
+@114
+The gold has been mined out.{05}{05}{05}
+@115
+{01}I{02}{11}{04}!0The merchant threw in extra food.\nFood is now %d (+%d) and\ngold is now %d (-%d).{05}{05}{05}Food is now %d (+%d) and\ngold is now %d (-%d).{05}{05}{05}
+@116
+{01}I{02}{11}{04}!0The merchant paid a good price.\nGold is now %d (+%d) and\nfood is now %d (-%d).{05}{05}{05}Gold is now %d (+%d) and\nfood is now %d (-%d).{05}{05}{05}
+@117
+Guns are now %d (+%d) and\ngold is now %d (-%d).{05}{05}{05}
+@118
+Bought {02}{0D}d.\n(Gold %d→%d){05}{05}{05}
+@119
+Amity with Imai Sokyu is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@120
+{02}{05}d's loyalty is now\n{02}{05}& (+1).{05}{05}{05}
+@121
+{01}I{02}{06}{07}<{04}={02}{05}<Will you leave this\nto {01}C{02}{00}?{05}{05}{05}{01}I{02}{1C}{02}{05}{02}{06}{06}&{02}{05}5{04}}{02}{06}5Will you leave this\nto me?{05}{05}{05}{01}I{02}{1D}{02}{05}{02}{06}{06}&{02}{05}5{04}>{02}{06}5Will you leave this\nto me?{05}{05}{05}{01}S{02}{19}2Please, let me\nhandle this!{05}{05}{05}{01}C{07}{00},\nleave it to me!{05}{05}{05}
+@122
+Is this order all right?{05}{05}{05}
+@123
+Have {02}{05}d cultivate for {02}{11} gold?{05}{05}{05}
+@124
+Invest {02}{11} gold in the town.\nOrder {02}{05}d to do it?{05}{05}{05}
+@125
+Have {02}{05}d improve order for {02}{11} gold?{05}{05}{05}
+@126
+Have {02}{05}d improve Tech for {02}{11} gold?{05}{05}{05}
+@127
+Have {02}{05}d fortify for {02}{11} gold?{05}{05}{05}
+@128
+Which trade will you make?{05}{05}{05}
+@129
+How much food will you buy?{05}{05}{05}
+@130
+How much food will you sell?{05}{05}{05}
+@131
+How many guns will you buy?{05}{05}{05}
+@132
+Which tea ware will you buy?{05}{05}{05}
+@133
+I have nothing to sell to one\nwith so little Learning.{05}{05}{05}
+@134
+I lead the merchants of Sakai;\nI am moved by heart, not gold.{05}{05}{05}
+@135
+Weapons from the Nanban lands are\nworth a whole province.{05}{05}{05}
+@136
+I can let you have guns at\n{02}{11} gold apiece.{05}{05}{05}
+@137
+No sum of gold could make me\npart with this one.{05}{05}{05}
+@138
+A piece famed in three lands,\nfor that little gold...?{05}{05}{05}
+@139
+{01}I{02}{0D}{04}{04}}21Today I have a piece\nwithout equal.{05}{05}{05}{01}I{02}{11}{04}}6Today too I have many\nfine wares on hand.{05}{05}{05}{01}I{02}{11}{04}}4Welcome! Please take\nyour time and look around.{05}{05}{05}If only I had something\nto your liking...{05}{05}{05}
+@140
+This is a great treasure that every\ndaimyo in the land desires.{05}{05}{05}
+@141
+You want a treasure without\nequal? You have a fine eye.{05}{05}{05}
+@142
+Study the Way of Tea\nwell, my lord.{05}{05}{05}
+@143
+Truly a master of both\nletters and arms.{05}{05}{05}
+@144
+{02}{0D}d is {02}{11} gold,\nbut for you, {02}{12}.{05}{05}{05}
+@145
+Is it not to your liking?{05}{05}{05}
+@146
+I hope to serve you again.{05}{05}{05}
+@147
+{01}I{02}{01}{05}{04}}90Thank you as always\nfor your patronage.{05}{05}{05}{01}I{02}{01}{05}{04}}80Welcome, Lord {02}{01}d.\nWhat can I do for you today?{05}{05}{05}{01}I{02}{01}{05}{04}}70Why, Lord {02}{01}d!\nWhat brings you here?{05}{05}{05}{01}I{02}{01}{05}{04}}60Lord {02}{01}d,\nwhat do you need today?{05}{05}{05}What can I do for you?{05}{05}{05}
+@148
+Which province will they move to?{05}{05}{05}
+@149
+That is beyond their range.{05}{05}{05}
+@150
+That is the province giving orders.{05}{05}{05}
+@151
+That province belongs to another daimyo.{05}{05}{05}
+@152
+No route through your domain or empty provinces.{05}{05}{05}
+@153
+Who will you move?{05}{05}{05}
+@154
+What will you transport?{05}{05}{05}
+@155
+{01}I{02}{11}{04}=0There are no soldiers.{05}{05}{05}There are no supplies.{05}{05}{05}
+@156
+{01}I{02}{11}{04}=0{02}{09}d has reached its troop limit.{05}{05}{05}The storehouses of {02}{09}d are full.{05}{05}{05}
+@157
+How much gold will you take?{05}{05}{05}
+@158
+How much food will you take?{05}{05}{05}
+@159
+How many soldiers will you take?{05}{05}{05}
+@160
+How many guns will you take?{05}{05}{05}
+@161
+{01}I{02}{11}{04}=1Move {02}{05}d\nto {02}{09}d?{05}{05}{05}Move {02}{05}d and others ({02}{11}) to {02}{09}d?{05}{05}{05}
+@162
+This will leave the province empty. Move to {02}{09}d?{05}{05}{05}
+@163
+They moved to {02}{09}d.{05}{05}{05}
+@164
+Which province will you transport to?{05}{05}{05}
+@165
+Transport to {02}{09}d?{05}{05}{05}
+@166
+The supplies seem to have reached\n{02}{09}d safely.{05}{05}{05}
+@167
+{01}I{02}{11}{04}}50Bandits took over half the goods bound for {02}{09}d.{05}{05}{05}{01}I{02}{11}{04}}40Bandits took nearly half the goods bound for {02}{09}d.{05}{05}{05}{01}I{02}{11}{04}}30Bandits took over 30% of the goods bound for {02}{09}d.{05}{05}{05}{01}I{02}{11}{04}}20Bandits took over 20% of the goods bound for {02}{09}d.{05}{05}{05}{01}I{02}{11}{04}}16Bandits took nearly 20% of the goods bound for {02}{09}d.{05}{05}{05}{01}I{02}{11}{04}}12Bandits took over 10% of the goods bound for {02}{09}d.{05}{05}{05}{01}I{02}{11}{04}}8Bandits took nearly 10% of the goods bound for {02}{09}d.{05}{05}{05}Bandits took some of the goods bound for {02}{09}d.{05}{05}{05}
+@168
+Which province will you invade?{05}{05}{05}
+@169
+That is your own province.{05}{05}{05}
+@170
+That province is empty.{05}{05}{05}
+@171
+It does not border yours.{05}{05}{05}
+@172
+In a siege, the castle lord\nmust always take the field.{05}{05}{05}
+@173
+Choose officers, troops and unit types.{05}{05}{05}
+@174
+Who will go to battle?{05}{05}{05}
+@175
+Who will go to battle? (Max {02}{11}){05}{05}{05}
+@176
+Enter the number of troops.{05}{05}{05}
+@177
+Choose the unit type.{05}{05}{05}
+@178
+A unit has no troops.\nIs that all right?{05}{05}{05}
+@179
+Who will be the commander?{05}{05}{05}
+@180
+How much food will they carry?{05}{05}{05}
+@181
+Invade {02}{09}d?{05}{05}{05}
+@182
+The alliance with the {02}{01}d clan is broken.\nAll your retainers seem unhappy\nabout this invasion.{05}{05}{05}
+@183
+The {02}{09}#d clan in {02}{09}d\nhas invaded {02}{0A}d, held\nby the {02}{0A}#d clan.{05}{05}{05}
+@184
+Which province will you ask to join the attack?{05}{05}{05}
+@185
+It does not border the target province.{05}{05}{05}
+@186
+Send {02}{05}d to ask the {02}{01}d to join the attack?{05}{05}{05}
+@187
+As expected of {01}C{0A}{00}.\nA reliable ally indeed.{05}{05}{05}
+@188
+{02}{06}d is a shortsighted fool,\nit seems...{05}{05}{05}
+@189
+The {02}{01}d clan agreed\nto join the attack.\nNow form your units.{05}{05}{05}
+@190
+The {02}{01}d clan refused\nto join the attack.{05}{05}{05}
+@191
+The joint attack pact will be void.\nCall off the battle?{05}{05}{05}
+@192
+Have {02}{05}d conscript troops?{05}{05}{05}
+@193
+Troops are now {02}{11}\n(+{02}{12}).{05}{05}{05}
+@194
+Drill the soldiers.\nIs that all right?{05}{05}{05}
+@195
+Training is now {02}{11}\n(+{02}{12}).{05}{05}{05}
+@196
+What will you make?{05}{05}{05}
+@197
+{01}I{02}{11}{04}}20Sokyu cut the cost by\nover 20% for us.{05}{05}{05}{01}I{02}{11}{04}}10Sokyu cut the cost by\nover 10% for us.{05}{05}{05}{01}I{02}{11}{04}=0The price talks with Sokyu\ncame to nothing...{05}{05}{05}Sokyu lowered the cost\na little for us.{05}{05}{05}
+@198
+Making 10 guns costs {02}{11} gold.\nMake guns?{05}{05}{05}
+@199
+{02}{11} gold and {02}{12} months to build.\nBuild an ironclad?{05}{05}{05}
+@200
+The guns will be ready next month.{05}{05}{05}
+@201
+The ironclad will be ready\nin {02}{11} months.{05}{05}{05}
+@202
+The guns being made in\n{02}{09}d are ready.{05}{05}{05}
+@203
+The ironclad being built in\n{02}{09}d is ready.{05}{05}{05}
+@204
+Who will you give the ironclad to?{05}{05}{05}
+@205
+Give the ironclad to {02}{05}d.\nIs that all right?{05}{05}{05}
+@206
+Everyone already has an ironclad.{05}{05}{05}
+@207
+Set the tactics.{05}{05}{05}
+@208
+Which tactic will you adopt?{05}{05}{05}
+@209
+Who will you recruit?{05}{05}{05}
+@210
+{01}I{02}{05}9Will the daimyo try to recruit\n{02}{06}d in person?{05}{05}{05}Have {02}{05}d recruit\n{02}{06}d?{05}{05}{05}
+@211
+{01}I{02}{1B}{02}{05}{02}{06}{06}|{02}{1C}{02}{05}{02}{06}{06}|{02}{1D}{02}{05}{02}{06}{01}Jt{10}{05}{05}{05}{01}I{02}{05}9{06}&{02}{05}{18}{04}=1Will you lend your\nstrength to our clan?{05}{05}{05}{01}I{02}{05}9Lend your strength\nto our clan.{05}{05}{05}{01}S{02}{19}3Please lend your strength\nto our clan.{05}{05}{05}We need your strength,\nwhatever it takes.{05}{05}{05}If you are willing,\nwill you serve our clan?{05}{05}{05}
+@212
+{01}I{02}{05}{07}<{04}={02}{06}<{01}C{0C}{00}, please,\nlend me your strength.{05}{05}{05}{01}I{02}{1B}{02}{05}{02}{06}{01}C{0C}{00}, please,\nlend me your strength.{05}{05}{05}{01}I{02}{1C}{02}{05}{02}{06}{06}&{02}{05}5{04}<{02}{06}5{01}C{0C}{00}, please,\nlend me your strength.{05}{05}{05}{01}I{02}{1C}{02}{05}{02}{06}{01}C{0C}{00}, please,\nlend me your strength.{05}{05}{05}{01}I{02}{1D}{02}{05}{02}{06}{06}&{02}{05}5{04}>{02}{06}5{01}C{0C}{00}, please,\nlend me your strength.{05}{05}{05}Please, lend me\nyour strength.{05}{05}{05}
+@213
+{01}I{02}{1B}{02}{05}{02}{06}{06}|{02}{1C}{02}{05}{02}{06}{06}|{02}{1D}{02}{05}{02}{06}{01}Jv{10}{05}{05}{05}{01}S{02}{19}3I will gladly\nlend my strength.{05}{05}{05}I have been waiting\nfor this moment.{05}{05}{05}I am honored\nthat you asked!{05}{05}{05}
+@214
+{01}I{02}{05}{07}<{04}={02}{06}<Of course.{05}{05}{05}{01}I{02}{1B}{02}{05}{02}{06}Of course.{05}{05}{05}{01}I{02}{1C}{02}{05}{02}{06}{06}&{02}{05}5{04}<{02}{06}5Of course.{05}{05}{05}{01}I{02}{1C}{02}{05}{02}{06}Of course.{05}{05}{05}{01}I{02}{1D}{02}{05}{02}{06}{06}&{02}{05}5{04}>{02}{06}5Of course.{05}{05}{05}Of course,\ngladly.{05}{05}{05}
+@215
+{01}I{02}{1B}{02}{05}{02}{06}{06}|{02}{1C}{02}{05}{02}{06}{06}|{02}{1D}{02}{05}{02}{06}{01}Jx{10}{05}{05}{05}I am busy now.\nPlease leave.{05}{05}{05}
+@216
+{01}I{02}{05}{07}<{04}={02}{06}<That, I must\nrespectfully decline.{05}{05}{05}{01}I{02}{1B}{02}{05}{02}{06}Sorry, but not that...{05}{05}{05}{01}I{02}{1C}{02}{05}{02}{06}{06}&{02}{05}5{04}<{02}{06}5That, I must\nrespectfully decline.{05}{05}{05}{01}I{02}{1C}{02}{05}{02}{06}Sorry, but not that...{05}{05}{05}{01}I{02}{1D}{02}{05}{02}{06}{06}&{02}{05}5{04}>{02}{06}5Sorry, but not that...{05}{05}{05}I am busy now.\nPlease leave.{05}{05}{05}
+@217
+Recruited {02}{05}d.{05}{05}{05}
+@218
+Failed to recruit {02}{05}d.{05}{05}{05}
+@219
+Who will you reward? (Max {02}{11}){05}{05}{05}
+@220
+{01}I{02}{11}{04}>1Give {02}{12} gold each,\n{02}{13} in all?{05}{05}{05}Give {02}{12} gold to {02}{05}d?{05}{05}{05}
+@221
+The loyalty of {02}{05}d and the\nothers is now 100.{05}{05}{05}
+@222
+{01}I{02}{13}{04}>1The loyalty of {02}{05}d and\nthe others has risen.{05}{05}{05}{02}{05}d's loyalty is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@223
+Who will you give or take tea ware from?{05}{05}{05}
+@224
+Choose the tea ware.{05}{05}{05}
+@225
+{01}I{02}{11}{04}=0{06}&{02}{12}{04}=0Nothing given or taken. All right?{05}{05}{05}{01}I{02}{12}{04}=0{01}J{82}{10}{05}{05}{05}{01}I{02}{11}{04}=0{01}J{83}{10}{05}{05}{05}Give {02}{05}d {02}{11} tea ware, take {02}{12}?{05}{05}{05}
+@226
+{01}I{02}{11}{04}=1Give {02}{05}d\n{02}{0D}d?{05}{05}{05}Give {02}{05}d\n{02}{11} pieces of tea ware?{05}{05}{05}
+@227
+{01}I{02}{12}{04}=1Take {02}{0D}d\nback from {02}{05}d?{05}{05}{05}Take {02}{12} pieces of tea\nware back from {02}{05}d?{05}{05}{05}
+@228
+{01}I{02}{11}{04}=100{06}&{02}{12}{04}=0{02}{05}d seems satisfied\nwith this treatment.\nLoyalty stays at {02}{11}.{05}{05}{05}{01}I{02}{12}{04}=0{02}{05}d's loyalty\nstays at {02}{11}.{05}{05}{05}{02}{05}d's loyalty is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@229
+{02}{05}d's loyalty is now\n{02}{11} (-{02}{12}).{05}{05}{05}
+@230
+Invite Imai Sokyu?\n({02}{11} gold needed){05}{05}{05}
+@231
+Who will attend? (50 gold each){05}{05}{05}
+@232
+A tea party needs 2 or more guests.{05}{05}{05}
+@233
+An officer with Learning 60+ is needed.{05}{05}{05}
+@234
+This will cost {02}{11} gold.\nHold a tea party?{05}{05}{05}
+@235
+Sadly, nothing was gained\nfrom this tea party.{05}{05}{05}
+@236
+{02}{05}d and the others took\nsomething from the tea party.\n%s experience rose.{05}{05}{05}
+@237
+Culture in {02}{09}d is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@238
+You would do well to\nstudy more.{05}{05}{05}
+@239
+A fine tea party.{05}{05}{05}
+@240
+Splendid!\nA wonderful tea party.{05}{05}{05}
+@241
+Amity with Imai Sokyu is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@242
+Imai Sokyu has stayed behind.\nHe seems to have something to say.{05}{05}{05}
+@243
+{01}S{02}{19}3Never let your guard down\naround {02}{05}d.{05}{05}{05}They say {02}{05}d\nharbors treason.{05}{05}{05}I sense ill intent\nfrom {02}{05}d.{05}{05}{05}
+@244
+Who will be lord of {02}{09}d?{05}{05}{05}
+@245
+Appoint {02}{05}d as lord\nof {02}{09}d?{05}{05}{05}
+@246
+{02}{05}d is now lord\nof {02}{09}d.{05}{05}{05}
+@247
+{01}I{02}{1D}{02}{05}{02}{06}Wh-what do you mean?{05}{05}{05}{01}S{02}{19}2{01}C{07}{00},\nplease reconsider!{05}{05}{05}Please, forgive me!{05}{05}{05}
+@248
+Who will you banish? (Max {02}{11}){05}{05}{05}
+@249
+{01}S{02}{19}2Heaven help me...{05}{05}{05}Th-thank you, my lord.{05}{05}{05}
+@250
+{01}S{02}{19}2You will regret this.{05}{05}{05}I will repay this insult...{05}{05}{05}
+@251
+{01}I{02}{11}{04}>1Banish {02}{05}d and the others,\n{02}{11} in all?{05}{05}{05}Banish {02}{05}d?{05}{05}{05}
+@252
+{01}I{02}{11}{04}>1Banished {02}{05}d and the others,\n{02}{11} in all.{05}{05}{05}Banished {02}{05}d.{05}{05}{05}
+@253
+{01}I{02}{11}{04}>1Took back the {02}{11} pieces\nof tea ware {02}{05}d held.{05}{05}{05}Took back the tea ware\n"{02}{0D}d" from {02}{05}d.{05}{05}{05}
+@254
+Took {02}{11} tea ware from {02}{05}d and others.{05}{05}{05}
+@255
+Loading data...{05}{05}{05}
+@256
+Loading complete.{05}{05}{05}
+@257
+Lord {02}{05}d, {02}{06}d has\nleft your service.{05}{05}{05}
+@258
+Choose an officer to succeed.{05}{05}{05}
+@259
+Sadly, you were unable\nto unify the realm.{05}{05}{05}
+@260
+The tea ware {02}{05}d held\nwas returned to {02}{06}d.{05}{05}{05}
+@261
+No supplies are selected.{05}{05}{05}
+@262
+This tactic cannot be changed.{05}{05}{05}
+@263
+Nothing is selected.{05}{05}{05}
+@264
+Not enough action points.{05}{05}{05}
+@265
+Not enough gold.{05}{05}{05}
+@266
+You cannot choose any more.{05}{05}{05}
+@267
+You cannot confirm on the officer info screen.{05}{05}{05}
+@268
+No one is selected.{05}{05}{05}
+@269
+Nothing is selected.{05}{05}{05}
+@270
+You cannot choose any more.{05}{05}{05}
+@271
+Cannot confirm on the tea ware info screen.{05}{05}{05}
+@272
+Nothing has been given or taken.{05}{05}{05}
+@273
+No one is selected.{05}{05}{05}
+@274
+You cannot choose any more.{05}{05}{05}
+@275
+You cannot confirm on the daimyo info screen.{05}{05}{05}
+@276
+Only one unit can be formed.{05}{05}{05}
+@277
+No units have been formed.{05}{05}{05}
+@278
+No soldiers can be assigned to the unit.{05}{05}{05}
+@279
+Only ashigaru units can be formed.{05}{05}{05}
+@280
+No commander has been chosen.{05}{05}{05}
+@281
+No soldiers have been assigned.{05}{05}{05}
+@282
+The castle lord is not taking the field.{05}{05}{05}
+@283
+You cannot choose any more.{05}{05}{05}
+@284
+No units have been set.{05}{05}{05}
+@285
+You cannot form any more units.{05}{05}{05}
+@286
+No officer has been set.{05}{05}{05}
+@287
+There are no soldiers to assign.{05}{05}{05}
+@288
+Not enough guns.{05}{05}{05}
+@289
+Not enough gold.{05}{05}{05}
+@290
+They will carry no food.\nIs that all right?{05}{05}{05}
+@291
+Nothing is selected.{05}{05}{05}
+@292
+You cannot choose any more.{05}{05}{05}
+@293
+Cannot confirm on the province info screen.{05}{05}{05}
+@294
+Fight at sea?{05}{05}{05}
+@295
+There are no idle officers.{05}{05}{05}
+@296
+The required techniques are missing.{05}{05}{05}
+@297
+Unique tactics cannot be chosen.{05}{05}{05}
+@298
+It is already set.{05}{05}{05}
+@299
+Cancel this command and return\nto the first screen?{05}{05}{05}
+@300
+Invite the officer to serve your clan.{05}{05}{05}
+@301
+The daimyo still holds provinces.{05}{05}{05}
+@302
+You can invite them up to 3 times.{05}{05}{05}
+@303
+Release the officer.{05}{05}{05}
+@304
+Execute the officer.{05}{05}{05}
+@305
+{01}I{02}{05}{18}{04}=1{01}Jﾒ{10}{05}{05}{05}{01}I{02}{05}<{04}=95{06}&{02}{06}<{04}=169That I... should fall\nto that fool...{05}{05}{05}{01}I{02}{05}<{04}=267{06}&{02}{06}<{04}=169So you were no fool\nafter all...{05}{05}{05}{01}I{02}{05}<{04}=422{06}&{02}{06}<{04}=306Sanada, my sworn foe!{05}{05}{05}{01}I{02}{05}<{04}=422{06}&{02}{06}<{04}=307Sanada, my sworn foe!{05}{05}{05}{01}I{02}{05}<{04}=422{06}&{02}{06}<{04}=308Sanada, my sworn foe!{05}{05}{05}{01}I{02}{05}<{04}=12{06}&{02}{06}<{04}=474Is this my fate...?{05}{05}{05}{01}I{02}{05}<{04}=369{06}&{02}{06}<{04}=104At last, it is settled...{05}{05}{05}{01}I{02}{05}<{04}=104{06}&{02}{06}<{04}=369Splendid generalship,\nmy worthy rival...{05}{05}{05}{01}I{02}{05}{1A}{03}+{02}{05}{1B}{03}+{02}{05}{1C}{04}}210{01}Jﾓ{10}{05}{05}{05}{01}I{02}{05}{1A}{04}}85{06}|{02}{05}{1B}{04}}85{01}Jﾓ{10}{05}{05}{05}{01}S{02}{19}3My strength was\nnot enough...{05}{05}{05}Such humiliation...{05}{05}{05}That {01}C{00}{00} should...{05}{05}{05}
+@306
+{01}S{02}{19}3Spare me no mercy\nfor being a woman.{05}{05}{05}How did it come to this...{05}{05}{05}Go on, cut me down\nif you will.{05}{05}{05}
+@307
+{01}I{02}{06}{1A}{04}}85{06}|{02}{06}{1B}{04}}85You may cut me down...{05}{05}{05}{01}S{02}{19}3...Cut me down.{05}{05}{05}Beaten by the likes\nof {01}C{0F}{00}...{05}{05}{05}How could {01}C{00}{00}...{05}{05}{05}
+@308
+{01}I{02}{05}{18}{04}=1{01}Jﾕ{10}{05}{05}{05}{01}S{02}{19}3Cut me down.\nI have nothing more to say.{05}{05}{05}Not even if heaven and\nearth were overturned.{05}{05}{05}You mock me, {01}C{0F}{00}!\n...Then I choose death.{05}{05}{05}
+@309
+{01}S{02}{19}3Cut me down quickly. Do\nyou want more infamy?{05}{05}{05}Insolent wretch...\nyou disgust me!{05}{05}{05}Do not think little of me as\na woman! Out of the question!{05}{05}{05}
+@310
+{01}I{02}{05}{18}{04}=1{01}Jﾗ{10}{05}{05}{05}{01}I{02}{05}{1A}{03}+{02}{05}{1B}{03}+{02}{05}{1C}{04}}210{01}Jﾘ{10}{05}{05}{05}{01}I{02}{05}{1A}{04}}85{06}|{02}{05}{1B}{04}}85{01}Jﾘ{10}{05}{05}{05}{01}S{02}{19}3I will serve the {02}{06}e clan.\n{01}C{00}{00} was no daimyo.{05}{05}{05}If my life is spared,\nI will do anything.{05}{05}{05}I will be the hands and feet\nof Lord {02}{06}f!{05}{05}{05}
+@311
+{01}S{02}{19}3I was not made to be\na daimyo... I will serve.{05}{05}{05}This too is fate...\nI will follow you.{05}{05}{05}I will be the hands and feet\nof Lord {02}{06}f.{05}{05}{05}
+@312
+{01}S{02}{19}3I entrust my ambition\nto Lord {02}{06}f.{05}{05}{05}...It cannot be helped...\nUse my strength as you will.{05}{05}{05}Under the {02}{06}e clan,\n...show me the realm.{05}{05}{05}
+@313
+{01}I{02}{05}{18}{04}=1{01}Jﾚ{10}{05}{05}{05}{01}I{02}{05}{1A}{03}+{02}{05}{1B}{03}+{02}{05}{1C}{04}}210{01}Jﾛ{10}{05}{05}{05}{01}I{02}{05}{1A}{04}}85{06}|{02}{05}{1B}{04}}85{01}Jﾛ{10}{05}{05}{05}{01}S{02}{19}3{01}C{00}{00} too have pride...\nI refuse.{05}{05}{05}{01}C{00}{00} am a daimyo. I will\nserve no other clan...{05}{05}{05}If you will spare my life,\nplease set me free...{05}{05}{05}
+@314
+{01}S{02}{19}3{01}C{00}{00} too have pride.\nPlease spare me this...{05}{05}{05}No mercy for a beaten general...\nI am ready to die.{05}{05}{05}I need no pity...\nDo not shame me further.{05}{05}{05}
+@315
+{01}S{02}{19}3I refuse...\n{01}C{00}{00} am {02}{05}d!{05}{05}{05}Cut me down and be done.\nDo not stain my end.{05}{05}{05}My ambition is crushed...\n...cut me down.{05}{05}{05}
+@316
+{01}I{02}{05}{18}{04}=1{01}Jﾝ{10}{05}{05}{05}{01}S{02}{19}3I am grateful...\nI will not forget this.{05}{05}{05}You would let me go?\nI thank you for your mercy.{05}{05}{05}We may meet again.\nFarewell.{05}{05}{05}
+@317
+{01}S{02}{19}3I am grateful...\nI will repay this someday.{05}{05}{05}You would let me go?\n...Thank you.{05}{05}{05}Thank you for your\ndecision. Farewell.{05}{05}{05}
+@318
+{01}I{02}{05}{18}{04}=1{01}Jﾟ{10}{05}{05}{05}{01}S{02}{19}3I am grateful...\nWe will meet on the battlefield.{05}{05}{05}You set me free...?\nYou will regret it.{05}{05}{05}I hope that softness\ndoes not cost you your life.{05}{05}{05}
+@319
+{01}S{02}{19}3I am grateful...\nWe will meet on the battlefield.{05}{05}{05}Let me go? Surely not...\nYou underestimate me.{05}{05}{05}Such softness can\ncost you your life...!{05}{05}{05}
+@320
+{01}I{02}{05}<{04}=169{01}J{E3}{10}{05}{05}{05}{01}I{02}{05}<{04}=422{01}J{E4}{10}{05}{05}{05}{01}I{02}{05}<{04}=369{01}J{E5}{10}{05}{05}{05}{01}I{02}{05}<{04}=104{01}J{E6}{10}{05}{05}{05}{01}I{02}{05}<{04}=95{01}J{E7}{10}{05}{05}{05}{01}I{02}{05}<{04}=525{01}J{E8}{10}{05}{05}{05}{01}I{02}{05}<{04}=27{01}J{E9}{10}{05}{05}{05}{01}I{02}{05}<{04}=593{01}J{EA}{10}{05}{05}{05}{01}I{02}{05}<{04}=400{01}J{EB}{10}{05}{05}{05}{01}I{02}{05}<{04}=143{01}J{EC}{10}{05}{05}{05}{01}I{02}{05}<{04}=329{01}J{ED}{10}{05}{05}{05}{01}I{02}{05}<{04}=12{01}J{EE}{10}{05}{05}{05}{01}I{02}{05}<{04}=474{01}J{EF}{10}{05}{05}{05}{01}I{02}{05}<{04}=385{01}J{F0}{10}{05}{05}{05}{01}I{02}{05}{18}{04}=1{01}J{E1}{10}{05}{05}{05}{01}I{02}{05}{1A}{03}+{02}{05}{1B}{03}+{02}{05}{1C}{04}}210{01}J{E2}{10}{05}{05}{05}{01}I{02}{05}{1A}{04}}85{06}|{02}{05}{1B}{04}}85{01}J{E2}{10}{05}{05}{05}{01}S{02}{19}3S-so bitter...\n{01}CI{00}{05}{05}{05}Ah, to end in a place\nlike this...{05}{05}{05}At least let me die\nwith a daimyo's honor.{05}{05}{05}
+@321
+{01}S{02}{19}3I was prepared...\nFarewell!{05}{05}{05}I lived through the age\nof war... Now I will rest...{05}{05}{05}Thank you for\nan honorable end...{05}{05}{05}
+@322
+{01}S{02}{19}3So this is the end...\nGrant me a second.{05}{05}{05}Ha! Afraid of {01}C{00}{00}?\nThen cut me down!{05}{05}{05}So it ends here...\nHow bitter...{05}{05}{05}
+@323
+Beside the realm below heaven, all is a dream...{05}{05}{05}
+@324
+The hollyhock's rule of the realm\nwas still a little way off...{05}{05}{05}
+@325
+All of you... tomorrow, raise\nour banners at Seta...!{05}{05}{05}
+@326
+Heh... a lifetime's glory,\njust one cup of sake...{05}{05}{05}
+@327
+I... that I should fall\nin a place like this...{05}{05}{05}
+@328
+Lord Soun, your unworthy Ujiyasu\ncan go no further...{05}{05}{05}
+@329
+The long age of the Ashikaga...\nhere it comes to its end...{05}{05}{05}
+@330
+...Let none of you lose heart.\nAll that lives must die.{05}{05}{05}
+@331
+Behold the Demon Child's end...\nburn it into your eyes!{05}{05}{05}
+@332
+My soul... is already\nin the hands of God...{05}{05}{05}
+@333
+A life without regret...\nLook, how wide the sky is...{05}{05}{05}
+@334
+The dream of my life... on\nwaking, all returns to one.{05}{05}{05}
+@335
+Naniwa was a dream within\na dream. It was a good dream...{05}{05}{05}
+@336
+To rule the realm, I needed\njust a little more time...{05}{05}{05}
+@337
+{01}I{02}{05}{18}{04}=1{01}J{F2}{10}{05}{05}{05}{01}I{02}{05}{1A}{03}+{02}{05}{1B}{03}+{02}{05}{1C}{04}}210{01}J{F3}{10}{05}{05}{05}{01}I{02}{05}{1A}{04}}85{06}|{02}{05}{1B}{04}}85{01}J{F3}{10}{05}{05}{05}{01}S{02}{19}3D-don't kill me...{05}{05}{05}Do what you will with me.{05}{05}{05}That {01}C{00}{00} should...{05}{05}{05}
+@338
+{01}S{02}{19}3Spare me no mercy\nfor being a woman.{05}{05}{05}How did it come to this...{05}{05}{05}Go on, cut me down\nif you will.{05}{05}{05}
+@339
+{01}S{02}{19}3...Cut me down.{05}{05}{05}Beaten by the likes\nof {01}C{0F}{00}...{05}{05}{05}I have nothing to say...{05}{05}{05}
+@340
+{01}S{02}{19}3{01}C{00}{00} serve no clan but\nthe {02}{01}d clan!{05}{05}{05}My loyalty is without a\nshadow. Look elsewhere.{05}{05}{05}Absurd... You would have\nme betray my loyalty?{05}{05}{05}
+@341
+{01}S{02}{19}2You insult {01}C{00}{00}, a\nkinsman of the {02}{01}d clan?{05}{05}{05}Do not take the blood\nof the {02}{01}d lightly.{05}{05}{05}
+@342
+{01}S{02}{19}2As a vassal, I will\nfollow {01}C{07}{00} and serve...{05}{05}{05}I will follow only\n{01}C{07}{00}...{05}{05}{05}
+@343
+{01}I{02}{05}{18}{04}=1{01}J{F8}{10}{05}{05}{05}{01}I{02}{05}{1A}{03}+{02}{05}{1B}{03}+{02}{05}{1C}{04}}210{01}J{F9}{10}{05}{05}{05}{01}I{02}{05}{1A}{04}}85{06}|{02}{05}{1B}{04}}85{01}J{F9}{10}{05}{05}{05}{01}S{02}{19}3I will serve the {02}{06}e clan.\nI will never betray you.{05}{05}{05}If my life is spared,\nI will do anything.{05}{05}{05}I will be the hands and\nfeet of {01}C{07}{00}!{05}{05}{05}
+@344
+{01}S{02}{19}3I am most grateful.\nI will repay you with deeds.{05}{05}{05}This too is fate...\nI will follow you.{05}{05}{05}I will be the hands and\nfeet of {01}C{07}{00}.{05}{05}{05}
+@345
+{01}S{02}{19}3I entrust my strength\nto {01}C{07}{00}.{05}{05}{05}I am most grateful.\nPlease make use of me.{05}{05}{05}Under the {02}{06}e clan,\nshow me the realm.{05}{05}{05}
+@346
+{01}I{02}{05}{18}{04}=1{01}J{FB}{10}{05}{05}{05}{01}I{02}{05}{1A}{03}+{02}{05}{1B}{03}+{02}{05}{1C}{04}}210{01}J{FC}{10}{05}{05}{05}{01}I{02}{05}{1A}{04}}85{06}|{02}{05}{1B}{04}}85{01}J{FC}{10}{05}{05}{05}{01}S{02}{19}3{01}C{00}{00} too have my loyalty...\nI refuse.{05}{05}{05}{01}C{00}{00} am a samurai. My heart\nis not so easily turned...{05}{05}{05}If you will spare my life,\nplease set me free.{05}{05}{05}
+@347
+{01}S{02}{19}3{01}C{00}{00} too have pride.\nPlease spare me this...{05}{05}{05}No mercy for a beaten general...\nI am ready to die.{05}{05}{05}I need no pity... Let me die\nas a woman of a warrior house.{05}{05}{05}
+@348
+{01}S{02}{19}3I refuse...\n{01}C{00}{00} am {02}{05}d!{05}{05}{05}Cut me down and be done.\nDo not stain my end.{05}{05}{05}I thank you for the offer,\nbut I cannot accept it.{05}{05}{05}
+@349
+{01}I{02}{05}{18}{04}=1{01}J{FE}{10}{05}{05}{05}{01}I{02}{05}{1A}{03}+{02}{05}{1B}{03}+{02}{05}{1C}{04}}210{01}J{FF}{10}{05}{05}{05}{01}I{02}{05}{1A}{04}}85{06}|{02}{05}{1B}{04}}85{01}J{FF}{10}{05}{05}{05}{01}S{02}{19}3I-I don't want to die...\n{01}CI{00}{05}{05}{05}Ah, to end in a place\nlike this...{05}{05}{05}Please... grant me a second.{05}{05}{05}
+@350
+{01}S{02}{19}3I was prepared...\nFarewell!{05}{05}{05}I lived through the age\nof war. Now I will rest...{05}{05}{05}Thank you for\nan honorable end...{05}{05}{05}
+@351
+{01}S{02}{19}3So this is the end...\nGrant me a second.{05}{05}{05}Ha! Afraid of {01}C{00}{00}?\nThen cut me down!{05}{05}{05}So it ends here...\nHow bitter...{05}{05}{05}
+@352
+{02}{05}d has joined\nthe {02}{01}d clan.{05}{05}{05}
+@353
+{01}I{02}{11}{04}=0{01}J{02}{11}{05}{05}{05}Lord {02}{01}d, what of {02}{05}d?\n(Invitations left: {02}{11}){05}{05}{05}
+@354
+Lord {02}{01}d, what of {02}{05}d?{05}{05}{05}
+@355
+Obtained the tea ware\n{02}{05}d had held.{05}{05}{05}

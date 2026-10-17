@@ -1,0 +1,850 @@
+@0
+While taunted, they can only attack directly.{05}{05}{05}
+@1
+The commander cannot enter the castle.{05}{05}{05}
+@2
+Choose the province to retreat to.{05}{05}{05}
+@3
+You have the maximum number of regular units.{05}{05}{05}
+@4
+Cannot charge an enemy on water.{05}{05}{05}
+@5
+Cannot charge onto that terrain.{05}{05}{05}
+@6
+Your orders for {02}{05}d?{05}{05}{05}
+@7
+Allied armies cannot use tactics.{05}{05}{05}
+@8
+No tactic uses remain.{05}{05}{05}
+@9
+Only the commander can use tactics.{05}{05}{05}
+@10
+A tactic has already been used this turn.{05}{05}{05}
+@11
+There is nowhere to retreat to.{05}{05}{05}
+@12
+Not available in Clash of Warlords.{05}{05}{05}
+@13
+Allied armies cannot give orders.{05}{05}{05}
+@14
+No officer has promised to defect.{05}{05}{05}
+@15
+Choose the officer for the rearguard.{05}{05}{05}
+@16
+No officer can take the field.{05}{05}{05}
+@17
+No troops can take the field.{05}{05}{05}
+@18
+Not available in the tutorial.{05}{05}{05}
+@19
+Launch an ambush?{05}{05}{05}
+@20
+Attack after moving?{05}{05}{05}
+@21
+You can ambush several units.\nWhich unit will you ambush?{05}{05}{05}
+@22
+Which unit will you ambush?{05}{05}{05}
+@23
+The gate is open!{05}{05}{05}
+@24
+{02}{05}d was killed\nby a stray bullet!{05}{05}{05}
+@25
+{02}{05}d's men lost\ntheir general and scattered.{05}{05}{05}
+@26
+{02}{05}d was killed\nin the melee!{05}{05}{05}
+@27
+{02}{05}d's men lost\ntheir general and scattered.{05}{05}{05}
+@28
+Which unit will you attack next?{05}{05}{05}
+@29
+All units will retreat.\nChoose the province to retreat to.{05}{05}{05}
+@30
+Retreat to {02}{09}d.\nIs that all right?{05}{05}{05}
+@31
+All units will fall back to {02}{09}d. All right?{05}{05}{05}
+@32
+Who will you leave\nas the rearguard?{05}{05}{05}
+@33
+{02}{05}d covers the {02}{01}d army's retreat.{05}{05}{05}
+@34
+The {02}{01}d army begins its retreat.{05}{05}{05}
+@35
+{02}{05}d begins to retreat.{05}{05}{05}
+@36
+{02}{05}d got away.{05}{05}{05}
+@37
+{02}{05}d retreated safely.{05}{05}{05}
+@38
+Captured {02}{05}d.{05}{05}{05}
+@39
+{02}{05}d was captured.{05}{05}{05}
+@40
+The officers in the castle will retreat. Choose where to.{05}{05}{05}
+@41
+The officers in the castle\nretreated to {02}{09}d.{05}{05}{05}
+@42
+The officers in the castle were\ncaptured by the {02}{01}d army.{05}{05}{05}
+@43
+{02}{05}d's unit will retreat.\nChoose the province to retreat to.{05}{05}{05}
+@44
+{02}{05}d's unit will withdraw into the castle. All right?{05}{05}{05}
+@45
+Demand surrender?{05}{05}{05}
+@46
+{02}{05}d accepted the demand.{05}{05}{05}
+@47
+{02}{05}d refused the demand.{05}{05}{05}
+@48
+Choose the unit to turn.{05}{05}{05}
+@49
+Turn {02}{05}d's unit.\nIs that all right?{05}{05}{05}
+@50
+{02}{05}d has defected!{05}{05}{05}
+@51
+These officers will defect:\n{02}{05}d  {02}{06}d\n{02}{07}d{05}{05}{05}
+@52
+These officers will defect:\n{02}{05}d  {02}{06}d\n{02}{07}d and {02}{11} more{05}{05}{05}
+@53
+The {02}{01}d army held {02}{09}d\nfor 7 days.\nVictory to the {02}{01}d army!{05}{05}{05}
+@54
+The {02}{01}d army held %s\nfor 30 days.\nVictory to the {02}{01}d army!{05}{05}{05}
+@55
+\n　　　　Day {02}{11}　{02}{12}:00{05}{05}{05}
+@56
+\n　　　　　　Day {02}{11}{05}{05}{05}
+@57
+The snow is lowering the morale\nof the attacking {02}{01}d army.{05}{05}{05}
+@58
+The {02}{01}d army is out of food\nand its morale is falling.{05}{05}{05}
+@59
+The {02}{01}d army's morale has fallen\nand soldiers are deserting.{05}{05}{05}
+@60
+Deploy automatically?{05}{05}{05}
+@61
+Place your headquarters.{05}{05}{05}
+@62
+Place your headquarters here.\nIs that all right?{05}{05}{05}
+@63
+Place {02}{05}d's unit.{05}{05}{05}
+@64
+Is this formation all right?{05}{05}{05}
+@65
+With its headquarters taken, the\n{02}{01}d army's food was all burned.\nUnrest is spreading among the troops.{05}{05}{05}
+@66
+The {02}{01}d army's keep has fallen.{05}{05}{05}
+@67
+Victory to the {02}{01}d army!{05}{05}{05}
+@68
+The {02}{01}d army is defeated.{05}{05}{05}
+@69
+The {02}{01}d army, allied with the\nlosing side, is retreating.{05}{05}{05}
+@70
+{02}{05}d's unit is confused.{05}{05}{05}
+@71
+{02}{05}d's unit is taunted.{05}{05}{05}
+@72
+Close the selected gate.\nIs that all right?{05}{05}{05}
+@73
+Open the selected gate.\nIs that all right?{05}{05}{05}
+@74
+End {02}{05}d's unit's turn.\nIs that all right?{05}{05}{05}
+@75
+{02}{05}d's unit's mobility\nis now {02}{11}.{05}{05}{05}
+@76
+{02}{05}d retreated into the castle.{05}{05}{05}
+@77
+{02}{05}d retreated to {02}{09}d.{05}{05}{05}
+@78
+Which tactic will you use?{05}{05}{05}
+@79
+That tactic has already been used.{05}{05}{05}
+@80
+No unit of the right type for this tactic.{05}{05}{05}
+@81
+Cannot be used in rain or snow.{05}{05}{05}
+@82
+Cannot be used in a field battle.{05}{05}{05}
+@83
+Morale is already high.{05}{05}{05}
+@84
+No units are under a tactic effect.{05}{05}{05}
+@85
+It has no effect on the commander's unit.{05}{05}{05}
+@86
+Only possible in your own castle.{05}{05}{05}
+@87
+Only possible with the commander in the castle.{05}{05}{05}
+@88
+There is no gate to break.{05}{05}{05}
+@89
+Only usable when attacking a castle.{05}{05}{05}
+@90
+Use %s.\nIs that all right?{05}{05}{05}
+@91
+Some units are %s,\nso it will have no effect on them.{05}{05}{05}
+@92
+The tactic now in effect,\n%s, will be lost.{05}{05}{05}
+@93
+{02}{05}d's unit\nis confused!{05}{05}{05}
+@94
+{02}{05}d's unit\nis taunted!{05}{05}{05}
+@95
+The {02}{01}d army's base mobility\nrose by {02}{11}.{05}{05}{05}
+@96
+The {02}{01}d army seems to know the {02}{02}d's moves.{05}{05}{05}
+@97
+The {02}{01}d army is ready\nto scale the walls.{05}{05}{05}
+@98
+The {02}{01}d army's mobility rose; some foes are confused.{05}{05}{05}
+@99
+The {02}{01}d army's morale\nrose by {02}{11}.{05}{05}{05}
+@100
+All tactic effects on every unit\non the field have vanished.{05}{05}{05}
+@101
+Units of the {02}{01}d army\nare taunted!{05}{05}{05}
+@102
+The {02}{01}d army's morale\nfell by {02}{11}.{05}{05}{05}
+@103
+Units of the {02}{01}d army\nare confused!{05}{05}{05}
+@104
+Thanks to {02}{05}d, the fire\nattack did far less harm to\nmorale and food.{05}{05}{05}
+@105
+The fire attack cut the {02}{01}d army's food and morale.{05}{05}{05}
+@106
+The {02}{01}d army's fire oxen are\nhurting the {02}{02}d army.{05}{05}{05}
+@107
+Awed by the {02}{01}d, {02}{02}d soldiers are deserting.{05}{05}{05}
+@108
+Deceived, {02}{05}d fell back to {02}{09}d.{05}{05}{05}
+@109
+Fooled by a false report, {02}{05}d fell back inside.{05}{05}{05}
+@110
+Fooled by a false report,\n{02}{05}d's unit retreated.{05}{05}{05}
+@111
+The firebombs cut the {02}{01}d army's troops and morale.{05}{05}{05}
+@112
+The {02}{02}d's morale fell; the {02}{01}d's attack rose.{05}{05}{05}
+@113
+The {02}{01}d army's ashigaru\ngained attack.{05}{05}{05}
+@114
+The {02}{01}d army's ashigaru\ngained attack against gates.{05}{05}{05}
+@115
+The {02}{01}d army's ashigaru gained\nattack and cancelled the\n{02}{02}d army's tactic effects.{05}{05}{05}
+@116
+The {02}{01}d army's ashigaru\ngained defense, and morale\nrose by 7.{05}{05}{05}
+@117
+The {02}{01}d army's ashigaru\ngained attack and defense.{05}{05}{05}
+@118
+The {02}{01}d army's ashigaru\nswitched to bows.{05}{05}{05}
+@119
+The {02}{01}d army's bow units gained\nattack, and their volleys now\nlower morale.{05}{05}{05}
+@120
+The {02}{01}d army's bow units\ngained attack.{05}{05}{05}
+@121
+The {02}{01}d army's cavalry\ngained charge power.{05}{05}{05}
+@122
+The {02}{01}d army's cavalry\ngained attack and mobility.{05}{05}{05}
+@123
+The {02}{01}d army's cavalry gained\nattack, defense and mobility.{05}{05}{05}
+@124
+The {02}{01}d army's cavalry\ngained attack but lost defense.{05}{05}{05}
+@125
+The {02}{01}d army's gun units\ngained range.{05}{05}{05}
+@126
+The {02}{01}d army's gun units can\nnow fire in rain and snow.{05}{05}{05}
+@127
+The {02}{01}d army's gun units can\nnow {1B}C3fire twice in a row{1B}C1.{05}{05}{05}
+@128
+The {02}{01}d army's gun units can\nnow {1B}C3fire three times in a row{1B}C1.{05}{05}{05}
+@129
+The {02}{01}d army's gun units can\nnow {1B}C3fire twice in a row{1B}C1, and\ntheir shots lower morale.{05}{05}{05}
+@130
+A unit is on terrain where it cannot switch.{05}{05}{05}
+@131
+The {02}{01}d army's gun units\nswitched to cannons.{05}{05}{05}
+@132
+The {02}{01}d army's cannon units\ngained attack.{05}{05}{05}
+@133
+Save the data and quit the game.\nIs that all right?{05}{05}{05}
+@134
+Mobility↑ for 6 turns{05}{05}{05}
+@135
+Mobility↑↑ for 3 turns{05}{05}{05}
+@136
+See enemies, ambush always for 10 turns{05}{05}{05}
+@137
+Sure wall climbs, less mobility, 3 turns{05}{05}{05}
+@138
+Mobility↑↑↑ for 2 turns{05}{05}{05}
+@139
+Mobility↑↑ 2 turns, confuse low War{05}{05}{05}
+@140
+Own morale↑{05}{05}{05}
+@141
+Cancel all tactic effects{05}{05}{05}
+@142
+Low-Learning enemies attack directly only{05}{05}{05}
+@143
+Stop low-Politics enemies moving{05}{05}{05}
+@144
+Enemy morale↓{05}{05}{05}
+@145
+Enemy food↓↓  enemy morale↓{05}{05}{05}
+@146
+Enemy morale↓↓{05}{05}{05}
+@147
+Enemy troops↓{05}{05}{05}
+@148
+Enemy troops↓{05}{05}{05}
+@149
+One enemy unit (not the commander) withdraws{05}{05}{05}
+@150
+Enemy troops in castle↓  enemy morale↓{05}{05}{05}
+@151
+Attack↑ for 3 turns, enemy morale↓{05}{05}{05}
+@152
+Ashigaru attack↑ for 5 turns{05}{05}{05}
+@153
+Ashigaru attack↑↑ for 2 turns{05}{05}{05}
+@154
+Ashigaru attack on gates↑↑↑ for 5 turns{05}{05}{05}
+@155
+Cancel enemy tactics, ashigaru attack↑ 2 turns{05}{05}{05}
+@156
+Own morale↑, ashigaru defense↑ 5 turns{05}{05}{05}
+@157
+Ashigaru attack/defense↑ for 4 turns{05}{05}{05}
+@158
+Ashigaru→bow units for 15 turns{05}{05}{05}
+@159
+Archery↑ + morale↓ effect, 5 turns{05}{05}{05}
+@160
+Archery↑↑ for 2 turns{05}{05}{05}
+@161
+Archery↑↑ + morale↓ effect, 3 turns{05}{05}{05}
+@162
+Charge↑ + sure outflank, 3 turns{05}{05}{05}
+@163
+Cavalry attack/mobility↑ for 2 turns{05}{05}{05}
+@164
+Cavalry attack/defense/mobility↑, 4 turns{05}{05}{05}
+@165
+Cavalry attack↑↑ defense↓, 2 turns{05}{05}{05}
+@166
+Cavalry attack↑↑↑ defense↓↓, 2 turns{05}{05}{05}
+@167
+Gun range +1 for 3 turns{05}{05}{05}
+@168
+Guns fire in rain/snow for 7 turns{05}{05}{05}
+@169
+Guns fire twice in a row for 4 turns{05}{05}{05}
+@170
+Guns fire 3 times in a row for 3 turns{05}{05}{05}
+@171
+Guns fire twice + morale↓ effect, 3 turns{05}{05}{05}
+@172
+Gun units→cannon units for 10 turns{05}{05}{05}
+@173
+Cannon attack↑↑ for 2 turns{05}{05}{05}
+@174
+Enemy units in a place like this...\nA chance for an ambush.{05}{05}{05}
+@175
+Strike while they are off guard, {01}CG{00}!\nCharge, charge!{05}{05}{05}
+@176
+This is the power of {1B}C3Insight{1B}C1!\nAttack from their blind side, {01}CG{00}!{05}{05}{05}
+@177
+An ambush, of all things...||Fall back, {01}CG{00}, fall back!{05}{05}{05}
+@178
+The enemy did not waver...\nThey seem well trained.{05}{05}{05}
+@179
+The men could not keep up!\nThey lack training...{05}{05}{05}
+@180
+We have scaled the walls!\nStrike at the enemy's flank!{05}{05}{05}
+@181
+We failed to scale the walls...{05}{05}{05}
+@182
+{01}I{02}{05}{18}{04}=1{01}J'{18}{05}{05}{05}{01}S{02}{19}2{01}CI{00}\nN-not in a place like this...{05}{05}{05}{01}CI{00}\nS-so bitter...{05}{05}{05}
+@183
+{01}S{02}{19}2{01}CI{00}\nN-no...{05}{05}{05}{01}CI{00}\nTo end it here...{05}{05}{05}
+@184
+Behold our {1B}C3Breakthrough{1B}C1!\nNo one can stop us!{05}{05}{05}
+@185
+Did you see our charge?\nWe pierced their lines!{05}{05}{05}
+@186
+Our cavalry has crushed the\nfamed unit of {02}{06}d!{05}{05}{05}
+@187
+Follow {02}{06}d's unit!\nShow them the power of guns!{05}{05}{05}
+@188
+{01}S{02}{19}2The battle is already decided...\nWill you not surrender quietly?{05}{05}{05}The outcome is already decided.\nMake your decision...{05}{05}{05}
+@189
+{01}S{02}{19}2We can resist no longer...\nSpare the lives of my men.{05}{05}{05}...Let us avoid needless\nbloodshed. I surrender...{05}{05}{05}
+@190
+I, the commander,\ncannot betray my side...{05}{05}{05}
+@191
+{01}I{02}{05}{18}{04}=1{01}J0{18}{05}{05}{05}{01}S{02}{19}2Ha! Don't make me laugh!{05}{05}{05}Have you lost your mind?\nSave your dreams for sleep!{05}{05}{05}
+@192
+{01}S{02}{19}2I will not listen.\nReturn to your camp.{05}{05}{05}Do you mock me?\nLeave at once!{05}{05}{05}
+@193
+...From this moment, I fight\nfor the {01}CR{00} army!{05}{05}{05}
+@194
+The officers who promised\nto defect have taken the field.{05}{05}{05}
+@195
+The officers who promised\nto defect have taken the field.{05}{05}{05}
+@196
+What a feeble lot.{05}{05}{05}
+@197
+10 days left...\nWe must take it quickly.{05}{05}{05}
+@198
+Hold out 10 more days\nand victory is ours.{05}{05}{05}
+@199
+The night is deep...\nThis is the turning point.{05}{05}{05}
+@200
+The sky is growing light.{05}{05}{05}
+@201
+{01}I{02}{05}<{04}={02}{06}<{01}J:{18}{05}{05}{05}The battle is already decided.\nWhy not demand their surrender?{05}{05}{05}
+@202
+The battle is already decided.\nTime to demand their surrender.{05}{05}{05}
+@203
+{01}I{02}{05}<{04}={02}{06}<{01}J<{18}{05}{05}{05}The battle is already lost...\nOrder a retreat before we are taken.{05}{05}{05}
+@204
+The battle is already lost...\nIt is time to pull back...{05}{05}{05}
+@205
+{01}I{02}{05}<{04}={02}{06}<{01}J>{18}{05}{05}{05}The men have lost their will.\nWe cannot fight like this.{05}{05}{05}
+@206
+The men have lost their will...\nWe cannot fight like this.{05}{05}{05}
+@207
+{01}I{02}{05}<{04}={02}{06}<{01}J@{18}{05}{05}{05}Morale is falling.\nThis is dangerous.{05}{05}{05}
+@208
+Morale is falling.\nThis is dangerous...{05}{05}{05}
+@209
+{01}I{02}{05}<{04}={02}{06}<{01}JB{18}{05}{05}{05}Our food is gone.\nThe men cannot keep their spirit...{05}{05}{05}
+@210
+Our food seems to be gone...\nThe men cannot keep their spirit...{05}{05}{05}
+@211
+{01}I{02}{05}<{04}={02}{06}<{01}JD{18}{05}{05}{05}Our food is running low.\nLet us settle this quickly.{05}{05}{05}
+@212
+Our food is running low...\nWe must settle this quickly.{05}{05}{05}
+@213
+{01}I{02}{05}<{04}={02}{06}<{01}JF{18}{05}{05}{05}Our morale far exceeds theirs.\nA golden chance for victory!{05}{05}{05}
+@214
+Our morale far exceeds theirs.\nA golden chance for victory!{05}{05}{05}
+@215
+{01}I{02}{05}<{04}={02}{06}<{01}JH{18}{05}{05}{05}The enemy is out of food.\nA perfect opportunity.{05}{05}{05}
+@216
+The enemy is out of food.\nA perfect opportunity!{05}{05}{05}
+@217
+{01}I{02}{05}<{04}={02}{06}<{01}JJ{18}{05}{05}{05}The enemy's food is running low.\nWhen it runs out, we strike.{05}{05}{05}
+@218
+The enemy's food is running low.\nWhen it runs out, we strike.{05}{05}{05}
+@219
+I, {02}{05}d, have taken\nthe enemy headquarters!{05}{05}{05}
+@220
+I, {02}{05}d, have taken\nthe enemy keep!{05}{05}{05}
+@221
+Shimazu Yoshihiro, here I come!\nCommander, make way!{05}{05}{05}
+@222
+{01}I{02}{05}{1B}{04}<80{01}JO{18}{05}{05}{05}That is the banner of Demon Shimazu...\nDo not flinch! Stop him!{05}{05}{05}
+@223
+That is the banner of Demon Shimazu...\nTch, {01}CG{00}, do not falter!{05}{05}{05}
+@224
+Here stands Sanada Yukimura!\nTell of the six coins in hell!{05}{05}{05}
+@225
+{01}I{02}{05}{1B}{04}<80{01}JR{18}{05}{05}{05}Sanada's second son!\nAs fine a warrior as they say.{05}{05}{05}
+@226
+Sanada's second son!\nI never knew he was this good.{05}{05}{05}
+@227
+Stand not before Bishamonten...!\n...Kenshin is coming!{05}{05}{05}
+@228
+{01}I{02}{05}{1B}{04}<80{01}JU{18}{05}{05}{05}The Dragon of Echigo awakens...\nCome then, God of War!{05}{05}{05}
+@229
+The Dragon of Echigo awakens...||Push them back, {01}CG{00}!{05}{05}{05}
+@230
+No call for being dull...\nMake way for Lord Keiji!{05}{05}{05}
+@231
+{01}I{02}{05}{1B}{04}<80{01}JX{18}{05}{05}{05}So that is the Maeda kabuki rogue!\nSurround him and crush him!{05}{05}{05}
+@232
+So that is the Maeda kabuki rogue!\nD-do not waver, {01}CG{00}!{05}{05}{05}
+@233
+The {02}{01}d army is beaten!{05}{05}{05}
+@234
+Show them our {1B}C3Blitz{1B}C1, {01}CG{00}!{05}{05}{05}
+@235
+Now, behold the {1B}C3Gale{1B}C1 attack!{05}{05}{05}
+@236
+I can read the enemy's every move.\nWe will outwit their general.{05}{05}{05}
+@237
+Walls like these will not\neven slow us down!{05}{05}{05}
+@238
+{01}I{02}{05}<{04}=474{01}J_{18}{05}{05}{05}Hurry on! We will\ngive them a fright!{05}{05}{05}
+@239
+Hurry, hurry!\nTrust in Hideyoshi and march!{05}{05}{05}
+@240
+{01}I{02}{05}<{04}=169{01}Ja{18}{05}{05}{05}{01}I{02}{05}<{04}=385{01}Jb{18}{05}{05}{05}{01}I{02}{05}<{04}=474{01}Jc{18}{05}{05}{05}Now is our chance! Follow\nour lord and {1B}C3Raid{1B}C1 them!{05}{05}{05}
+@241
+All of you...\nFollow the Demon King, Oda Nobunaga!{05}{05}{05}
+@242
+Burn this One-Eyed Dragon's raid\ninto both your eyes!{05}{05}{05}
+@243
+Glory is within reach!\nRide with Hideyoshi!{05}{05}{05}
+@244
+Raise your voices!\nOverwhelm them with our spirit!{05}{05}{05}
+@245
+Our morale was already higher,\nso it did little good...{05}{05}{05}
+@246
+Calm yourselves, {01}CG{00}!{05}{05}{05}
+@247
+The {1B}C3Taunt{1B}C1 worked!\nThey can only attack directly!{05}{05}{05}
+@248
+Tch, the {1B}C3Taunt{1B}C1 failed...\nIt only lowered their morale.{05}{05}{05}
+@249
+The {1B}C3Confuse{1B}C1 worked!\nWe have stopped them moving!{05}{05}{05}
+@250
+Tch, the {1B}C3Confuse{1B}C1 failed...\nIt only lowered their morale.{05}{05}{05}
+@251
+Tch, we could not lower their\nmorale as much as we hoped.{05}{05}{05}
+@252
+Their morale has plunged!\nThe {1B}C3Rumor{1B}C1 was a great success!{05}{05}{05}
+@253
+The {1B}C3Rumor{1B}C1 worked and\nlowered the enemy's morale!{05}{05}{05}
+@254
+Curse {02}{06}d,\nkeeping the damage to a minimum.{05}{05}{05}
+@255
+The {1B}C3Fire Attack{1B}C1 worked!\nThe enemy's losses are heavy!{05}{05}{05}
+@256
+Curse {02}{06}d,\nhe saw through our {1B}C3Flood{1B}C1.{05}{05}{05}
+@257
+Rain on our {1B}C3Flood{1B}C1, heaven's help!\nTheir morale has plunged.{05}{05}{05}
+@258
+The {1B}C3Flood{1B}C1 worked and\nlowered the enemy's morale!{05}{05}{05}
+@259
+Curse {02}{06}d,\nturning aside our {1B}C3Fire Oxen{1B}C1...{05}{05}{05}
+@260
+The {1B}C3Fire Oxen{1B}C1 worked!\nWe dealt the enemy heavy losses.{05}{05}{05}
+@261
+{01}I{02}{05}<{04}=27{06}|{02}{05}<{04}=29{06}|{02}{05}<{04}=651{01}Jv{18}{05}{05}{05}Surrender to the {02}{01}d army!\nYou dare oppose us?{05}{05}{05}
+@262
+You draw your bow on the shogunate?\nBe still, rabble!{05}{05}{05}
+@263
+{01}I{02}{05}<{04}=533{06}|{02}{05}<{04}=676{01}Jx{18}{05}{05}{05}Surrender to the Honganji!\nYou will feel the Buddha's wrath!{05}{05}{05}
+@264
+Innocent people, surrender!\nThe Honganji will take you in!{05}{05}{05}
+@265
+{01}I{02}{05}<{04}=594{06}|{02}{05}<{04}=267{06}|{02}{05}<{04}=111{06}|{02}{05}<{04}=402{06}|{02}{05}<{04}=564{06}|{02}{05}<{04}=341{01}Jz{18}{05}{05}{05}{01}I{02}{05}<{04}=593{06}|{02}{05}<{04}=12{06}|{02}{05}<{04}=262{01}J{7B}{18}{05}{05}{05}{01}I{02}{05}<{04}=306{06}|{02}{05}<{04}=307{06}|{02}{05}<{04}=308{01}J|{18}{05}{05}{05}Fooled by our {1B}C3False Report{1B}C1,\nthe enemy has fled!{05}{05}{05}
+@266
+Cowardly? Ridiculous...\nIn war, victory is everything!{05}{05}{05}
+@267
+Go back to your castle on our {1B}C3False\nReport{1B}C1! We win at the smallest cost!{05}{05}{05}
+@268
+Such are the Sanada's tactics... Be ashamed of your blindness!{05}{05}{05}
+@269
+Tch, the {1B}C3False Report{1B}C1 failed...\nIt only lowered their morale.{05}{05}{05}
+@270
+{01}I{02}{05}<{04}=525{06}|{02}{05}<{04}=524{06}|{02}{05}<{04}=664{01}J{7F}{18}{05}{05}{05}Show the fools who attack us\nthe might of the {02}{01}d army!{05}{05}{05}{01}J
+@271
+Fools... did you think our Hojo\ncastle would fall so easily?{05}{05}{05}
+@272
+{01}I{02}{05}<{04}=329{06}|{02}{05}<{04}=330{06}|{02}{05}<{04}=324{06}|{02}{05}<{04}=325{01}J{81}{18}{05}{05}{05}They fell for our {1B}C3Decoy{1B}C1!\nLet not one of them escape!{05}{05}{05}
+@273
+Why the Shimazu are called demons...\nwe will teach you well!{05}{05}{05}
+@274
+Form the {1B}C3Spear Wall{1B}C1!\nShow them the strength of ashigaru!{05}{05}{05}
+@275
+This is the {1B}C3Spear Wheel{1B}C1!\nWe will turn the tide at once!{05}{05}{05}
+@276
+Ready the {1B}C3Ram{1B}C1!\nWe break the gate in one blow!{05}{05}{05}
+@277
+{01}I{02}{05}<{04}=422{01}J{86}{18}{05}{05}{05}Steel yourselves!\nNow we show our mettle!{05}{05}{05}
+@278
+Fear not the enemy! Win, and\nseize the realm with Ieyasu!{05}{05}{05}
+@279
+{01}I{02}{05}<{04}=398{06}|{02}{05}<{04}=400{01}J{88}{18}{05}{05}{05}Stay calm, {01}CG{00}, and\nremember your daily drills!{05}{05}{05}
+@280
+The time to fight has come!\nShow them the might of Chosokabe!{05}{05}{05}
+@281
+{01}I{02}{05}<{04}=638{01}J{8A}{18}{05}{05}{05}{01}I{02}{05}<{04}=267{06}|{02}{05}<{04}=271{01}J{8B}{18}{05}{05}{05}{01}I{02}{05}<{04}=525{06}|{02}{05}<{04}=524{06}|{02}{05}<{04}=664{06}|{02}{05}<{04}=527{01}J{8C}{18}{05}{05}{05}{01}I{02}{05}<{04}=445{01}J{8D}{18}{05}{05}{05}{01}I{02}{05}<{04}=292{01}J{8E}{18}{05}{05}{05}Now is our chance!\nRise up, {01}CG{00}!{05}{05}{05}
+@282
+You dare turn your blade on\nthe Red Bear of Hizen!?{05}{05}{05}
+@283
+Now then... let me show you\nthe poison of the Saito.{05}{05}{05}
+@284
+Such is the way of this age!\nKnow the might of the Hojo!{05}{05}{05}
+@285
+Narimasa stakes his life on this...\nI will show you true war!{05}{05}{05}
+@286
+Demon Yoshishige's onslaught...\ndo not think it will be easy!{05}{05}{05}
+@287
+Archers, ready!\nDo not let them near!{05}{05}{05}
+@288
+Fire arrows, loose!\nPaint the enemy crimson!{05}{05}{05}
+@289
+Archers, volley!\nLet not one escape!{05}{05}{05}
+@290
+{01}I{02}{05}<{04}=95{01}J{93}{18}{05}{05}{05}{01}I{02}{05}<{04}=593{06}|{02}{05}<{04}=220{01}J{94}{18}{05}{05}{05}Shoot, shoot!\nLet the {1B}C3Arrow Rain{1B}C1 fall!{05}{05}{05}
+@291
+My bow is the finest in the east...\nKnow it by my {1B}C3Arrow Rain{1B}C1!{05}{05}{05}
+@292
+The mighty bows of the Mori...!\nBehold our {1B}C3Arrow Rain{1B}C1!{05}{05}{05}
+@293
+Cavalry, forward!\nWe {1B}C3Break through{1B}C1 their lines!{05}{05}{05}
+@294
+Cavalry, ready!\nThrow their lines into chaos!{05}{05}{05}
+@295
+{01}I{02}{05}<{04}=369{01}J{98}{18}{05}{05}{05}{01}I{02}{05}<{04}=368{01}J{99}{18}{05}{05}{05}Raise the banners high!\nElite cavalry, charge!{05}{05}{05}
+@296
+Swift as the wind...\nTakeda Shingen's cavalry comes!{05}{05}{05}
+@297
+Fierce as fire in the attack...\nNow, strike with Katsuyori!{05}{05}{05}
+@298
+{01}I{02}{05}<{04}=13{01}J{9B}{18}{05}{05}{05}{01}I{02}{05}<{04}=308{01}J{9C}{18}{05}{05}{05}{01}I{02}{05}<{04}=317{01}J{9D}{18}{05}{05}{05}Forward! Only forward!\nAttack and never look back!{05}{05}{05}
+@299
+We settle this now!\nShow the realm the Azai's honor!{05}{05}{05}
+@300
+The six coins on this banner...\nTell the demons of hell of them!{05}{05}{05}
+@301
+Charge, charge, charge!\nShibata's cavalry never retreats!{05}{05}{05}
+@302
+{01}I{02}{05}<{04}=104{01}J{9F}{18}{05}{05}{05}{01}I{02}{05}<{04}=101{01}J{A0}{18}{05}{05}{05}Under the God of War we cannot\nlose! Scatter them and advance!{05}{05}{05}
+@303
+All of you, follow me...\nBishamonten is with us!{05}{05}{05}
+@304
+Father, behold...\nMake way for Uesugi Kagekatsu!{05}{05}{05}
+@305
+Now, take careful aim...\nPick them off from afar!{05}{05}{05}
+@306
+We use {1B}C3Rain Shot{1B}C1!\nKeep your guns dry on the march!{05}{05}{05}
+@307
+Gunners, ready a double volley!\nMove quickly!{05}{05}{05}
+@308
+{01}I{02}{05}<{04}=169{01}J･{18}{05}{05}{05}{01}I{02}{05}<{04}=346{06}|{02}{05}<{04}=349{01}Jｦ{18}{05}{05}{05}{01}I{02}{05}<{04}=385{01}Jｧ{18}{05}{05}{05}Gunners, aim!\nWipe out the enemy!{05}{05}{05}
+@309
+Gunners, form three ranks...\nThe Demon King opens hell's gate!{05}{05}{05}
+@310
+...Everyone ready?\nThe Saika, best of gunners, go!{05}{05}{05}
+@311
+Gunners, ready?\nFeel the One-Eyed Dragon's fire!{05}{05}{05}
+@312
+{01}I{02}{05}<{04}=325{06}|{02}{05}<{04}=329{06}|{02}{05}<{04}=330{06}|{02}{05}<{04}=324{01}Jｩ{18}{05}{05}{05}{01}I{02}{05}<{04}=12{01}Jｪ{18}{05}{05}{05}{01}I{02}{05}<{04}=533{01}Jｫ{18}{05}{05}{05}We use {1B}C3Paired Shot{1B}C1!\nFire with precision!{05}{05}{05}
+@313
+Learn the might and skill of the\nShimazu gunners firsthand!{05}{05}{05}
+@314
+...Hm, it is time...\nBehold the Akechi's precise gunnery!{05}{05}{05}
+@315
+There are the enemies of Buddha!\nNow, shoot them down!{05}{05}{05}
+@316
+Assemble the {1B}C3Cannons{1B}C1!\nShow them the power of weapons!{05}{05}{05}
+@317
+{01}I{02}{05}<{04}=143{01}Jｮ{18}{05}{05}{05}Assemble the {1B}C3Kunikuzushi{1B}C1!\nWe will end this battle!{05}{05}{05}
+@318
+Behold our pride, the {1B}C3Kunikuzushi{1B}C1...\nAll in the name of God!{05}{05}{05}
+@319
+=
+@320
+=
+@321
+Hitotoribashi{05}{05}{05}
+@322
+=
+@323
+Suriagehara{05}{05}{05}
+@324
+=
+@325
+Mureyama{05}{05}{05}
+@326
+Kawanakajima{05}{05}{05}
+@327
+Kasumigaura{05}{05}{05}
+@328
+Mount Karasawa{05}{05}{05}
+@329
+Konodai{05}{05}{05}
+@330
+Mifunedai{05}{05}{05}
+@331
+Kannagawa{05}{05}{05}
+@332
+Kawagoe{05}{05}{05}
+@333
+Mimase Pass{05}{05}{05}
+@334
+Noto Peninsula{05}{05}{05}
+@335
+Kurikara Pass{05}{05}{05}
+@336
+Takayama{05}{05}{05}
+@337
+Tedorigawa{05}{05}{05}
+@338
+Anegawa{05}{05}{05}
+@339
+Wakasa Bay{05}{05}{05}
+@340
+Mount Fuji{05}{05}{05}
+@341
+Suruga Bay{05}{05}{05}
+@342
+Kiso Mountains{05}{05}{05}
+@343
+Mikatagahara{05}{05}{05}
+@344
+Nagashino{05}{05}{05}
+@345
+Nagashima{05}{05}{05}
+@346
+Sunomata{05}{05}{05}
+@347
+Okehazama{05}{05}{05}
+@348
+Lake Biwa{05}{05}{05}
+@349
+Iga Pass{05}{05}{05}
+@350
+Yamazaki{05}{05}{05}
+@351
+Mount Shigi{05}{05}{05}
+@352
+Kii Channel{05}{05}{05}
+@353
+Kizugawaguchi{05}{05}{05}
+@354
+Amabiki Pass{05}{05}{05}
+@355
+Mount Hirai{05}{05}{05}
+@356
+Taikogahira{05}{05}{05}
+@357
+Inland Sea{05}{05}{05}
+@358
+Mount Gassan{05}{05}{05}
+@359
+Itsukushima{05}{05}{05}
+@360
+Oshibara{05}{05}{05}
+@361
+Kanmon Strait{05}{05}{05}
+@362
+Shodoshima{05}{05}{05}
+@363
+Awaji Island{05}{05}{05}
+@364
+Innoshima{05}{05}{05}
+@365
+Watarigawa{05}{05}{05}
+@366
+Bungo Channel{05}{05}{05}
+@367
+Imayama{05}{05}{05}
+@368
+Okitanawate{05}{05}{05}
+@369
+Mimikawa{05}{05}{05}
+@370
+Sakurajima{05}{05}{05}
+@371
+Sannohe Castle{05}{05}{05}
+@372
+Kosuiji Castle{05}{05}{05}
+@373
+Iwadeyama Castle{05}{05}{05}
+@374
+Hiyama Castle{05}{05}{05}
+@375
+Yamagata Castle{05}{05}{05}
+@376
+Odaka Castle{05}{05}{05}
+@377
+Kurokawa Castle{05}{05}{05}
+@378
+Kasugayama Castle{05}{05}{05}
+@379
+Ota Castle{05}{05}{05}
+@380
+Utsunomiya Castle{05}{05}{05}
+@381
+Yuki Castle{05}{05}{05}
+@382
+Kururi Castle{05}{05}{05}
+@383
+Numata Castle{05}{05}{05}
+@384
+Takiyama Castle{05}{05}{05}
+@385
+Odawara Castle{05}{05}{05}
+@386
+Nanao Castle{05}{05}{05}
+@387
+Toyama Castle{05}{05}{05}
+@388
+Matsukura Castle{05}{05}{05}
+@389
+Oyama Gobo{05}{05}{05}
+@390
+Ichijodani Castle{05}{05}{05}
+@391
+Takebeyama Castle{05}{05}{05}
+@392
+Tsutsujigasaki Hall{05}{05}{05}
+@393
+Sunpu Castle{05}{05}{05}
+@394
+Fukashi Castle{05}{05}{05}
+@395
+Kakegawa Castle{05}{05}{05}
+@396
+Okazaki Castle{05}{05}{05}
+@397
+Tamaru Castle{05}{05}{05}
+@398
+Inabayama Castle{05}{05}{05}
+@399
+Kiyosu Castle{05}{05}{05}
+@400
+Odani Castle{05}{05}{05}
+@401
+Kannonji Castle{05}{05}{05}
+@402
+Nijo Castle{05}{05}{05}
+@403
+Shigisan Castle{05}{05}{05}
+@404
+Saika Castle{05}{05}{05}
+@405
+Wakae Castle{05}{05}{05}
+@406
+Yakami Castle{05}{05}{05}
+@407
+Miki Castle{05}{05}{05}
+@408
+Tottori Castle{05}{05}{05}
+@409
+Okayama Castle{05}{05}{05}
+@410
+Gassan-Toda Castle{05}{05}{05}
+@411
+Yoshida-Koriyama Castle{05}{05}{05}
+@412
+Nuyu Castle{05}{05}{05}
+@413
+Konomine Castle{05}{05}{05}
+@414
+Sogo Castle{05}{05}{05}
+@415
+Shozui Castle{05}{05}{05}
+@416
+Yuzuki Castle{05}{05}{05}
+@417
+Oko Castle{05}{05}{05}
+@418
+Usuki Castle{05}{05}{05}
+@419
+Yanagawa Castle{05}{05}{05}
+@420
+Hitoyoshi Castle{05}{05}{05}
+@421
+Sadowara Castle{05}{05}{05}
+@422
+Uchi Castle{05}{05}{05}
+@423
+Azuchi Castle{05}{05}{05}
+@424
+Gifu Castle{05}{05}{05}

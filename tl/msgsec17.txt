@@ -1,0 +1,360 @@
+@0
+Go on to the next chapter?{05}{05}{05}
+@1
+Quit the tutorial and return\nto chapter select?{05}{05}{05}
+@2
+What a peaceful day...{05}{05}{05}
+@3
+So peaceful...{05}{05}{05}
+@4
+Father! Are you ready for the attack on the Rokkaku?{05}{05}{05}
+@5
+Oh, Nagamasa... ...Some day, some day.{05}{05}{05}
+@6
+Putting it off again? Now is the time for us to aim to unite the realm,{05}{05}{05}
+@7
+the time for us to rise up!{05}{05}{05}
+@8
+(What a bother...) Er, yes. And what is this "uniting the realm"?{05}{05}{05}
+@9
+F-Father, taking an interest in conquest!?{05}{05}{05}
+@10
+Ahem... Father, Japan has 52 provinces.{05}{05}{05}
+@11
+Rule all 52, and the realm is united and the wars come to an end.{05}{05}{05}
+@12
+No more wars... meaning... ...I can loaf all day?{05}{05}{05}
+@13
+Er, well, um... ...yes.{05}{05}{05}
+@14
+Heh heh... Let's do it, then. Unite the realm...{05}{05}{05}
+@15
+B-but Father, if we're invaded and lose all our land,{05}{05}{05}
+@16
+or if a daimyo dies with no retainer to carry on his will, it's game over!{05}{05}{05}
+@17
+No fear, I have you, Nagamasa!{05}{05}{05}
+@18
+That's true! Even if you were gone now, Father, we'd manage fine!{05}{05}{05}
+@19
+...That stung a bit... Well, let's just hurry up and unite the land.{05}{05}{05}
+@20
+Hurry up!?{05}{05}{05}
+@21
+F-Father, the road to unity is not that easy.{05}{05}{05}
+@22
+Eh... ...i-is that so?{05}{05}{05}
+@23
+Yes... So I, Nagamasa, will teach you how to fight in this age of war!{05}{05}{05}
+@24
+(Sounds like a bother...){05}{05}{05}
+@25
+...Did you say something, Father?{05}{05}{05}
+@26
+G-go easy on me...{05}{05}{05}
+@27
+S-so, Nagamasa... What must I do to {1B}C3unite the realm{1B}C1?{05}{05}{05}
+@28
+Er... um...{05}{05}{05}
+@29
+Once a month, every lord gives orders to his provinces.{05}{05}{05}
+@30
+You develop your land or take enemy provinces to expand your territory!{05}{05}{05}
+@31
+Oh, I see! Then to expand, I'll make Omi the strongest province this month...{05}{05}{05}
+@32
+F-Father... Please look at this.{05}{05}{05}
+@33
+Listen. Every province has {1B}C3AP{1B}C1 (action points), which domestic orders use up.{05}{05}{05}
+@34
+Tch, so one month won't do... And how is this AP number decided?{05}{05}{05}
+@35
+By the lord's Politics. Each month AP rises by his Politics, up to 200.{05}{05}{05}
+@36
+So lords with high Politics suit best... Also, a lord can act as often as he has AP.{05}{05}{05}
+@37
+Then I'll leave it to a lord with high Politics... ...and take a nap...{05}{05}{05}
+@38
+...A nap!? A lord needs twice the AP of other officers to act!{05}{05}{05}
+@39
+A-all right... No need to get so angry...{05}{05}{05}
+@40
+...Ahem... And anyone but the lord can act only once a month, even with AP left.{05}{05}{05}
+@41
+Well... it's tiring work...{05}{05}{05}
+@42
+Now, I've been wondering... What's all that clutter up top?{05}{05}{05}
+@43
+...C-clutter!? That's the information on our Omi!{05}{05}{05}
+@44
+Here you can see the gold, food and troops in the province.{05}{05}{05}
+@45
+The lower half is the map... The arrow shows where we are, in Omi.{05}{05}{05}
+@46
+So it is... There's Lake Biwa, too.{05}{05}{05}
+@47
+The province taking orders glows on the map... Don't tell me you didn't know?{05}{05}{05}
+@48
+...O-of course I knew! Every daimyo knows that these days!{05}{05}{05}
+@49
+Oh... Then, Father, what are "Rice" and "Troop" here?{05}{05}{05}
+@50
+Rice... troop... um... Ah, the rice troops!{05}{05}{05}
+@51
+Huh... Troops made of rice? Sounds delicious.{05}{05}{05}
+@52
+These are {1B}C3market prices{1B}C1: gold per 1 food, and gold to hire 1 soldier.{05}{05}{05}
+@53
+So conscript when troops are cheap... but the rice price? I doubt I'll use it.{05}{05}{05}
+@54
+That won't get you through this age! Buy 100 food at a rice price of 1, sell at 2, and then?{05}{05}{05}
+@55
+B-but I'm bad with sums... Um... at 1, 100 gold buys 100 food...{05}{05}{05}
+@56
+Then I sell the food at 2... ...for 200 gold! I've made 100 gold!{05}{05}{05}
+@57
+Well done! Prices change every month, so if you {1B}C3[Trade]{1B}C1 well...{05}{05}{05}
+@58
+Easy gold and food for nothing!{05}{05}{05}
+@59
+Yes, that's how to fund domestic work... You can do it, can't you, Father?{05}{05}{05}
+@60
+Y-yes...{05}{05}{05}
+@61
+Well, you'll get used to the rest as you play, so it's fine if you don't follow it now.{05}{05}{05}
+@62
+Right, I don't follow, but it'll work out!{05}{05}{05}
+@63
+(I-I fear for the future...){05}{05}{05}
+@64
+Also, trading often raises amity with the Sakai merchant, making guns and tea ware cheaper!{05}{05}{05}
+@65
+Hm, now that I know how it goes...{05}{05}{05}
+@66
+shall we go unite the realm?{05}{05}{05}
+@67
+Father... We still lack so, so very much...{05}{05}{05}
+@68
+What do you think we need first?{05}{05}{05}
+@69
+...Tea ware!{05}{05}{05}
+@70
+Talent, of course!{05}{05}{05}
+@71
+J-just joking...{05}{05}{05}
+@72
+Oh... Then surely you know how to find talent?{05}{05}{05}
+@73
+Well... just wing it!{05}{05}{05}
+@74
+Sigh... Listen. First, look here.{05}{05}{05}
+@75
+This number is the ronin in Omi. You {1B}C3[Personnel]→[Recruit]{1B}C1 them, or...{05}{05}{05}
+@76
+hire ronin who ask to serve at the start of the month. That is the basic way.{05}{05}{05}
+@77
+So... they come even if I do nothing.{05}{05}{05}
+@78
+That's down to luck... Don't be lazy, Father. Better to ask them yourself.{05}{05}{05}
+@79
+True, once they go to another province or another clan takes them, it's too late...{05}{05}{05}
+@80
+Exactly! You can also capture officers in battle and recruit them,{05}{05}{05}
+@81
+seize diplomatic envoys by force and make them yours,{05}{05}{05}
+@82
+or use {1B}C3[Diplomacy]→[Betray]{1B}C1 to get them to switch sides in battle, but...{05}{05}{05}
+@83
+But no! Such dishonor is no way for a samurai to act!{05}{05}{05}
+@84
+...W-well, I'll go easy on that, all right?{05}{05}{05}
+@85
+Such tricks barely work, except on officers with low "Loyalty."{05}{05}{05}
+@86
+Loyalty?{05}{05}{05}
+@87
+On the officer screen... this number is Loyalty.{05}{05}{05}
+@88
+It seems to be low if the officer clashes with the daimyo or has only just joined.{05}{05}{05}
+@89
+Low loyalty doesn't just make betrayal easier...{05}{05}{05}
+@90
+At the front, they flee with supplies. In the rear, they rebel. In battle, they defect...{05}{05}{05}
+@91
+...Grr! How vile! How dishonorable!!{05}{05}{05}
+@92
+C-calm down, Nagamasa! ...So, is there no way to raise loyalty?{05}{05}{05}
+@93
+Forgive me... To raise loyalty, give officers the jobs they volunteer for,{05}{05}{05}
+@94
+give gold with {1B}C3[Personnel]→[Reward]{1B}C1, or tea ware with {1B}C3[Personnel]→[Tea Ware]{1B}C1!{05}{05}{05}
+@95
+Tea ware in particular raises loyalty in one go.{05}{05}{05}
+@96
+It goes without saying... but taking someone's tea ware to give to another lowers his loyalty a lot.{05}{05}{05}
+@97
+No dishonorable trick of passing tea ware around for endless loyalty!{05}{05}{05}
+@98
+(Tch...) Wh-why, of course not.{05}{05}{05}
+@99
+But, well, um, what... That covers talent perfectly, yes?{05}{05}{05}
+@100
+I-I wonder... ...Now, Father, please try recruiting an officer.{05}{05}{05}
+@101
+Our trusted Isono Kazumasa is wandering the town as a ronin.{05}{05}{05}
+@102
+Let's try recruiting him! If he refuses, don't give up: try other officers.{05}{05}{05}
+@103
+Heh, Kazumasa... Easy.{05}{05}{05}
+@104
+Recruit the Omi ronin "Isono Kazumasa"{05}{05}{05}
+@105
+Father... Please do as Nagamasa says!{05}{05}{05}
+@106
+Father! The one to recruit is Isono Kazumasa!{05}{05}{05}
+@107
+L-Lord Isono...! ...Please let us try again!{05}{05}{05}
+@108
+See, wasn't that easy?{05}{05}{05}
+@109
+F-Father succeeded...!{05}{05}{05}
+@110
+Father! Splendid! Wonderful!{05}{05}{05}
+@111
+...I-is that so?{05}{05}{05}
+@112
+Yes! Securing talent is the first rule of surviving the age of war!{05}{05}{05}
+@113
+Gather good men and keep their loyalty high... That is what matters, Father!{05}{05}{05}
+@114
+And take care not to hire so many that you go broke on salaries.{05}{05}{05}
+@115
+Yes, I see. So the realm is as good as mine!{05}{05}{05}
+@116
+Heh heh... Heh heh heh heh...{05}{05}{05}
+@117
+Come now, of course it isn't. On to the next part, Father!{05}{05}{05}
+@118
+Tch... Not so easy after all...{05}{05}{05}
+@119
+Recruit Isono Kazumasa{05}{05}{05}
+@120
+Now that we have men... a tea party next?{05}{05}{05}
+@121
+W-well... This chapter covers tea parties too, but there's something to say first.{05}{05}{05}
+@122
+I-is that so...{05}{05}{05}
+@123
+Do you know what you must do to win the realm?{05}{05}{05}
+@124
+W-well... ...... ...A tea party?{05}{05}{05}
+@125
+...Father, please answer properly.{05}{05}{05}
+@126
+Ah, no, well... what... What should I do?{05}{05}{05}
+@127
+A man who can't make his own lands rich could never rule the realm!{05}{05}{05}
+@128
+To make your lands rich, you must develop farms, commerce, tech and culture.{05}{05}{05}
+@129
+Please look at this.{05}{05}{05}
+@130
+Farms, commerce and tech are all developed the same way.{05}{05}{05}
+@131
+First, let's raise the "farms" of our Omi.{05}{05}{05}
+@132
+Practice beats study. Try it now.{05}{05}{05}
+@133
+I-I do it???{05}{05}{05}
+@134
+Of course! Use {1B}C3[Domestic]→[Cultivate]{1B}C1.{05}{05}{05}
+@135
+Officers with high Politics get better results. You can choose more than one.{05}{05}{05}
+@136
+Someone may volunteer.{05}{05}{05}
+@137
+That raises his loyalty, so you can leave it to him.{05}{05}{05}
+@138
+Y-yes...{05}{05}{05}
+@139
+Well done, Father. See, the farm number has risen.{05}{05}{05}
+@140
+Ha ha, this much is easy.{05}{05}{05}
+@141
+Other commands work the same way: choose officers to carry them out.{05}{05}{05}
+@142
+Let me briefly explain the rest. First, "Order."{05}{05}{05}
+@143
+Order drops when you conscript, and if left low, revolts may break out.{05}{05}{05}
+@144
+R-revolts... How frightening... How frightening...{05}{05}{05}
+@145
+Not just revolts: it affects gold and food income, so keep order high.{05}{05}{05}
+@146
+Hm... By the way, I hear gold mines can make money... With {1B}C3[Domestic]→[Gold Mine]{1B}C1?{05}{05}{05}
+@147
+Yes, but {1B}C3[Gold Mine]{1B}C1 needs the province's "Tech" at 100.{05}{05}{05}
+@148
+Not every province has a mine, so ask the prospectors who come by now and then.{05}{05}{05}
+@149
+Once a mine is found, the {1B}C3[Gold Mine]{1B}C1 command earns you gold.{05}{05}{05}
+@150
+Finding it isn't enough, eh... And what was this provincial tech you mentioned?{05}{05}{05}
+@151
+Tech matters for both domestic affairs and war.{05}{05}{05}
+@152
+I've summed up what raising tech does for you.{05}{05}{05}
+@153
+{1B}C6Effects of Tech{1B}C1{05}{05}{05}
+@154
+　Raising Tech brings these benefits:\n　　{1B}C4Tech 100{1B}C1... [Domestic - Gold Mine]\n　　{1B}C4Tech 200{1B}C1... new techniques\n　　{1B}C4Tech 300{1B}C1... making guns\n　　{1B}C4Tech 600{1B}C1... building ironclads\n　\n　It also makes farms and commerce\n　easier to raise.{05}{05}{05}
+@155
+If you forget what it does, see {1B}C3[Art of War]{1B}C1 under {1B}C3[System]{1B}C1.{05}{05}{05}
+@156
+Let me also explain "techniques," which relate to tech.{05}{05}{05}
+@157
+Techniques?? First I've heard of it...{05}{05}{05}
+@158
+Each province has its own technique, like "Archery" or "Gunpowder," gained at Tech 200 or more.{05}{05}{05}
+@159
+Combining techniques gained by raising tech lets you use "tactics."{05}{05}{05}
+@160
+Well, I'll explain tactics another time. For now...{05}{05}{05}
+@161
+just remember "{1B}C3Tech 200 gives a technique{1B}C1" and "{1B}C3Tactics need techniques{1B}C1."{05}{05}{05}
+@162
+And... wh-what is culture?{05}{05}{05}
+@163
+{1B}C6What Is Culture{1B}C1{05}{05}{05}
+@164
+　The province's level of culture.\n　Raising it has these benefits:\n　・Higher commerce limit\n　・A little more gold each month\n　・Cheaper tea ware and guns\n　・The province's own {1B}C3culture effect{1B}C1{05}{05}{05}
+@165
+Yes, culture mostly affects domestic affairs. Raising it takes steady work, like holding tea parties.{05}{05}{05}
+@166
+{1B}C6Raising Culture{1B}C1{05}{05}{05}
+@167
+　There are four ways to raise culture:\n　・Hold a tea party\n　・Have a painter paint a picture\n　・Take provinces with high culture\n　・Trade, such as buying tea ware{05}{05}{05}
+@168
+I hold tea parties all the time... So I was helping culture all along...{05}{05}{05}
+@169
+Not so fast, Father! Culture needs successful tea parties... That's why all seek costly tea ware.{05}{05}{05}
+@170
+I-is that so...{05}{05}{05}
+@171
+Well, you can also take a province with high culture and wait for it to spread to your others...{05}{05}{05}
+@172
+Lastly, let me explain culture effects.{05}{05}{05}
+@173
+{1B}C6Culture Effects{1B}C1{05}{05}{05}
+@174
+　Special effects gained when a province's\n　culture reaches {1B}C375 or more{1B}C1.\n　Each province has its own effect.\n　e.g. Iwami: more gold from mines\n　\n　At culture {1B}C3100{1B}C1, all your provinces\n　gain the benefit.{05}{05}{05}
+@175
+Note above all that at culture 100 the province's effect reaches all your provinces.{05}{05}{05}
+@176
+So, buy good tea ware, hold tea party after tea party, raise culture, and the realm is as good as united...{05}{05}{05}
+@177
+No, no, {1B}C3not yet{1B}C1, not by a long way!{05}{05}{05}
+@178
+You're a hard man, Nagamasa...{05}{05}{05}
+@179
+Use [Domestic]→[Cultivate]{05}{05}{05}

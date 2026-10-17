@@ -1,0 +1,278 @@
+@0
+Young folk these days, it's all guns this and ironclads that...{05}{05}{05}
+@1
+The young should be charging about the field, spear in hand...{05}{05}{05}
+@2
+Shameful... Their spirit needs beating into shape!{05}{05}{05}
+@3
+{1B}C3Beat every last one of us,\nor we won't accept your weapons!{1B}C1{05}{05}{05}
+@4
+{1B}C3Going for me, the commander,{1B}C1\nearly is a cheat we won't allow!{05}{05}{05}
+@5
+Well, after all...\n{1B}C3old men are stubborn!{1B}C1{05}{05}{05}
+@6
+I'll teach you war... I won't lose to soft youngsters!{05}{05}{05}
+@7
+Last time... true, I took you a little lightly.{05}{05}{05}
+@8
+But not this time! We old men have our pride!{05}{05}{05}
+@9
+Fight fair, and again,\n{1B}C3beat every unit!{1B}C1{05}{05}{05}
+@10
+With all those weapons, surely you won't\n{1B}C3go for the commander first{1B}C1...{05}{05}{05}
+@11
+Surely you won't {1B}C3cheat{1B}C1 against an old man like me...{05}{05}{05}
+@12
+That kind of {1B}C3cheating{1B}C1,\nI'll {1B}C3never accept{1B}C1!{05}{05}{05}
+@13
+Then come at me! I, Narimasa, will take you on!{05}{05}{05}
+@14
+Defeat the veteran generals' army.\nBeat every enemy unit.{05}{05}{05}
+@15
+{1B}C3But beat the commander, Nagano\nNarimasa, last of all.{1B}C1{05}{05}{05}
+@16
+Dear me... All those weapons, and this is it?{05}{05}{05}
+@17
+Honestly, when we were young, we were much more...{05}{05}{05}
+@18
+Go and start over! Come back in 30 years!{05}{05}{05}
+@19
+We can't leave war to the young yet...{05}{05}{05}
+@20
+Honestly... Not even worth talking about!{05}{05}{05}
+@21
+Fifty years too early for you! Kah kah kah!{05}{05}{05}
+@22
+Ugh... You weren't listening, were you.{05}{05}{05}
+@23
+I told you to {1B}C3beat every unit\nbefore the commander{1B}C1, but...{05}{05}{05}
+@24
+I'll never accept someone who won't listen!!{05}{05}{05}
+@25
+To think weapons were so powerful!{05}{05}{05}
+@26
+...It seems I underrated you a little...{05}{05}{05}
+@27
+I'll grant you this one... But I won't forget!{05}{05}{05}
+@28
+Heh, I have to admit it... the strength of youth!{05}{05}{05}
+@29
+Somewhere in my heart, I hoped for this outcome...{05}{05}{05}
+@30
+Go, young warriors! Build a new age!{05}{05}{05}
+@31
+...My lord, it seems a rat has crept into Odawara Castle.{05}{05}{05}
+@32
+A rat, you say... Rather a big one, it seems.{05}{05}{05}
+@33
+Reckless rat... I, Tsunashige, will crush it!{05}{05}{05}
+@34
+Wait! They have more troops...{05}{05}{05}
+@35
+Let our rat guests taste the strength of Odawara Castle.{05}{05}{05}
+@36
+...As you wish! We'll break the rat's front teeth.{05}{05}{05}
+@37
+Not just its teeth... It will regret coming!{05}{05}{05}
+@38
+...We took the castle back... but here they are again.{05}{05}{05}
+@39
+Brother, they took the Hojo defenses lightly.{05}{05}{05}
+@40
+Things are different from last time... It won't go the same way.{05}{05}{05}
+@41
+Yes! The defenses are complete.{05}{05}{05}
+@42
+This time we leave no opening. Now, come...{05}{05}{05}
+@43
+We'll show you the pride of the Lion of Sagami!{05}{05}{05}
+@44
+Take Odawara Castle,\nheld by Hojo Ujiyasu.{05}{05}{05}
+@45
+{1B}C3Odawara is the strongest castle!{1B}C1\nWatch the time limit as you attack.{05}{05}{05}
+@46
+Dear me... Kotaro, have our guests gone home?{05}{05}{05}
+@47
+Yes, they could not break Odawara's defenses.{05}{05}{05}
+@48
+Then I'll return to my duties. As if I had time to spare...{05}{05}{05}
+@49
+We won... We kept our pride.{05}{05}{05}
+@50
+Well done, Brother! A splendid defense!{05}{05}{05}
+@51
+Yes... Now we must quickly put the people at ease.{05}{05}{05}
+@52
+No good! ...Fall back!{05}{05}{05}
+@53
+...Yes! I'll send word to the men.{05}{05}{05}
+@54
+Father, I was careless... I'll repay this shame!{05}{05}{05}
+@55
+I surrender... Any more would be too great a burden on the people.{05}{05}{05}
+@56
+...O-Odawara Castle...{05}{05}{05}
+@57
+...A splendid siege... I only ask: rule the people kindly...{05}{05}{05}
+@58
+Lord Kennyo! Intruders sighted! They're... the {02}" Army!{05}{05}{05}
+@59
+All hands, battle stations at once!{05}{05}{05}
+@60
+Roger! Snipers, to your posts!{05}{05}{05}
+@61
+Heh... As if this armed fortress, Oyama Gobo, could fall.{05}{05}{05}
+@62
+Battle stations ready!{05}{05}{05}
+@63
+Good. Well done!{05}{05}{05}
+@64
+Come if you dare... to Fortress Gobo!{05}{05}{05}
+@65
+...No repeat of last time's failure. Behold the new Fortress Gobo!{05}{05}{05}
+@66
+Lord Kennyo, arms and drills... all in top shape!{05}{05}{05}
+@67
+Very good...{05}{05}{05}
+@68
+Attention, all Oyama Gobo! The enemy approaches again.{05}{05}{05}
+@69
+A chance to clear our name! I expect every man to do his best!{05}{05}{05}
+@70
+Now, let us show them the pride of the fortress troops!{05}{05}{05}
+@71
+Take Oyama Gobo, Honganji Kennyo's\nseat, now turned into a fortress.{05}{05}{05}
+@72
+{1B}C3Many gun units lie in wait.{1B}C1\nMind the order of your advance.{05}{05}{05}
+@73
+Enemy repelled! They're retreating one after another!{05}{05}{05}
+@74
+All by the Buddha's guidance... Everyone, we have won!{05}{05}{05}
+@75
+Proud fortress troops indeed! I'm proud of you all!{05}{05}{05}
+@76
+Enemy fully silenced! ...Victory is ours!{05}{05}{05}
+@77
+Oh, is that so... Victory for our fortress!{05}{05}{05}
+@78
+Well done, fortress troops! I expect even more of you!{05}{05}{05}
+@79
+Ugh! ...All hands, evacuate!{05}{05}{05}
+@80
+...All hands, evacuaaate! Save as many as you can!{05}{05}{05}
+@81
+The fortress isn't perfect yet... There won't be a next time!{05}{05}{05}
+@82
+So this is the end for my fortress...{05}{05}{05}
+@83
+...I'm so sorry, Lord Kennyo...{05}{05}{05}
+@84
+Phew... Next time, I'd better build a temple, not a fortress...{05}{05}{05}
+@85
+Hm? Enemies in a place like this? Kansuke, who are they?{05}{05}{05}
+@86
+Most likely the {02}" Army... They will be no obstacle.{05}{05}{05}
+@87
+So that's them... Father, let us scatter them!{05}{05}{05}
+@88
+Kansuke, Katsuyori... that is arrogance. Mind yourselves.{05}{05}{05}
+@89
+Yes, my lord...{05}{05}{05}
+@90
+All those guns... how impudent. All troops, advance like the wind.{05}{05}{05}
+@91
+Whoever blocks our march to Kyoto must be crushed!{05}{05}{05}
+@92
+So they stand in our way again... the {02}" Army...{05}{05}{05}
+@93
+Father, can our cavalry not beat their guns...?{05}{05}{05}
+@94
+Battles are decided before they begin... Kansuke, the preparations?{05}{05}{05}
+@95
+Yes, our forces have been strengthened.{05}{05}{05}
+@96
+Good... Now the men of both armies will decide it all.{05}{05}{05}
+@97
+{02}" Army... The Takeda warriors won't be easily beaten!{05}{05}{05}
+@98
+The Takeda cavalry, called the\nstrongest of the age, is attacking!{05}{05}{05}
+@99
+{1B}C3Make good use of guns and tactics{1B}C1\nto seize victory.{05}{05}{05}
+@100
+...Good. All troops, advance!{05}{05}{05}
+@101
+Well done, Father! Your fame will grow again.{05}{05}{05}
+@102
+Hm... I thought they would be tougher...{05}{05}{05}
+@103
+...We won. Now we can continue to Kyoto.{05}{05}{05}
+@104
+Indeed... the power of my lord, "the Tiger of Kai."{05}{05}{05}
+@105
+No... it was everyone's work. Our men were simply better.{05}{05}{05}
+@106
+Hm... Fall back! We regroup in Kai!{05}{05}{05}
+@107
+Ugh... To foes like these...{05}{05}{05}
+@108
+Accept defeat, Katsuyori. Learn from it for next time...!{05}{05}{05}
+@109
+Checkmate, then... I beg your pardon...{05}{05}{05}
+@110
+No regrets, Kansuke. The enemy simply had good men.{05}{05}{05}
+@111
+...To beat me, Shingen... They have gathered good men...{05}{05}{05}
+@112
+Hoh hoh, no one can stop my march on Kyoto...{05}{05}{05}
+@113
+My lord! The {02}" Army attacks!{05}{05}{05}
+@114
+Eek, eek! We must flee! Quickly!{05}{05}{05}
+@115
+Silence, Ujizane! Can't you even see their numbers?{05}{05}{05}
+@116
+Um... one, two, three... er... er, er...{05}{05}{05}
+@117
+If I may, the difference is clear... We have a crushing advantage.{05}{05}{05}
+@118
+Then... let us advance at leisure and scatter them!{05}{05}{05}
+@119
+The {02}" Army... again with such a small force...{05}{05}{05}
+@120
+They underrate us... Time to show them the Imagawa bow!{05}{05}{05}
+@121
+That's right, Father!{05}{05}{05}
+@122
+...Didn't I tell you to stay home this time, Ujizane?{05}{05}{05}
+@123
+It's all right! With my kemari...{05}{05}{05}
+@124
+Imagawa army, advance! ...Everyone but Ujizane's unit...{05}{05}{05}
+@125
+Ambush the great Imagawa army\nmarching on Kyoto with a few men.{05}{05}{05}
+@126
+{1B}C3You can't win a head-on fight.{1B}C1\nAim for Yoshimoto's command unit.{05}{05}{05}
+@127
+Heh, nothing to it. Just a reckless ambush.{05}{05}{05}
+@128
+Even weaker than Ujizane! Hoh hoh hoh hoh hoh!{05}{05}{05}
+@129
+F... Fa-ther...{05}{05}{05}
+@130
+If we stay alert, this is all they are.{05}{05}{05}
+@131
+Dear me... What a waste of effort.{05}{05}{05}
+@132
+...The enemy isn't cut out for war, is he? Play kemari with me~{05}{05}{05}
+@133
+Ugh, retreat! To an ambush like this...{05}{05}{05}
+@134
+Careless... How could I...{05}{05}{05}
+@135
+You'll pay for this!{05}{05}{05}
+@136
+I was not careless this time... Yet they outwitted me completely...{05}{05}{05}
+@137
+Though a foe, splendid! I am utterly beaten!{05}{05}{05}
+@138
+...Is the battle over? Phew, I'm so tired...{05}{05}{05}

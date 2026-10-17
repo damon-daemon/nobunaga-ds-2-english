@@ -1,0 +1,416 @@
+@0
+Which clan will you view?{05}{05}{05}
+@1
+Send a ninja to the {02}{01}d clan?{05}{05}{05}
+@2
+The ninja brought back information.{05}{05}{05}
+@3
+The ninja did not return.{05}{05}{05}
+@4
+In which province will you turn an officer?{05}{05}{05}
+@5
+Who will you try to turn?{05}{05}{05}
+@6
+What will you send as a gift?{05}{05}{05}
+@7
+{01}I{02}{05}9Will the daimyo go in person\nto turn {02}{06}d?{05}{05}{05}Send {02}{05}d\nto turn {02}{06}d?{05}{05}{05}
+@8
+{01}S{02}{19}2Please, join our clan's\nside.{05}{05}{05}We are counting on you.\nPlease, I beg you.{05}{05}{05}
+@9
+{01}S{02}{19}2Agreed!{05}{05}{05}I will gladly\njoin your side.{05}{05}{05}
+@10
+{01}S{02}{19}2Enough idle talk.\nBe gone at once.{05}{05}{05}What nonsense is this...\nBe gone at once.{05}{05}{05}
+@11
+{02}{05}d agreed to change\nsides on the battlefield.{05}{05}{05}
+@12
+The attempt to persuade\n{02}{05}d failed.{05}{05}{05}
+@13
+Which province will you send a ninja to?{05}{05}{05}
+@14
+Send a ninja to {02}{09}d?{05}{05}{05}
+@15
+{01}S{02}{19}2Look, the people's hearts\nare full of unease.{05}{05}{05}Look, suspicion swirls\nthroughout the province.{05}{05}{05}
+@16
+Curses!\nWas the ninja caught...?{05}{05}{05}
+@17
+{01}I{02}{12}{04}=0The rumors worked. Order in\n{02}{09}d is now {02}{11}.{05}{05}{05}The rumors worked. Order in\n{02}{09}d is now {02}{11}\n(-{02}{12}).{05}{05}{05}
+@18
+The rumors in {02}{09}d\nfailed.{05}{05}{05}
+@19
+Which province's daimyo will you target?{05}{05}{05}
+@20
+Which province's daimyo will they fight?{05}{05}{05}
+@21
+That is the clan you already chose.{05}{05}{05}
+@22
+Send a ninja to the {02}{01}d clan?{05}{05}{05}
+@23
+{01}S{02}{19}2A rift has opened\nbetween the two clans.{05}{05}{05}The two lords' hearts\nhave grown far apart.{05}{05}{05}
+@24
+Curses!\nWas the ninja caught...?{05}{05}{05}
+@25
+{01}I{02}{12}{04}=0The scheme worked. Amity between\nthe {02}{01}d and {02}{02}d clans\nis now {02}{11}.{05}{05}{05}The scheme worked. Amity between\nthe {02}{01}d and {02}{02}d clans\nis now {02}{11} (-{02}{12}).{05}{05}{05}
+@26
+The scheme against the {02}{01}d\nclan failed.{05}{05}{05}
+@27
+Send an envoy to which daimyo?{05}{05}{05}
+@28
+Already friendly with the {02}{01}d clan.{05}{05}{05}
+@29
+{01}I{02}{05}9Will the daimyo go in person\nto the {02}{01}d clan?{05}{05}{05}Send {02}{05}d as envoy\nto the {02}{01}d clan?{05}{05}{05}
+@30
+{01}S{02}{19}2The bond between our\nclans has deepened.{05}{05}{05}At last the bond between\nour lords grows deeper.{05}{05}{05}
+@31
+To be refused...\nWhat a disgrace...{05}{05}{05}
+@32
+Amity with the {02}{01}d clan is now\n{02}{11} (+{02}{12}).{05}{05}{05}
+@33
+Amity with the {02}{01}d stays at {02}{1F}{02}{01}{02}{02}{05}{05}{05}
+@34
+Send an envoy to which daimyo?{05}{05}{05}
+@35
+You are allied with the {02}{01}d clan.{05}{05}{05}
+@36
+{01}I{02}{05}9Will the daimyo go in person\nto the {02}{01}d clan?{05}{05}{05}Send {02}{05}d as envoy\nto the {02}{01}d clan?{05}{05}{05}
+@37
+{01}I{02}{05}{18}{04}=1The alliance is made.{05}{05}{05}{01}S{02}{19}2The alliance is made!{05}{05}{05}We have our alliance!{05}{05}{05}
+@38
+To be refused...\nWhat a disgrace...{05}{05}{05}
+@39
+Allied with the {02}{01}d clan.{05}{05}{05}
+@40
+Alliance talks with the {02}{01}d\nclan came to nothing.{05}{05}{05}
+@41
+Send an envoy to which daimyo?{05}{05}{05}
+@42
+{01}I{02}{05}9Will the daimyo go in person\nto the {02}{01}d clan?{05}{05}{05}Send {02}{05}d as envoy\nto the {02}{01}d clan?{05}{05}{05}
+@43
+{01}I{02}{05}{18}{04}=1No blood had to be shed.{05}{05}{05}No blood was shed\nin vain.{05}{05}{05}
+@44
+{01}S{02}{19}2That {02}{07}d,\nputting on a brave face...{05}{05}{05}That {02}{07}d... if only\nthey had quietly obeyed...{05}{05}{05}
+@45
+The {02}{05}e clan has submitted\nto the {02}{01}d clan.{05}{05}{05}
+@46
+The {02}{05}e refused to surrender to the {02}{01}d.{05}{05}{05}
+@47
+Send an envoy to which daimyo?{05}{05}{05}
+@48
+That is not an allied province.{05}{05}{05}
+@49
+Break the alliance with\nthe {02}{01}d clan?{05}{05}{05}
+@50
+{02}{06}d!\nYou dare break our alliance...{05}{05}{05}
+@51
+The {02}{02}d clan broke its alliance\nwith the {02}{01}d clan.{05}{05}{05}
+@52
+{02}{05}d of the {02}{05}(d clan\nseems to be meeting {02}{06}d\nof the {02}{06}(d clan.{05}{05}{05}
+@53
+{01}I{02}{12}{04}=0The {02}{05}(d clan used ninja\nto throw {02}{09}d into chaos.{05}{05}{05}The {02}{05}(d clan used ninja\nto throw {02}{09}d into chaos.\nOrder is now {02}{11} (-{02}{12}).{05}{05}{05}
+@54
+{01}I{02}{12}{04}=0Someone used ninja to throw\n{02}{09}d into chaos.{05}{05}{05}Someone used ninja to throw\n{02}{09}d into chaos.\nOrder is now {02}{11} (-{02}{12}).{05}{05}{05}
+@55
+The {02}{05}(d clan used ninja\nto stir up {02}{09}d, but\nwe stopped them.{05}{05}{05}
+@56
+Someone used ninja to stir\nup {02}{09}d, but we\nstopped them.{05}{05}{05}
+@57
+{01}I{02}{12}{04}=0A {02}{05}(d clan scheme has soured\nrelations between the {02}{01}d\nand {02}{02}d clans.{05}{05}{05}A {02}{05}(d clan scheme lowered amity\nbetween the {02}{01}d and {02}{02}d\nclans to {02}{11} (-{02}{12}).{05}{05}{05}
+@58
+The {02}{05}(d clan seems to have\nschemed to sour relations between\nthe {02}{01}d and {02}{02}d clans.{05}{05}{05}
+@59
+{01}I{02}{05}9{02}{05}d, head of the {02}{05}(d\nclan, has arrived.{05}{05}{05}{02}{05}d of the {02}{05}(d clan\nhas arrived.{05}{05}{05}
+@60
+{01}S{02}{19}3Accept these 100 gold\nas a token of friendship.{05}{05}{05}As a token of friendship,\nplease accept 100 gold.{05}{05}{05}I have brought 100 gold\nas a gift.{05}{05}{05}
+@61
+{01}S{02}{19}2I have brought {02}{0D}d\nas a gift.{05}{05}{05}Accept this {02}{0D}d as\na token of friendship.{05}{05}{05}
+@62
+The {02}{01}d clan desires friendship\nwith us. What will you do?{05}{05}{05}
+@63
+{01}I{02}{05}9The bond between our clans\ngrows ever deeper.{05}{05}{05}The bond between our clans\ngrows ever deeper.{05}{05}{05}
+@64
+{01}I{02}{05}9Wh-what...?\nI cannot believe my ears!{05}{05}{05}I misjudged you!{05}{05}{05}
+@65
+The {02}{01}d and {02}{02}d clans\nhave formed an alliance.{05}{05}{05}
+@66
+{01}S{02}{19}2If our two clans join hands,\nwe will have nothing to fear.{05}{05}{05}Now is the time for our\nclans to join hands...{05}{05}{05}
+@67
+The {02}{01}d clan seeks an alliance\nwith us. What will you do?{05}{05}{05}
+@68
+{01}I{02}{05}9A wise decision.{05}{05}{05}Thank you for your\nwise decision.{05}{05}{05}
+@69
+{01}I{02}{05}9You will regret this.{05}{05}{05}You will regret this.{05}{05}{05}
+@70
+The {02}{01}d and {02}{02}d clans\nhave formed an alliance.{05}{05}{05}
+@71
+Alliance talks between the {02}{01}d and {02}{02}d failed.{05}{05}{05}
+@72
+{01}I{02}{05}9Needless strife helps\nneither clan.{05}{05}{05}Needless strife\nhelps neither clan.{05}{05}{05}
+@73
+The {02}{01}d clan demands our\nsurrender. What will you do?{05}{05}{05}
+@74
+{01}I{02}{05}9A wise decision.{05}{05}{05}Thank you for your\nwise decision.{05}{05}{05}
+@75
+{01}I{02}{05}9You will regret this.{05}{05}{05}You will regret this.{05}{05}{05}
+@76
+Lord {02}{05}d, word has come that\nthe {02}{01}d clan is ending\nits alliance with us!{05}{05}{05}
+@77
+Your retainers will lose heart.\nIs that all right?{05}{05}{05}
+@78
+What are you doing!? Insolence!{05}{05}{05}
+@79
+{01}I{02}{05}9It seems we caught\nthem.{05}{05}{05}We caught them.{05}{05}{05}
+@80
+To seize an envoy... they\nhave fallen low.{05}{05}{05}
+@81
+{01}I{02}{05}9It seems they got\naway...{05}{05}{05}They got away...{05}{05}{05}
+@82
+{01}I{02}{05}9It seems our gold is\nrunning a deficit...{05}{05}{05}{01}I{02}{09} {03}*10{04}>{02}{09}{1B}Our gold is in deficit.\nWe must develop commerce.{05}{05}{05}Our gold is in deficit.\nPlease take care.{05}{05}{05}
+@83
+{01}I{02}{05}9It seems our food is\nrunning a deficit...{05}{05}{05}{01}I{02}{09}{03}{04}>{02}{09}{1A}Our food is in deficit.\nLet us raise our farms.{05}{05}{05}Our food is in deficit.\nPlease take care.{05}{05}{05}
+@84
+{01}I{02}{05}9I long for the thaw.{05}{05}{05}{01}I{02}{09}'{04}>3The thaw is still\nfar off.{05}{05}{05}{01}I{02}{09}'{04}>2It will be a little\nwhile yet before the thaw.{05}{05}{05}The snow in {02}{09}d\nwill soon melt.{05}{05}{05}
+@85
+{01}I{02}{05}9The {02}{01}d clan seems to\nbe up to something...{05}{05}{05}The {02}{01}d clan is up to\nsomething... Take care.{05}{05}{05}
+@86
+{01}I{02}{05}9It seems a ronin is\nstaying here.{05}{05}{05}A ronin is staying here.\nWhy not recruit them?{05}{05}{05}
+@87
+{01}I{02}{05}9We seem short of troops.{05}{05}{05}We seem short of troops.\nWhy not conscript?{05}{05}{05}
+@88
+{01}I{02}{05}9Should we drill the troops\nfor battle?{05}{05}{05}Why not drill the troops\nfor battle?{05}{05}{05}
+@89
+{01}I{02}{05}9We should improve\norder.{05}{05}{05}{01}S{02}{19}2Let us improve order.{05}{05}{05}We should improve\norder, I think...{05}{05}{05}
+@90
+{01}I{02}{05}9Retainers with low loyalty\nshould be rewarded...{05}{05}{05}{01}S{02}{19}2Let us reward the\ndiscontented retainers.{05}{05}{05}Giving tea ware to retainers\nwith low loyalty may help.{05}{05}{05}
+@91
+{01}I{02}{05}9Rice seems cheap.{05}{05}{05}Look at the rice price.\nIt is time to buy.{05}{05}{05}
+@92
+{01}I{02}{05}9Soldiers are cheap to\nhire now.{05}{05}{05}Soldiers are cheap\nto hire now.{05}{05}{05}
+@93
+{01}I{02}{05}9Raising castle defense\nwould not hurt.{05}{05}{05}Why not raise\ncastle defense?{05}{05}{05}
+@94
+{01}I{02}{05}9There are rumors that someone\nis plotting rebellion.{05}{05}{05}I have heard rumors that\nsomeone is plotting rebellion.{05}{05}{05}
+@95
+{01}I{02}{05}9There may be a traitor in\nleague with another clan...{05}{05}{05}There may be a traitor in\nleague with another clan...{05}{05}{05}
+@96
+{01}I{02}{05}9It seems an ironclad\nis finished.{05}{05}{05}An ironclad is finished.\nLet us give it to a retainer.{05}{05}{05}
+@97
+{01}I{02}{05}9{06}&{02}{05}{18}{04}=1Well now,\nwhat shall I do...{05}{05}{05}{01}I{02}{05}9Well now,\nwhat to do...{05}{05}{05}{01}I{02}{09}3{04}>0There is a ronin here.\nWhy not try to recruit them?{05}{05}{05}{01}I{02}{09} {03}*10{04}>{02}{09}{1B}{03}*2{06}&{02}{18}50Let us develop\ncommerce further.{05}{05}{05}{01}I{02}{09} {03}*10{04}={02}{09}{1B}{06}&{02}{09} {04}<100{06}&{02}{18}50To develop commerce further,\nculture must rise.{05}{05}{05}{01}I{02}{09}{03}{04}>{02}{09}{1A}{03}*2{06}&{02}{18}50Why not cultivate land\nand raise our farms?{05}{05}{05}{01}I100{04}>{02}{09}{1C}{06}&{02}{18}50With more Tech we could\nsurvey for gold mines.{05}{05}{05}{01}I200{04}>{02}{09}{1C}{06}&100{04}{7B}{02}{09}{1C}{06}&{02}{18}50Raise Tech further and\nsomething may happen...{05}{05}{05}{01}I300{04}>{02}{09}{1C}{06}&200{04}{7B}{02}{09}{1C}{06}&{02}{18}50Let us raise Tech further\nso we can make guns.{05}{05}{05}Sometimes you should\njudge for yourself.{05}{05}{05}
+@98
+End orders for {02}{09}d.\nIs that all right?{05}{05}{05}
+@99
+Which daimyo will you view?{05}{05}{05}
+@100
+View the {02}{01}d clan's diplomacy.{05}{05}{05}
+@101
+View the {02}{01}d clan's domain.{05}{05}{05}
+@102
+View the {02}{01}d clan's officers.{05}{05}{05}
+@103
+No one owns any tea ware.{05}{05}{05}
+@104
+You must gather information by espionage.{05}{05}{05}
+@105
+View the {02}{01}d clan's tea ware.{05}{05}{05}
+@106
+The {02}{01}d clan's diplomacy.{05}{05}{05}
+@107
+The {02}{01}d clan's domain.{05}{05}{05}
+@108
+The {02}{01}d clan's officers.{05}{05}{05}
+@109
+The {02}{01}d clan's tea ware.{05}{05}{05}
+@110
+Which province will you view?{05}{05}{05}
+@111
+There are no officers.{05}{05}{05}
+@112
+That province is empty.{05}{05}{05}
+@113
+View the officers in {02}{09}d.{05}{05}{05}
+@114
+View the tea ware in {02}{09}d.{05}{05}{05}
+@115
+View the castle grounds of {02}{09}d.{05}{05}{05}
+@116
+The officers in {02}{09}d.{05}{05}{05}
+@117
+The tea ware in {02}{09}d.{05}{05}{05}
+@118
+There is no province you can delegate.{05}{05}{05}
+@119
+Choose a province to delegate or rule directly.{05}{05}{05}
+@120
+Choose what to delegate\nin {02}{09}d.{05}{05}{05}
+@121
+{01}S{02}{11}The color of the flowers\nhas faded in vain,{05}{05}{05}For your sake I went out\nto pick spring greens,{05}{05}{05}How can I even tell you\nthat I burn like Ibuki moxa?{05}{05}{05}Swift is the stream,\nparted by a rock,{05}{05}{05}Unheard of even in the age of\ngods: the Tatsuta River{05}{05}{05}Gazing at the moon,\na thousand things grieve me,{05}{05}{05}Will your heart stay true?\nI cannot know; my black hair{05}{05}{05}Thread of my life, break if you\nmust, for if I live on,{05}{05}{05}On this spring day\nof calm, gentle light,{05}{05}{05}Of people's hearts I know nothing,\nbut in my old home{05}{05}{05}Let us feel for each other,\nmountain cherry,{05}{05}{05}On the high peak of Takasago\nthe cherries are in bloom;{05}{05}{05}Not the snow of blossoms the\nstorm draws through the garden,{05}{05}{05}My hut lies southeast of the\ncapital, and there I live,{05}{05}{05}This is the place where those\ncoming and going part,{05}{05}{05}Whom shall I take as a friend?\nEven the pines of Takasago{05}{05}{05}Spring has passed and summer\nhas come, it seems:{05}{05}{05}The summer night, while it is\nstill evening, turns to dawn;{05}{05}{05}Deep in the mountains, treading\nred leaves, a deer calls;{05}{05}{05}As soon as it blows, autumn\ngrass and trees wilt;{05}{05}{05}On the autumn fields where the\nwind blows on white dew,{05}{05}{05}In my loneliness I leave\nmy hut and gaze around:{05}{05}{05}On the pine leaves, still wet\nfrom the passing shower,{05}{05}{05}Coming out on the Tago shore,\nI look and see, pure white,{05}{05}{05}Out across the sea toward its\neighty isles I have rowed:{05}{05}{05}In the mountain village\nwinter's loneliness deepens{05}{05}{05}If I must, I will pluck it\nblindly, amid the first frost:{05}{05}{05}At daybreak, so bright I took\nit for the dawn moon:{05}{05}{05}
+@122
+{01}S{02}{11}Th-the...{05}{05}{05}For your sake, for your sake...{05}{05}{05}...this burning love...{05}{05}{05}The stream, the stream...{05}{05}{05}Unheard of...{05}{05}{05}Grieve me, grieve me...{05}{05}{05}Tangled, tangled...{05}{05}{05}Thread of life, thread of life...{05}{05}{05}R-restless...{05}{05}{05}My old home, my old home...{05}{05}{05}Mountain cherry...{05}{05}{05}M-mist on the hills...{05}{05}{05}The storm's garden...{05}{05}{05}My hut, my hut...{05}{05}{05}......the Osaka Barrier{05}{05}{05}Takasago, Takasago...{05}{05}{05}...Mount Kagu?{05}{05}{05}Clouds, clouds...{05}{05}{05}A deer, a deer...{05}{05}{05}As it blows, as it blows...{05}{05}{05}Autumn fields, autumn fields...{05}{05}{05}I gaze around...{05}{05}{05}Pine leaves, pine leaves...{05}{05}{05}......{05}{05}{05}The sea, the sea...{05}{05}{05}P-people...{05}{05}{05}The frost that confuses...{05}{05}{05}At daybreak...{05}{05}{05}
+@123
+{01}S{02}{11}as I gazed out\nin the long rains.{05}{05}{05}while the snow kept falling\non my sleeves.{05}{05}{05}You cannot know how\nmy love burns.{05}{05}{05}yet in the end, I know,\nwe will meet again.{05}{05}{05}dyeing its waters\ndeep crimson.{05}{05}{05}though autumn comes\nnot to me alone.{05}{05}{05}is tangled this morning,\nas are my thoughts.{05}{05}{05}my strength to hide\nmy love will fail.{05}{05}{05}why do the blossoms\nscatter so restlessly?{05}{05}{05}the blossoms smell just\nas they did of old.{05}{05}{05}for none but your flowers\nknows me.{05}{05}{05}O mist of the near hills,\ndo not rise and hide them.{05}{05}{05}it is I myself who\ngrows old and falls.{05}{05}{05}though people say I fled\nthe world to Uji hill.{05}{05}{05}friends and strangers alike:\nthe Osaka Barrier.{05}{05}{05}are not the friends\nof my past.{05}{05}{05}white robes are drying\non heavenly Mount Kagu.{05}{05}{05}where in the clouds\ndoes the moon lodge?{05}{05}{05}hearing its voice,\nautumn is saddest.{05}{05}{05}no wonder they call the\nmountain wind a storm.{05}{05}{05}the unstrung jewels\nlie scattered.{05}{05}{05}everywhere the same\nautumn dusk.{05}{05}{05}the mist rises in\nthe autumn dusk.{05}{05}{05}snow falling on the\nhigh peak of Fuji.{05}{05}{05}tell them so,\nO fishing boats.{05}{05}{05}when I think visitors and\ngrasses have both withered.{05}{05}{05}the white chrysanthemum\nlost in the frost.{05}{05}{05}the white snow fallen\non Yoshino village.{05}{05}{05}
+@124
+{01}I{02}{05}9{06}&{02}{05}{18}{04}=1Calm judgment is the\nheart of battle.{05}{05}{05}{01}I{02}{05}9In battle, always stay calm.\nEngrave that on your heart.{05}{05}{05}{01}S{02}{19}2In battle, always stay calm.\nEngrave that on your heart.{05}{05}{05}Calm judgment is the\nheart of battle.{05}{05}{05}
+@125
+{01}I{02}{05}9{06}&{02}{05}{18}{04}=1I see. I will keep\nthat in mind.{05}{05}{05}{01}I{02}{05}9Hm, I will keep\nthat in mind.{05}{05}{05}{01}S{02}{19}2Oh, I see!\nA fine lesson.{05}{05}{05}I will engrave those\nwords on my heart.{05}{05}{05}
+@126
+<Movement tactic>\n　Raises mobility for a long time.{05}{05}{05}
+@127
+<Movement tactic>\n　Raises mobility a lot for a short time.{05}{05}{05}
+@128
+<Movement tactic>\n　Reveals unseen enemies in rain,\n　at night or inside castles.\n　Ambushes always succeed.{05}{05}{05}
+@129
+<Movement tactic>\n　Lowers the mobility needed to\n　climb walls; climbing always works.{05}{05}{05}
+@130
+<Movement tactic> (unique)\nClans: Hashiba\n　Raises mobility greatly for a short time.{05}{05}{05}
+@131
+<Movement tactic> (unique)\nClans: Oda, Date and others\n　Raises mobility a lot for a short time\n　and confuses officers with low War.{05}{05}{05}
+@132
+<Special tactic>\n　Raises own morale.{05}{05}{05}
+@133
+<Special tactic>\n　Cancels all tactic effects.{05}{05}{05}
+@134
+<Special tactic>\n　Enemy regular officers with low\n　Learning can only attack directly.\n　If it fails, enemy morale drops a little.{05}{05}{05}
+@135
+<Special tactic>\n　Enemy regular officers with low\n　Politics cannot move.\n　If it fails, enemy morale drops a little.{05}{05}{05}
+@136
+<Special tactic>\n　Lowers enemy morale by\n　a random amount.{05}{05}{05}
+@137
+<Special tactic>\n　Lowers enemy food and morale.\n　Not usable in rain or snow.{05}{05}{05}
+@138
+<Special tactic>\n　Lowers enemy morale.\n　Only when attacking a castle.{05}{05}{05}
+@139
+<Special tactic>\n　Lowers the troops of all enemy units.{05}{05}{05}
+@140
+<Special tactic> (unique)\nClans: Ashikaga shogunate, Honganji Lowers the troops of all enemy units greatly.{05}{05}{05}
+@141
+<Special tactic> (unique)\nClans: Mori, Mogami and others\n　One unit (not the commander) retreats.\n　If it fails, enemy morale drops a little.{05}{05}{05}
+@142
+<Special tactic> (unique)\nClans: Hojo\n　Lowers enemy troops and morale.\n　Only when defending a castle.{05}{05}{05}
+@143
+<Special tactic> (unique)\nClans: Shimazu\n　Lowers enemy morale and raises\n　own regulars' attack.{05}{05}{05}
+@144
+<Ashigaru attack tactic>\n　Raises own regular ashigaru's\n　attack for a long time.{05}{05}{05}
+@145
+<Ashigaru attack tactic>\n　Raises own regular ashigaru's\n　attack a lot for a short time.{05}{05}{05}
+@146
+<Ashigaru attack tactic>\n　Raises own regular ashigaru's\n　attack on gates greatly.\n　Only when attacking a castle.{05}{05}{05}
+@147
+<Ashigaru attack tactic> (unique)\nClans: Tokugawa\n　Cancels all enemy regular tactic\n　effects and raises own ashigaru attack.{05}{05}{05}
+@148
+<Ashigaru attack tactic> (unique)\nClans: Chosokabe\n　Raises own regular ashigaru's\n　defense and own morale.{05}{05}{05}
+@149
+<Ashigaru attack tactic> (unique)\nClans: Ryuzoji, Nagano and others\n　Raises own regular ashigaru's\n　attack and defense.{05}{05}{05}
+@150
+<Ashigaru attack tactic>\n　Turns own regular ashigaru into\n　bow units for 15 turns.{05}{05}{05}
+@151
+<Bow attack tactic>\n　Raises own regular bow units'\n　archery and adds a morale drop.{05}{05}{05}
+@152
+<Bow attack tactic>\n　Raises own regular bow units'\n　archery a lot.{05}{05}{05}
+@153
+<Bow attack tactic> (unique)\nClans: Imagawa, Mori and others\n　Raises own regular bow units'\n　archery and adds a morale drop.{05}{05}{05}
+@154
+<Cavalry attack tactic>\n　Raises own regular cavalry's charge\n　a lot; if they can reach the enemy's\n　rear, they always outflank.{05}{05}{05}
+@155
+<Cavalry attack tactic>\n　Raises own regular cavalry's\n　mobility and attack.{05}{05}{05}
+@156
+<Cavalry attack tactic> (unique)\nClans: Takeda\n　Raises own regular cavalry's\n　mobility, attack and defense.{05}{05}{05}
+@157
+<Cavalry attack tactic> (unique)\nClans: Azai, Shibata and others\n　Raises own regular cavalry's attack\n　a lot but lowers defense.{05}{05}{05}
+@158
+<Cavalry attack tactic> (unique)\nClans: Uesugi\n　Raises own regular cavalry's attack\n　greatly but lowers defense a lot.{05}{05}{05}
+@159
+<Gun attack tactic>\n　Extends own regular gun units' range.{05}{05}{05}
+@160
+<Gun attack tactic>\n　Own regular gun units can fire\n　even in rain or snow.{05}{05}{05}
+@161
+<Gun attack tactic>\n　Own regular gun units can fire\n　several times in a row.{05}{05}{05}
+@162
+<Gun attack tactic> (unique)\nClans: Oda, Suzuki and others\n　Own regular gun units can fire\n　three times in a row.{05}{05}{05}
+@163
+<Gun attack tactic> (unique)\nClans: Shimazu, Honganji and others\n　Own regular gun units fire in a row\n　and lower enemy morale.{05}{05}{05}
+@164
+<Gun attack tactic>\n　Turns own regular gun units into\n　cannon units for 10 turns.{05}{05}{05}
+@165
+<Cannon attack tactic> (unique)\nClans: Otomo\n　Raises own regular cannon units'\n　attack.{05}{05}{05}
+@166
+{01}I{02}{06}{07}<{04}={02}{05}<{06}&{02}{05}{18}{04}=0It seems our gold\nis running low.{05}{05}{05}Our gold is running low.\nPlease take care.{05}{05}{05}
+@167
+{01}I100{04}>{02}{09}{18}{01}J.{14}{05}{05}{05}{01}I{02}{09}{03}{03}*9{04}>{02}{09}{1A}{03}*10Cultivating land raises\nfarms and food income.{05}{05}{05}There is little land left\nto cultivate.{05}{05}{05}
+@168
+{01}I100{04}>{02}{09}{18}{01}J.{14}{05}{05}{05}{01}I{02}{09} {03}*90{04}>{02}{09}{1B}{03}*10As commerce grows,\ngold income grows too.{05}{05}{05}{01}I100{04}>{02}{09} Without more culture,\ncommerce will stall.{05}{05}{05}Commerce in this province\nis well developed.{05}{05}{05}
+@169
+{01}I100{04}>{02}{09}{18}{01}J.{14}{05}{05}{05}{01}I70{04}>{02}{09}!Work harder to\nimprove order.{05}{05}{05}The better the order, the\nmore gold and rice come in.{05}{05}{05}
+@170
+{01}I100{04}>{02}{09}{18}{01}J.{14}{05}{05}{05}{01}I100{04}>{02}{09}{1C}At Tech 100 we can\nsurvey for gold mines.{05}{05}{05}{01}I200{04}>{02}{09}{1C}At Tech 200 something\nmay happen...{05}{05}{05}{01}I300{04}>{02}{09}{1C}At Tech 300 we can\nmake guns.{05}{05}{05}{01}I600{04}>{02}{09}{1C}{06}&{02}{09}{16}{04}=0At Tech 600 we can\nbuild ironclads.{05}{05}{05}The higher our Tech,\nthe cheaper guns become.{05}{05}{05}
+@171
+{01}I100{04}>{02}{09}{18}{01}J.{14}{05}{05}{05}{01}I800{04}>{02}{09}{1D}Be prepared and you\nwill have no worries.{05}{05}{05}Truly a castle worthy of\nbeing called impregnable.{05}{05}{05}
+@172
+{01}I{02}{05}{1A}{04}>89{06}&0{04}={02}{09}{15}There are no gold mines\nin this province...{05}{05}{05}{01}I0{04}<{02}{09}&{01}J5{14}{05}{05}{05}{01}I1{04}={02}{09}%{01}J6{14}{05}{05}{05}{01}J7{14}{05}{05}{05}
+@173
+{01}I{02}{05}{1A}{04}>89{06}&3{04}>{02}{09}&The gold mines are nearly\nworked out.{05}{05}{05}Very well.{05}{05}{05}
+@174
+{01}I{02}{05}{1A}{04}>79We will surely find one.{05}{05}{05}{01}S{02}{19}5I cannot say whether we\nwill find a gold mine...{05}{05}{05}I cannot say whether\nwe will find one...{05}{05}{05}I have a feeling\nwe might find one...{05}{05}{05}I have a feeling\nwe might find one...{05}{05}{05}I have a hunch\nwe will find one...{05}{05}{05}
+@175
+{01}I{02}{05}{1A}{04}>79It does not look like\nwe will find one.{05}{05}{05}{01}S{02}{19}5I cannot say whether we\nwill find a gold mine...{05}{05}{05}I cannot say whether\nwe will find one...{05}{05}{05}I cannot say whether\nwe will find one...{05}{05}{05}I have a feeling we\nmight find a gold mine...{05}{05}{05}I have a hunch\nwe will find one...{05}{05}{05}
+@176
+{01}I100{04}>{02}{09}{18}{01}J.{14}{05}{05}{05}{01}I1000{04}{7B}{02}{09}{19}{06}&18{04}{7B}{02}{11}Is there any need\nto buy now?{05}{05}{05}{01}I10{04}}{02}{11}A shrewd sense of timing.{05}{05}{05}{01}I20{04}{7B}{02}{11}An expensive purchase.{05}{05}{05}{01}I18{04}{7B}{02}{11}It seems a little pricey...{05}{05}{05}As you wish.{05}{05}{05}
+@177
+{01}I100{04}>{02}{09}{19}Our food is running low.{05}{05}{05}{01}I2000{04}{7B}{02}{09}{18}{06}&10{04}}{02}{11}Is there any need\nto sell now?{05}{05}{05}{01}I20{04}{7B}{02}{11}A shrewd sense of timing.{05}{05}{05}{01}I18{04}{7B}{02}{11}It is good to sell\nat this price.{05}{05}{05}{01}I10{04}}{02}{11}I would rather sell\nit for more...{05}{05}{05}As you wish.{05}{05}{05}
+@178
+{01}I200{04}{7B}{02}{11}Th-that is expensive...{05}{05}{05}{01}I140{04}{7B}{02}{11}It seems costly,\nbut it cannot be helped.{05}{05}{05}{01}I100{04}{7B}{02}{11}At this price,\nit cannot be helped.{05}{05}{05}{01}I70{04}{7B}{02}{11}It has become much cheaper.{05}{05}{05}As you wish.{05}{05}{05}
+@179
+{01}I{02}{11}{04}}100It will arrive safely.{05}{05}{05}{01}I{02}{11}{04}}80It will most likely\narrive safely.{05}{05}{05}{01}I{02}{11}{04}}60There is some risk\nof bandits.{05}{05}{05}{01}I{02}{11}{04}}40Whether it arrives safely\nis fifty-fifty...{05}{05}{05}You know the risks?{05}{05}{05}
+@180
+{01}I{02}{06}{07}<{04}={02}{05}<{06}&{02}{05}{18}{04}=1That would betray your word.{05}{05}{05}{01}I{02}{06}{07}<{04}={02}{05}<That would betray your word.{05}{05}{05}{01}I{02}{1D}{02}{05}{02}{06}That would betray your word.{05}{05}{05}{01}C{07}{00},\nthat would betray your word.{05}{05}{05}
+@181
+It is not too late to act\nonce we know the enemy.{05}{05}{05}
+@182
+{01}I{02}{12}{04}>{02}{11}{03}*2{02}{07}d is a\nformidable foe.{05}{05}{05}{01}I{02}{11}{04}>{02}{12}{03}*2Our victory is\nall but certain.{05}{05}{05}Victory is a matter of luck.{05}{05}{05}
+@183
+{01}I{02}{11}{04}}100It will succeed.{05}{05}{05}{01}I{02}{11}{04}}80It will most likely\nsucceed.{05}{05}{05}{01}I{02}{11}{04}}60It may well succeed.{05}{05}{05}{01}I{02}{11}{04}}40Fifty-fifty, I think...{05}{05}{05}{01}I{02}{11}{04}=0It has no chance\nof success.{05}{05}{05}I would not expect much...{05}{05}{05}
+@184
+Please watch our gold\nand food balance.{05}{05}{05}
+@185
+Please watch the\nprovince's order.{05}{05}{05}
+@186
+{01}I{02}{11}{04}<50A shrewd sense of timing.{05}{05}{05}{01}I{02}{11}{04}}60The price is too high.{05}{05}{05}Gather troops and\nprepare for battle.{05}{05}{05}
+@187
+{01}I{02}{06}{07}<{04}={02}{05}<{06}&{02}{05}{18}{04}=0Daily training will\nshow in battle.{05}{05}{05}{01}S{02}{19}2Daily training will\nshow in battle.{05}{05}{05}Our army's fame\nwill grow further.{05}{05}{05}
+@188
+{01}I{02}{11}{04}}100They will surely join us.{05}{05}{05}{01}I{02}{11}{04}}80They will most likely\njoin us.{05}{05}{05}{01}I{02}{11}{04}}60They may well join us.{05}{05}{05}{01}I{02}{11}{04}}40Fifty-fifty, I think...{05}{05}{05}I would not expect much...{05}{05}{05}
+@189
+{01}I{02}{06}{07}<{04}={02}{05}<{06}&{02}{05}{18}{04}=0The luckiest man\nin the land!{05}{05}{05}{01}S{02}{19}2Blessed am I to serve\nsuch a fine lord.{05}{05}{05}The luckiest man\nin the land!{05}{05}{05}
+@190
+{01}I{02}{11}{04}>0{01}JG{14}{05}{05}{05}{01}I{02}{11}{04}<0{01}JH{14}{05}{05}{05}{01}I{02}{06}{07}<{04}={02}{05}<{06}&{02}{05}{18}{04}=0{01}JI{14}{05}{05}{05}Their loyalty will not\nchange. Is that all right?{05}{05}{05}
+@191
+{01}I{02}{05}<{04}={02}{07}<Th-thank you, my lord!{05}{05}{05}My loyalty grows\never stronger.{05}{05}{05}
+@192
+{01}I{02}{05}<{04}={02}{07}<Wh-why...\nwhy treat me so...?{05}{05}{05}My heart is turning\naway...{05}{05}{05}
+@193
+{01}I{02}{05}<{04}={02}{07}<Do as you like.{05}{05}{05}Their loyalty will not\nchange. Is that all right?{05}{05}{05}
+@194
+{01}I{02}{11}{04}}80The essence of tea is\nnot easily grasped.{05}{05}{05}{01}I{02}{11}{04}}60{01}JK{14}{05}{05}{05}{01}I{02}{11}{04}}40{01}JL{14}{05}{05}{05}{01}I{02}{11}{04}}20{01}JM{14}{05}{05}{05}{01}I{02}{06}{07}<{04}={02}{05}<{06}&{02}{05}{18}{04}=0Tea is a samurai's\naccomplishment.{05}{05}{05}{01}S{02}{19}2Tea is a samurai's\naccomplishment.{05}{05}{05}A true warrior masters\nboth letters and arms.{05}{05}{05}
+@195
+Fear failure and\nnothing will come of it.{05}{05}{05}
+@196
+{01}S{02}{19}2I hope it will be\na good tea party...{05}{05}{05}Please be careful\nnot to blunder.{05}{05}{05}
+@197
+{01}S{02}{19}2It would be good to taste\nthe depths of tea.{05}{05}{05}Tea is a deep art.{05}{05}{05}
+@198
+{01}I{02}{11}{04}}100As you wish.{05}{05}{05}{01}I{02}{11}{04}}80They will surely bring\nback information.{05}{05}{05}{01}I{02}{11}{04}}60It may well succeed...{05}{05}{05}{01}I{02}{11}{04}}40Fifty-fifty, I think...{05}{05}{05}{01}I{02}{11}{04}}20I would not expect much...{05}{05}{05}{01}I{02}{06}{07}<{04}={02}{05}<{06}&{02}{05}{18}{04}=0They will not come back.{05}{05}{05}They will not come back.{05}{05}{05}
+@199
+{01}I{02}{11}{04}}80Quickly, before another\nclan beats us to it.{05}{05}{05}{01}I{02}{11}{04}}60They may agree if we\ntry a few times...{05}{05}{05}{01}I{02}{11}{04}}40Whether they will agree\nis fifty-fifty...{05}{05}{05}{01}I{02}{11}{04}}20If we keep trying,\nthere is a chance.{05}{05}{05}{01}I{02}{11}{04}}10A one-in-ten chance.{05}{05}{05}{01}I{02}{11}{04}}7One in ten,\nor less.{05}{05}{05}{01}I{02}{11}{04}}4Hardly any hope...{05}{05}{05}{01}I{02}{11}{04}}1A one-in-a-hundred chance.{05}{05}{05}It will be a wasted trip.{05}{05}{05}
+@200
+{01}I{02}{11}{04}}80I have a feeling\nit will work.{05}{05}{05}{01}I{02}{11}{04}}60It seems worth a try.{05}{05}{05}{01}I{02}{11}{04}}40It is about fifty-fifty.{05}{05}{05}{01}I{02}{11}{04}}20I would not expect much.{05}{05}{05}{01}I{02}{11}{04}}10A one-in-ten chance.{05}{05}{05}{01}I{02}{11}{04}}1Hardly any hope...{05}{05}{05}It is hopeless.{05}{05}{05}
+@201
+{01}I{02}{11}{04}}80I have a feeling\nit will work.{05}{05}{05}{01}I{02}{11}{04}}60It seems worth a try.{05}{05}{05}{01}I{02}{11}{04}}40It is about fifty-fifty.{05}{05}{05}{01}I{02}{11}{04}}20I would not expect much.{05}{05}{05}{01}I{02}{11}{04}}10A one-in-ten chance.{05}{05}{05}{01}I{02}{11}{04}}1There is hardly\nany hope...{05}{05}{05}It is hopeless.{05}{05}{05}
+@202
+{01}I{02}{11}{04}}100They will gladly accept it.{05}{05}{05}{01}I{02}{11}{04}}80They will most likely\naccept it.{05}{05}{05}{01}I{02}{11}{04}}60I doubt they will\naccept it...{05}{05}{05}{01}I{02}{11}{04}}40It depends on their mood.{05}{05}{05}We can only keep\nnegotiating patiently.{05}{05}{05}
+@203
+{01}I{02}{11}{04}}100It will succeed.{05}{05}{05}{01}I{02}{11}{04}}80I have a feeling\nit will work.{05}{05}{05}{01}I{02}{11}{04}}60It seems worth a try.{05}{05}{05}{01}I{02}{11}{04}}40It is about fifty-fifty.{05}{05}{05}{01}I{02}{11}{04}}20I would not expect much.{05}{05}{05}{01}I{02}{11}{04}}10A one-in-ten chance.{05}{05}{05}{01}I{02}{11}{04}}1Hardly any hope...{05}{05}{05}It is hopeless.{05}{05}{05}
+@204
+{01}I{02}{11}{04}}100It will succeed.{05}{05}{05}{01}I{02}{11}{04}}80I have a feeling\nit will work.{05}{05}{05}{01}I{02}{11}{04}}60It seems worth a try.{05}{05}{05}{01}I{02}{11}{04}}40It is about fifty-fifty.{05}{05}{05}{01}I{02}{11}{04}}20I would not expect much.{05}{05}{05}{01}I{02}{11}{04}}10A one-in-ten chance.{05}{05}{05}{01}I{02}{11}{04}}1Hardly any hope...{05}{05}{05}It is hopeless.{05}{05}{05}
+@205
+Stop the demo and choose\na daimyo to play?{05}{05}{05}
+@206
+Choose the daimyo you will play.{05}{05}{05}
+@207
+You will play the {02}{01}d clan.\nIs that all right?{05}{05}{05}

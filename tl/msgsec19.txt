@@ -1,0 +1,598 @@
+@0
+Resume the game from suspend data.{05}{05}{05}
+@1
+There is no suspend data to resume.{05}{05}{05}
+@2
+Continue Clash of Warlords.{05}{05}{05}
+@3
+There is no Clash of Warlords data.{05}{05}{05}
+@4
+Start Clash of Warlords from the beginning.{05}{05}{05}
+@5
+Choose where to march.{05}{05}{05}
+@6
+Enter your army's name.{05}{05}{05}
+@7
+You obtained these gems.{05}{05}{05}
+@8
+Give the gems to your officers.{05}{05}{05}
+@9
+These officers have joined you.{05}{05}{05}
+@10
+The suspend data will be erased after loading.\nResume?{05}{05}{05}
+@11
+The suspend data will be erased.\nIs that all right?{05}{05}{05}
+@12
+Your Clash of Warlords progress\nwill be erased. Is that all right?{05}{05}{05}
+@13
+Challenge {02}{05}d to battle.\nIs that all right?{05}{05}{05}
+@14
+Which difficulty?{05}{05}{05}
+@15
+Return to stage select?{05}{05}{05}
+@16
+Some units have no officer assigned.{05}{05}{05}
+@17
+In the age of war...\nIn a Japan torn by rival warlords\nthere was a certain army.{05}{05}{05}
+@18
+It crushed famed generals and heroes one\nafter another, won over and trained the\nfoes it beat, and marched on to new lands.{05}{05}{05}
+@19
+Its goal: to unite the realm!\nNow it sets out on the road of\nthe Clash of Warlords. Its name...{05}{05}{05}
+@20
+Return to the Clash of Warlords\ntitle screen. Is that all right?{05}{05}{05}
+@21
+No army name has been entered.{05}{05}{05}
+@22
+Start the game as the %s Army.\nIs that all right?{05}{05}{05}
+@23
+Some gems have not been given out.\nConfirm anyway?{05}{05}{05}
+@24
+Confirm these assignments.\nIs that all right?{05}{05}{05}
+@25
+Choose the officers to send.{05}{05}{05}
+@26
+Moved by the {02}" Army's cause,\nan officer asks to serve you.{05}{05}{05}
+@27
+Amazed at the {02}" Army's might,\nan officer asks to serve you.{05}{05}{05}
+@28
+Having seen the {02}" Army's strength,\nan officer asks to serve you.{05}{05}{05}
+@29
+The {02}" Army's valor is famed;\nstrong men flock to it.{05}{05}{05}
+@30
+Moved by the {02}" Army's resolve,\nan officer offers his help.{05}{05}{05}
+@31
+Amazed at the {02}" Army's advance,\nan officer offers his help.{05}{05}{05}
+@32
+Drawn by the {02}" Army's godlike\nstrength, officers have gathered.{05}{05}{05}
+@33
+The {02}" Army has united Japan!\nAt the news, new followers joined.{05}{05}{05}
+@34
+You have cleared this scenario.\nSkip the story?{05}{05}{05}
+@35
+Go into battle with this lineup.\nIs that all right?{05}{05}{05}
+@36
+Heh... With Lord Moriyasu and me allied, the realm is ours.{05}{05}{05}
+@37
+Of course, Lord Beard! Leave it to Demon Kuro!{05}{05}{05}
+@38
+If I fall, Lord Moriyasu, please escape...{05}{05}{05}
+@39
+Of course, Lord Beard! I'll flee without looking back!{05}{05}{05}
+@40
+Well, er, you could look back a little...{05}{05}{05}
+@41
+Fear not, Lord Beard! The fire of the north will never die!{05}{05}{05}
+@42
+But... well... a little... ...Hm, an attack!{05}{05}{05}
+@43
+Ha ha ha, you fools! Taste Demon Kuro's spear!{05}{05}{05}
+@44
+Sorry about last time, Lord Beard. But this time...{05}{05}{05}
+@45
+Shh! An attack, Lord Tozawa...{05}{05}{05}
+@46
+This time we're ready for them. But if I should fall...{05}{05}{05}
+@47
+I'll run with all my might!{05}{05}{05}
+@48
+That's the spirit, but... well... a little... you know...{05}{05}{05}
+@49
+Behold Demon Kuro's spearwork, and burn it into your eyes!!{05}{05}{05}
+@50
+I'm still... not quite... satisfied...{05}{05}{05}
+@51
+If Tsugaru Tamenobu falls first, Tozawa Moriyasu will flee {1B}C3with all his might{1B}C1!{05}{05}{05}
+@52
+{1B}C3Beat Tozawa Moriyasu's unit before\nthe commander Tsugaru Tamenobu's{1B}C1{05}{05}{05}
+@53
+Pathetic... You were no match after all!{05}{05}{05}
+@54
+Together, we two can show the realm the might of the north!{05}{05}{05}
+@55
+You lose for scorning us! Ha ha ha ha ha!{05}{05}{05}
+@56
+Once I got serious, this is all you had... Weak!{05}{05}{05}
+@57
+This is what comes of scorning the generals of the north.{05}{05}{05}
+@58
+Give up on the north. Why not try Shikoku or Kyushu?{05}{05}{05}
+@59
+L-Lord Beard... Lord Tsugaruuu!!{05}{05}{05}
+@60
+Men... full retreat! As long as Demon Kuro lives...{05}{05}{05}
+@61
+As long as Demon Kuro lives, this battle is ours!!{05}{05}{05}
+@62
+Damn it... To think they stopped me!{05}{05}{05}
+@63
+...Lord Moriyasu, that's why I said don't charge ahead...{05}{05}{05}
+@64
+Ha ha, we lost, we lost! The enemy's good!{05}{05}{05}
+@65
+Lord Moriyasu's rushing aside, to break this lineup...{05}{05}{05}
+@66
+They've got me beat... No wonder we couldn't take the realm.{05}{05}{05}
+@67
+I, Tamenobu, am impressed! You taught me true valor...{05}{05}{05}
+@68
+Attacking my Iwadeyama Castle... What a reckless bunch.{05}{05}{05}
+@69
+...Indeed. ...How shall we deal with them?{05}{05}{05}
+@70
+What do we do with those who step on the dragon's tail, Shigezane?{05}{05}{05}
+@71
+Ha ha ha! Turn 'em into a hornets' nest?{05}{05}{05}
+@72
+Heh heh, too bad for them... Date guns... fire!{05}{05}{05}
+@73
+Feast on the crimson flames of the One-Eyed Dragon!{05}{05}{05}
+@74
+My lord... no, Masamune! They're back!{05}{05}{05}
+@75
+...{05}{05}{05}
+@76
+My lord, they don't know... our... fury...{05}{05}{05}
+@77
+...So they take us lightly. Hey, you!{05}{05}{05}
+@78
+Enemy general!! Can you hear me...{05}{05}{05}
+@79
+You touched the dragon's scales. Now pay for it with your life!{05}{05}{05}
+@80
+Take Iwadeyama, a strong castle\nheld by the Date gunners.{05}{05}{05}
+@81
+Break the gates quickly and\n{1B}C3get inside the enemy's guard{1B}C1.{05}{05}{05}
+@82
+Ha ha! All talk, were you?{05}{05}{05}
+@83
+Not worth taking time from my duties.{05}{05}{05}
+@84
+Not bad for enemies. Right, lads, raise the victory cry!{05}{05}{05}
+@85
+Ha ha ha! This is what we do when we're serious!{05}{05}{05}
+@86
+A waste of time. We're going home.{05}{05}{05}
+@87
+A great win, lads! Don't you mess with the Date!{05}{05}{05}
+@88
+What... The castle... Iwadeyama Castle...{05}{05}{05}
+@89
+Ugh, Lord Masamune... We must fall back...{05}{05}{05}
+@90
+Damn... Retreat, lads! This isn't over...{05}{05}{05}
+@91
+These guys are the real thing... Not bad!{05}{05}{05}
+@92
+Yes... So this is the power to rule the realm.{05}{05}{05}
+@93
+Like a frog that's seen the ocean... The realm sure is big!{05}{05}{05}
+@94
+Heh heh heh... Little do they know of our plan.{05}{05}{05}
+@95
+Lord Mogami, I have taken their food...{05}{05}{05}
+@96
+Well done, Lord Chikasue! You're a master of petty tricks...{05}{05}{05}
+@97
+Heh heh... No one can match your cowardice, Lord Yoshiaki.{05}{05}{05}
+@98
+Heh heh heh... Heh heh heh heh heh...{05}{05}{05}
+@99
+Hoh hoh hoh... Hoh hoh hoh hoh hoh...{05}{05}{05}
+@100
+Heh heh heh... This time our preparations are perfect.{05}{05}{05}
+@101
+Lord Yoshiaki, I've taken the enemy's food again...{05}{05}{05}
+@102
+We slipped up last time... but behold this perfect formation!{05}{05}{05}
+@103
+They'll never break this formation!{05}{05}{05}
+@104
+Heh heh heh... Heh heh heh heh heh...{05}{05}{05}
+@105
+Hoh hoh hoh... Hoh hoh hoh hoh hoh...{05}{05}{05}
+@106
+Ando Chikasue has\n{1B}C3stolen most of your food{1B}C1.{05}{05}{05}
+@107
+March quickly and beat the\nenemy before your food runs out.{05}{05}{05}
+@108
+Heh heh heh... Well, that's all they had.{05}{05}{05}
+@109
+Hoh hoh... Now, that's rude to them.{05}{05}{05}
+@110
+Heh heh heh heh... With food, they might have, eh?{05}{05}{05}
+@111
+Heh heh heh... Last time was what you'd call a fluke.{05}{05}{05}
+@112
+Hoh hoh... They fought well against this formation.{05}{05}{05}
+@113
+Heh heh heh heh heh... Come again any time.{05}{05}{05}
+@114
+Wh-what force!{05}{05}{05}
+@115
+Tch... Fall back, men! To think I misjudged our chance...{05}{05}{05}
+@116
+Enemy, well done for now, but this isn't over...{05}{05}{05}
+@117
+The plan... the plan failed...{05}{05}{05}
+@118
+To be beaten this well is almost refreshing.{05}{05}{05}
+@119
+So my talent was not fit to rule the realm...{05}{05}{05}
+@120
+So that is the foe who invaded my land... We crush them.{05}{05}{05}
+@121
+But my lord, we must leave by {1B}C3the morning of day 4{1B}C1 for the council...{05}{05}{05}
+@122
+Three days are not enough to show righteousness?{05}{05}{05}
+@123
+...Not at all! Nothing is impossible for you, Father!{05}{05}{05}
+@124
+I see... Then we march.{05}{05}{05}
+@125
+All of you, show righteousness now... Crush that foe!{05}{05}{05}
+@126
+They strike at our weakness again... Unforgivable!{05}{05}{05}
+@127
+We can only stay on this field until {1B}C3the morning of day 4{1B}C1...{05}{05}{05}
+@128
+Enough... Are the preparations made?{05}{05}{05}
+@129
+Yes! Expecting their attack, we have readied our forces!{05}{05}{05}
+@130
+A foe who stands in the way of justice... cannot be forgiven.{05}{05}{05}
+@131
+Rise up, men! Bishamonten is with us!{05}{05}{05}
+@132
+Uesugi Kenshin's mighty cavalry is\nbearing down on the {02}" Army.{05}{05}{05}
+@133
+Hold off Kenshin for {1B}C33 days{1B}C1\nand {1B}C3protect your commander{1B}C1.{05}{05}{05}
+@134
+Feeble...{05}{05}{05}
+@135
+No fight in them at all... Let us return to Echigo.{05}{05}{05}
+@136
+Fall back, all of you! Our people await...{05}{05}{05}
+@137
+Did we show righteousness...{05}{05}{05}
+@138
+We didn't need all these troops. What a letdown.{05}{05}{05}
+@139
+Fall back! Home to Kasugayama!{05}{05}{05}
+@140
+Im... impossible...{05}{05}{05}
+@141
+Tch... Fatherrr!{05}{05}{05}
+@142
+The god of war, defeated... O Bishamonten...{05}{05}{05}
+@143
+The morning of day 2... {1B}C32 days{1B}C1 until we withdraw.{05}{05}{05}
+@144
+The morning of day 3... only {1B}C31 day{1B}C1 until we withdraw...{05}{05}{05}
+@145
+My lord... it is time...{05}{05}{05}
+@146
+Tch... We withdraw.{05}{05}{05}
+@147
+Curse you, {02}" Army... You'll pay...{05}{05}{05}
+@148
+Why... why couldn't we beat them...{05}{05}{05}
+@149
+Hmph...{05}{05}{05}
+@150
+So they are worthy foes too. Ha ha, home, everyone!{05}{05}{05}
+@151
+I'll win back Hitachi! Hitachi, you see, was always...{05}{05}{05}
+@152
+Lord Yoshishige, we of the Nanbu shall lend our aid!{05}{05}{05}
+@153
+...Lord Harumasa, I'm grateful. Now, Hitachi was always...{05}{05}{05}
+@154
+Ha ha ha! With Demon Yoshishige and me together, we're invincible!{05}{05}{05}
+@155
+...Indeed. So, Hitachi was always...{05}{05}{05}
+@156
+Tremble at the Demon's name, foes! Lord Yoshishige rides out!{05}{05}{05}
+@157
+...Never mind... I'll show you the Demon's power!{05}{05}{05}
+@158
+...This time I'll win it back... For the Satake, Hitachi is...{05}{05}{05}
+@159
+Foes, you can't hold out against our lineup this time!{05}{05}{05}
+@160
+...Indeed. Now, the Satake, in Hitachi...{05}{05}{05}
+@161
+Let's show them the power of Lord Yoshishige, the Bando Taro!{05}{05}{05}
+@162
+...Yes. Anyway, Lord Harumasa...{05}{05}{05}
+@163
+Make way, small fry! Demon Yoshishige comes through!{05}{05}{05}
+@164
+...You really aren't listening to me, are you...{05}{05}{05}
+@165
+A great Satake-Nanbu army is coming\nto retake Ota Castle.{05}{05}{05}
+@166
+{1B}C3Use bows, guns and tactics{1B}C1\nto drive them off.{05}{05}{05}
+@167
+We took it back! Hitachi truly belongs to the Satake...{05}{05}{05}
+@168
+An easy win, an easy win! Well, I'll be off!{05}{05}{05}
+@169
+Hmm... We won the battle, but... why do I feel so empty...{05}{05}{05}
+@170
+Demon Yoshishige has shown his pride! Truly, this land of Hitachi...{05}{05}{05}
+@171
+A crushing win! Now, back to Rikuchu!{05}{05}{05}
+@172
+Heh... In the end, he never listened...{05}{05}{05}
+@173
+What... We couldn't take it...{05}{05}{05}
+@174
+What skilled foes...{05}{05}{05}
+@175
+I, Yoshishige, slipped up... Next time will be different!{05}{05}{05}
+@176
+To hold out so well against this lineup...{05}{05}{05}
+@177
+Though a foe, splendid!{05}{05}{05}
+@178
+Hitachi is yours... Go and take the realm!{05}{05}{05}
+@179
+=
+@180
+=
+@181
+=
+@182
+=
+@183
+=
+@184
+=
+@185
+=
+@186
+=
+@187
+=
+@188
+=
+@189
+=
+@190
+=
+@191
+=
+@192
+=
+@193
+=
+@194
+=
+@195
+=
+@196
+=
+@197
+=
+@198
+=
+@199
+=
+@200
+=
+@201
+=
+@202
+=
+@203
+=
+@204
+=
+@205
+=
+@206
+=
+@207
+=
+@208
+=
+@209
+=
+@210
+=
+@211
+=
+@212
+=
+@213
+=
+@214
+=
+@215
+=
+@216
+=
+@217
+=
+@218
+=
+@219
+=
+@220
+=
+@221
+=
+@222
+=
+@223
+=
+@224
+=
+@225
+=
+@226
+=
+@227
+=
+@228
+=
+@229
+=
+@230
+=
+@231
+=
+@232
+=
+@233
+=
+@234
+=
+@235
+=
+@236
+=
+@237
+=
+@238
+=
+@239
+Politics  War{05}{05}{05}
+@240
+War  Charm{05}{05}{05}
+@241
+Politics  Learning{05}{05}{05}
+@242
+War{05}{05}{05}
+@243
+Learning  Charm{05}{05}{05}
+@244
+Learning  War{05}{05}{05}
+@245
+Politics{05}{05}{05}
+@246
+Charm  Learning{05}{05}{05}
+@247
+War  Politics{05}{05}{05}
+@248
+Learning{05}{05}{05}
+@249
+War  Politics{05}{05}{05}
+@250
+Learning  Politics{05}{05}{05}
+@251
+Charm  War{05}{05}{05}
+@252
+Politics  Charm{05}{05}{05}
+@253
+War  Learning{05}{05}{05}
+@254
+Charm  Politics{05}{05}{05}
+@255
+Learning  War{05}{05}{05}
+@256
+Charm{05}{05}{05}
+@257
+Learning  Politics{05}{05}{05}
+@258
+War{05}{05}{05}
+@259
+Politics  War{05}{05}{05}
+@260
+Politics{05}{05}{05}
+@261
+Charm  War{05}{05}{05}
+@262
+Politics  Learning{05}{05}{05}
+@263
+Learning  War{05}{05}{05}
+@264
+Learning{05}{05}{05}
+@265
+Politics  War{05}{05}{05}
+@266
+War  Politics{05}{05}{05}
+@267
+War{05}{05}{05}
+@268
+Learning  War{05}{05}{05}
+@269
+Within 7 days, beat Tozawa Moriyasu\nfirst, then Tsugaru Tamenobu!\n\n* If you beat Tsugaru Tamenobu first,\n　you fail the objective.{05}{05}{05}
+@270
+Within 30 days, beat Date Masamune\nand take Iwadeyama Castle!{05}{05}{05}
+@271
+Beat Mogami Yoshiaki within 7 days!{05}{05}{05}
+@272
+Protect your commander for 3 days,\nuntil 6:00 on day 4!{05}{05}{05}
+@273
+Within 30 days, beat Satake Yoshishige\nand hold Ota Castle!\n\n* You also win if your commander\n　survives for 30 days.{05}{05}{05}
+@274
+Within 7 days, beat all other enemy\nunits first, then Nagano Narimasa!\n\n* If you beat Nagano Narimasa first,\n　you fail the objective.{05}{05}{05}
+@275
+Within 30 days, beat Hojo Ujiyasu\nand take Odawara Castle!{05}{05}{05}
+@276
+Within 30 days, beat Honganji Kennyo\nand take Oyama Gobo!{05}{05}{05}
+@277
+Beat Takeda Shingen within 7 days!\n\n* You also win if your commander\n　survives for 7 days.{05}{05}{05}
+@278
+Beat Imagawa Yoshimoto within 7 days!{05}{05}{05}
+@279
+Within 30 days, beat Sanada Yukitaka\nand take Fukashi Castle!\n\n\n* Beware: if Sanada Yukimura beats\n　one of your units, he steals food.{05}{05}{05}
+@280
+Within 7 days, beat Akechi Mitsuhide\nand rescue Araki Murashige!\n\n* You lose if you beat Araki\n　Murashige's unit.{05}{05}{05}
+@281
+Beat Tokugawa Ieyasu within 7 days!\n\n* You also win if your commander\n　survives for 7 days.{05}{05}{05}
+@282
+Within 7 days, beat Saito Yoshitatsu\nfirst, then Saito Dosan!\n\n* If you beat Saito Dosan first,\n　you fail the objective.{05}{05}{05}
+@283
+Beat Oda Nobunaga within 7 days!{05}{05}{05}
+@284
+Within 30 days, beat Azai Hisamasa\nand take Odani Castle!{05}{05}{05}
+@285
+Within 7 days, beat the other units\nfirst, then Rokkaku Yoshikata!\n\n* You also win if your commander\n　survives for 7 days.{05}{05}{05}
+@286
+Within 30 days, beat Ashikaga Yoshiteru\nand hold Nijo Castle!\n\n* You also win if your commander\n　survives for 30 days.\n* Enemy morale rises every turn.{05}{05}{05}
+@287
+Beat Matsunaga Hisahide within 7 days!\n\n* Beating any unit but Hisahide's\n　hurts nearby allies with the blast,\n　so take care.{05}{05}{05}
+@288
+Within 7 days, get any one of your\nregular units to the right edge\nof the field!\n\n* You also win by beating Suzuki\n　Sadayu within 7 days.{05}{05}{05}
+@289
+Within 30 days, beat the other units\nfirst, then Hashiba Hideyoshi!{05}{05}{05}
+@290
+Beat Ukita Naoie within 7 days!\n\n* You also win if your commander\n　survives for 7 days.{05}{05}{05}
+@291
+Beat Amago Haruhisa within 7 days!\n\n* You also win if your commander\n　survives for 7 days.{05}{05}{05}
+@292
+Within 30 days, beat Takamoto, Takakage\nand Motoharu first, then Mori Motonari!\n\n* If you beat Mori Motonari first,\n　you fail the objective.{05}{05}{05}
+@293
+Beat Maeda Toshiie within 7 days!\n\n* You also win if your commander\n　survives for 7 days.{05}{05}{05}
+@294
+Beat Miyoshi Nagayoshi within 7 days!\n\n* But you lose if even one of your\n　units is beaten.{05}{05}{05}
+@295
+Within 30 days, beat every enemy unit\nbut Chosokabe Motochika, and free\nMotochika from the cursed sword!!\n\n* You also win by beating Chosokabe\n　Motochika.{05}{05}{05}
+@296
+Beat Otomo Sorin within 7 days!\n\n* You also win if your commander\n　survives for 7 days.{05}{05}{05}
+@297
+Beat Ryuzoji Takanobu within 7 days!\n\n* Beating Nabeshima Naoshige's unit\n　lowers enemy morale.{05}{05}{05}
+@298
+Beat Shimazu Takahisa within 7 days!{05}{05}{05}

@@ -1,0 +1,302 @@
+@0
+...Ah, delicious! Lord Mitsunari's tea is truly delicious!{05}{05}{05}
+@1
+Heh, I brew it at the warmth you like, Lord Nagayoshi.{05}{05}{05}
+@2
+As expected of Mitsunari... Such lovely, elegant care...!{05}{05}{05}
+@3
+Hm, a crude presence... The {02}" Army is here.{05}{05}{05}
+@4
+The {02}" Army... I wouldn't mind acknowledging them.{05}{05}{05}
+@5
+{1B}C3If they beat us and lose no units{1B}C1... then accept them?{05}{05}{05}
+@6
+As expected of Mitsunari... Such a graceful, noble idea...!{05}{05}{05}
+@7
+Hm, not bad... Very well, let's see if they're genuine!{05}{05}{05}
+@8
+Honestly, leave it to Lord Mitsunari and the room is transformed!{05}{05}{05}
+@9
+Heh, I was born unable to bear dirt or dust...{05}{05}{05}
+@10
+As expected of Mitsunari... Such a lofty, pure attitude...!{05}{05}{05}
+@11
+...Hm... That rude noise... The {02}" Army again.{05}{05}{05}
+@12
+Dear me, {1B}C3shall we have them fight without losing a unit again{1B}C1?{05}{05}{05}
+@13
+As expected of Mitsunari... Such a fitting, wise judgment...!{05}{05}{05}
+@14
+...Yoshitsugu... er, that was Lord Nagayoshi just now... right?{05}{05}{05}
+@15
+{1B}C3If you lose no units, Nagayoshi\nwill acknowledge your strength.{1B}C1{05}{05}{05}
+@16
+Advance with care so that\nnone of your units is beaten.{05}{05}{05}
+@17
+Hmph... Far from one unit... Not even good practice!{05}{05}{05}
+@18
+Thank you for your trouble. Here, some tea...{05}{05}{05}
+@19
+As expected of Mitsunari! The enemy lacks such consideration...{05}{05}{05}
+@20
+Once I got a little serious... Dear me, how pitiful.{05}{05}{05}
+@21
+Phew, I worked up a sweat... I'll go take a bath.{05}{05}{05}
+@22
+As expected of Mitsunari! The enemy lacks such cleanliness...{05}{05}{05}
+@23
+Ah!... Heh. Give up this time.{05}{05}{05}
+@24
+Well, think of it as lacking luck and elegance this time.{05}{05}{05}
+@25
+Mitsunari is right! ...Now, kindly go home.{05}{05}{05}
+@26
+...Hmm... Elegant...{05}{05}{05}
+@27
+Mitsunari was right... What graceful tactics...{05}{05}{05}
+@28
+I'll acknowledge you for now... but not yet as a conqueror...{05}{05}{05}
+@29
+Wh-what elegance!{05}{05}{05}
+@30
+Such delicate maneuvers...! You may even surpass Mitsunari.{05}{05}{05}
+@31
+...That was wonderfully elegant. I must acknowledge you... heh!{05}{05}{05}
+@32
+Motochika, the defense of Oko Castle rests on you...{05}{05}{05}
+@33
+Yes, Father!{05}{05}{05}
+@34
+And so, I give you... this fine sword.{05}{05}{05}
+@35
+I humbly accept... ...Th-this is a cursed sword!{05}{05}{05}
+@36
+...With it, even Motochika, "the Little Princess,"{05}{05}{05}
+@37
+will rage on {1B}C3until all our allies are beaten{1B}C1...{05}{05}{05}
+@38
+I... Little Demon... Without fail... I'll crush...!{05}{05}{05}
+@39
+You are the commander... Go show them the Little Demon's power!{05}{05}{05}
+@40
+Hmm... Motochika, this time, this sword...{05}{05}{05}
+@41
+Father... no more cursed swords... Ngh, this one is fierce...{05}{05}{05}
+@42
+Heh heh heh... It's the great cursed sword of the Chosokabe.{05}{05}{05}
+@43
+{1B}C3Until all our allies fall{1B}C1, he'll cut down foe after foe.{05}{05}{05}
+@44
+Foes... cut down... ...Grrrr... RAAAH!{05}{05}{05}
+@45
+...Eek. Is he possessed...?{05}{05}{05}
+@46
+W-well, never mind... Motochika, go and run wild!{05}{05}{05}
+@47
+Take Oko Castle against Motochika,\nrunning wild with a cursed sword.{05}{05}{05}
+@48
+{1B}C3Beat Motochika, or beat the other\nfoes to bring him back to his senses.{1B}C1{05}{05}{05}
+@49
+Not... foes... for the Little Demon...{05}{05}{05}
+@50
+That's my Motochika... ...Wake up!{05}{05}{05}
+@51
+...Huh! Wh-what was I...{05}{05}{05}
+@52
+Well done, Motochika! ...Wake up!{05}{05}{05}
+@53
+Grrrr... Foes... crush... RAAAH!{05}{05}{05}
+@54
+Eek, everyone run... H-he's gone berserk!!{05}{05}{05}
+@55
+...Ugh... ...foes... crush...{05}{05}{05}
+@56
+M-Motochikaaa! It was my fault... Fall back!{05}{05}{05}
+@57
+F-Father... the enemy's strength is... the real thing...{05}{05}{05}
+@58
+What... to come for us first...{05}{05}{05}
+@59
+...What was I... Ah! Father! I'll save you!!{05}{05}{05}
+@60
+Curse you, {02}" Army... Next time, I'll strike you down myself...!{05}{05}{05}
+@61
+Motochika, stop! The Chosokabe surrender...{05}{05}{05}
+@62
+...Ugh... What was I... B-but Father...{05}{05}{05}
+@63
+It's all right... No more pointless fighting...{05}{05}{05}
+@64
+Now, in the name of God, we attack the {02}" Army!{05}{05}{05}
+@65
+Muneshige... have you learned how to use cannons?{05}{05}{05}
+@66
+No, not completely yet...{05}{05}{05}
+@67
+You FOOOOL!! Learn before the battle!{05}{05}{05}
+@68
+Y-yes, Father...! (S-so strict...){05}{05}{05}
+@69
+(Muneshige... become a general to rival your father, Lord Shoun...){05}{05}{05}
+@70
+(Muneshige... don't lose... Your father is watching...){05}{05}{05}
+@71
+We'll avenge our last defeat... All troops, advance!{05}{05}{05}
+@72
+Muneshige... do you know what soldiers need?{05}{05}{05}
+@73
+Food... training... morale... those three, I think.{05}{05}{05}
+@74
+Hmph... Not enough! You lack "a general's strength"!{05}{05}{05}
+@75
+Learn on the battlefield how Lord Shoun and I fight!{05}{05}{05}
+@76
+Y... yes, Father!{05}{05}{05}
+@77
+(He has a fine adoptive father... I'll rise to it too!){05}{05}{05}
+@78
+The fierce Otomo generals\nare attacking at Mimikawa.{05}{05}{05}
+@79
+The Otomo excel at the {1B}C3Cannons{1B}C1 tactic.\nWatch the enemy's {1B}C3range{1B}C1.{05}{05}{05}
+@80
+See that! I am the son of the Thunder God!{05}{05}{05}
+@81
+Don't rage blindly, Muneshige... Save your passion for the next battle.{05}{05}{05}
+@82
+...Heh, a son's growth is a joy, isn't it...{05}{05}{05}
+@83
+Father, Father... is this a general's strength?{05}{05}{05}
+@84
+A general decides if his men live or die. Never forget it...!{05}{05}{05}
+@85
+The soldiers' hearts... Muneshige, be a general who knows them!{05}{05}{05}
+@86
+...Damn it, I'm not beaten yet!{05}{05}{05}
+@87
+You utter fool!! It's already decided!{05}{05}{05}
+@88
+...With us here... Curse you... {02}" Army!{05}{05}{05}
+@89
+Muneshige... the enemy's power is "a general's strength"...{05}{05}{05}
+@90
+Tactics with no openings... the bond between general and soldiers...{05}{05}{05}
+@91
+Learn from the enemy and become a great general, Muneshige...!{05}{05}{05}
+@92
+Ha ha ha! You dare attack Hizen!{05}{05}{05}
+@93
+Look at my men's morale! We have a crushing advantage!{05}{05}{05}
+@94
+(The men hate Takanobu... Their morale is up to me...){05}{05}{05}
+@95
+({1B}C3To keep morale up, I can't retreat...!{1B}C1){05}{05}{05}
+@96
+...Hey, Naoshige! Why are you so far back?{05}{05}{05}
+@97
+Ha ha, I thought I'd watch the Red Bear's tactics for once...{05}{05}{05}
+@98
+Ha ha ha! Fine then! Come at me, enemies!{05}{05}{05}
+@99
+We lost last time because you were weak. No next time, got it?{05}{05}{05}
+@100
+(Ahh... He'll turn the men against him again...){05}{05}{05}
+@101
+({1B}C3Whatever happens, I must raise morale...!{1B}C1){05}{05}{05}
+@102
+Listen, follow my example and fight boldly and brilliantly!{05}{05}{05}
+@103
+...Ahh... Yes... W-we'll do our best...{05}{05}{05}
+@104
+Ha ha ha! Let's go... Lord Takanobu comes through!{05}{05}{05}
+@105
+The Ryuzoji troops don't seem loyal\nto their commander, Takanobu.{05}{05}{05}
+@106
+{1B}C3Nabeshima Naoshige keeps enemy\nmorale up. Focus on him.{1B}C1{05}{05}{05}
+@107
+Ugh, retreat... ...No good, the men's morale...{05}{05}{05}
+@108
+With Nabeshima Naoshige's unit\nbeaten, enemy morale has plunged.{05}{05}{05}
+@109
+Ha ha ha! We win!{05}{05}{05}
+@110
+(Phew... We held out somehow. The men rose to it.){05}{05}{05}
+@111
+The {02}" Army's nothing special!{05}{05}{05}
+@112
+Ha ha ha! This... is the might of the Red Bear of Hizen!{05}{05}{05}
+@113
+(If only he cared for his men, he'd be truly strong...){05}{05}{05}
+@114
+Ha ha ha ha! Maybe I'll go for the realm!{05}{05}{05}
+@115
+...Wh... th-these guys!{05}{05}{05}
+@116
+This way out! Everyone, don't throw your lives away!{05}{05}{05}
+@117
+{02}" Army... I'll never forget that name...!{05}{05}{05}
+@118
+...It's hopeless. Let us surrender, Brother...{05}{05}{05}
+@119
+Not yet... I can still fight, Naoshige!{05}{05}{05}
+@120
+...The men can't fight any more... We are beaten...{05}{05}{05}
+@121
+Sakurajima is lovely... truly lovely...{05}{05}{05}
+@122
+Father, an attack! It looks like the {02}" Army.{05}{05}{05}
+@123
+...I'll set up camp on Sakurajima. My sons, go meet them!{05}{05}{05}
+@124
+...I must give the one who wins most glory some reward...{05}{05}{05}
+@125
+I, Iehisa, will strike first! Come on, everyone, let's go!{05}{05}{05}
+@126
+That Iehisa is fired up... Well, I, Yoshihiro, go too!{05}{05}{05}
+@127
+...About time... Father, I'll go as well.{05}{05}{05}
+@128
+Heh, how brave... Now, who will win the most glory?{05}{05}{05}
+@129
+They take the Shimazu lightly... The {02}" Army, back again...{05}{05}{05}
+@130
+This time, show the enemy the pride of the men of Satsuma!{05}{05}{05}
+@131
+Arms and morale are ready! Let me, Iehisa, lead the vanguard...!{05}{05}{05}
+@132
+Iehisa, you're too eager. Father, let me, Yoshihiro, lead.{05}{05}{05}
+@133
+...If I may, as the eldest, leave the vanguard to me, Yoshihisa.{05}{05}{05}
+@134
+...Each of you, go run wild as you please, my sons!{05}{05}{05}
+@135
+Understood! Father, the main camp is yours.{05}{05}{05}
+@136
+As you wish! Know the Shimazu's pride by our bullets!{05}{05}{05}
+@137
+Attack Shimazu Takahisa\nand his sons.{05}{05}{05}
+@138
+{1B}C3Beware the enemy gunners and\nstrike quickly at their main camp.{1B}C1{05}{05}{05}
+@139
+Father, before me, Iehisa, they're no match at all...{05}{05}{05}
+@140
+Father, did you see how I, Yoshihiro, fought?{05}{05}{05}
+@141
+Well done, both of you! You're brothers after all...{05}{05}{05}
+@142
+Father, victory is ours! Yoshihiro and Iehisa both did superbly...{05}{05}{05}
+@143
+...Winning is only natural. Don't be too proud.{05}{05}{05}
+@144
+If you carry the cross-in-circle flag, hold high ambitions!{05}{05}{05}
+@145
+Father...! Ugh, and with us here!{05}{05}{05}
+@146
+They outdid us... Abandon Sakurajima! Fall back!{05}{05}{05}
+@147
+I won't forget this shame... I'll get my revenge for sure...!{05}{05}{05}
+@148
+We give up...! Splendid, against the Demon Shimazu!{05}{05}{05}
+@149
+It hurts, but we lost. We couldn't show the Shimazu pride.{05}{05}{05}
+@150
+Well, {02}" Army... let me treat you to some surrender sake.{05}{05}{05}
