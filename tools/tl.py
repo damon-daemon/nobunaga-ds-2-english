@@ -317,6 +317,12 @@ def parse_batch(path):
                       ' '.join(v)).replace(' || ', '\n').replace('||', '\n').replace('\\n ', '\n').replace('\\n', '\n').replace('\\t', '\t').replace('\\_', ' ')
             for k, v in blocks.items()}
 
+# Entries the game strcpy's into fixed stack buffers with no length check (bytes, NUL excluded).
+# 0x020B1960 passes a 32-byte buffer to 0x020B41C4/0x020B436C/0x020B44C0 (unit formation
+# warnings); the other warning copiers get 64-byte buffers. Overflow smashes saved registers.
+BYTE_LIMIT = {'msgsec04': {**{i: 31 for i in range(276, 290)},
+                           **{i: 63 for i in (232, 233, *range(261, 276), 291, 293, 296, 297, 298)}}}
+
 def apply(name, batch):
     path = os.path.join(ROOT, 'script', name + '.json')
     rows = json.load(open(path, encoding='utf-8'))
@@ -343,6 +349,11 @@ def apply(name, batch):
         jp = jp.replace('{02}\n', '{02}{0A}')            # variable 0x0A
         text, warns = prepare(jp, en)
         errs = check(jp, text)
+        limit = BYTE_LIMIT.get(name, {}).get(i)
+        if limit is not None:
+            n = len(script.encode(text.split(END)[0]))
+            if n > limit:
+                errs.append('%d bytes > %d (copied into a fixed buffer)' % (n, limit))
         for e in errs:
             print('%s@%d ERROR %s' % (name, i, e)); bad += 1
         for w in warns:

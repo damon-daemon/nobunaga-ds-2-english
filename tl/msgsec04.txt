@@ -555,15 +555,15 @@ Only one unit can be formed.{05}{05}{05}
 @277
 No units have been formed.{05}{05}{05}
 @278
-No soldiers can be assigned to the unit.{05}{05}{05}
+Can't assign soldiers to unit.{05}{05}{05}
 @279
-Only ashigaru units can be formed.{05}{05}{05}
+Only ashigaru units allowed.{05}{05}{05}
 @280
 No commander has been chosen.{05}{05}{05}
 @281
 No soldiers have been assigned.{05}{05}{05}
 @282
-The castle lord is not taking the field.{05}{05}{05}
+Castle lord has not deployed.{05}{05}{05}
 @283
 You cannot choose any more.{05}{05}{05}
 @284
@@ -573,7 +573,7 @@ You cannot form any more units.{05}{05}{05}
 @286
 No officer has been set.{05}{05}{05}
 @287
-There are no soldiers to assign.{05}{05}{05}
+No soldiers to assign.{05}{05}{05}
 @288
 Not enough guns.{05}{05}{05}
 @289
