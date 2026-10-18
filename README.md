@@ -110,10 +110,15 @@ issues, credits). The ROM itself is never packaged.
 - The Link menu's third icon (another Koei game's logo) is left as is; Nintendo Wi-Fi
   Connection has been shut down, and DS Wireless play with an unpatched Japanese
   cartridge shows English names as garbage on the other side.
+- Some crashes have been observed that appear to be triggered by certain
+  translated text in the game. If the game freezes or crashes, please report it
+  (see below) with where it happened and, if possible, a save state from just before.
 
 Tested in melonDS and on a 3DS.
 
-Bug reports with a screenshot and where it happened are welcome.
+Please report bugs, including crashes and mistranslations, as
+[GitHub issues](https://github.com/damon-daemon/nobunaga-ds-2-english/issues), with a screenshot
+and where it happened.
 
 ## Credits
 
