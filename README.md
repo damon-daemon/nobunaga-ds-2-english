@@ -58,7 +58,7 @@ names are kept in `tl/names_*.json` (`full` field).
    or the command line:
 
    ```
-   xdelta3 -d -s nobunaga_ds_2.nds nobunaga_ds_2_en_v<version>.xdelta nobunaga_ds_2_en.nds
+   xdelta3 -d -s nobunaga_ds_2.nds nobunaga_ds_2_en_v<version>.xdelta nobunaga_ds_2_en_v<version>.nds
    ```
 
 ## Building from source
