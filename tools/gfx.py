@@ -1129,6 +1129,10 @@ BIG = {'obj/HexChalSuc': [(0, [5], 'Goal'), (0, [0, 1, 2, 3, 4], 'Met!'), (2, [0
 # pack: [(cell, text, options)] -- one cell per tile set; palette variants follow
 SMALL = dict(box=(4, 3, 78, 15))      # small buttons: the text runs over all five OAMs
 PRESSED = dict(box=(5, 4, 78, 15))    # their pressed cells: same text OAMs 1px down-right, own frame tiles
+# 64-px buttons: the frame OAMs are shared, and a private copy of them would land past the
+# sheet's original size, in VRAM the game fills with other sprites (garbled frames, issue #4).
+# So the text stays inside the label's own OAMs, which limits it to their width.
+NARROW = dict(own=True, clear=True)
 
 def card_text(name):
     """Tactic card: two lines when the name is wide."""
@@ -1179,21 +1183,21 @@ EDITS = {
         (22, 'Quit Game', SMALL), (24, 'Quit Game', PRESSED),
         (25, 'Suspend', SMALL), (27, 'Suspend', PRESSED),
         (28, 'Objectives', SMALL), (30, 'Objectives', PRESSED),
-        (31, 'Retainers', SMALL), (33, 'Retainers', PRESSED),
-        (34, 'Ronin', SMALL), (36, 'Ronin', PRESSED),
-        (37, 'Persuade', SMALL), (39, 'Persuade', PRESSED),
-        (40, 'Suppress', SMALL), (42, 'Suppress', PRESSED),
-        (43, 'Accept', SMALL), (45, 'Accept', PRESSED),
-        (46, 'Refuse', SMALL), (48, 'Refuse', PRESSED),
-        (49, 'Capture', SMALL), (51, 'Capture', PRESSED),
-        (52, 'Direct', SMALL), (54, 'Direct', PRESSED),
-        (55, 'Military', SMALL), (57, 'Military', PRESSED),
-        (58, 'Domestic', SMALL), (60, 'Domestic', PRESSED),
-        (61, 'Recruit', SMALL), (63, 'Recruit', PRESSED),
-        (64, 'Release', SMALL), (66, 'Release', PRESSED),
-        (67, 'Execute', SMALL), (69, 'Execute', PRESSED),
-        (70, 'Normal', SMALL), (72, 'Normal', PRESSED),
-        (73, 'Hard', SMALL), (75, 'Hard', PRESSED),
+        (31, 'Vassal', NARROW), (33, 'Vassal', NARROW),
+        (34, 'Ronin', NARROW), (36, 'Ronin', NARROW),
+        (37, 'Talk', NARROW), (39, 'Talk', NARROW),
+        (40, 'Quell', NARROW), (42, 'Quell', NARROW),
+        (43, 'Accept', NARROW), (45, 'Accept', NARROW),
+        (46, 'Refuse', NARROW), (48, 'Refuse', NARROW),
+        (49, 'Seize', NARROW), (51, 'Seize', NARROW),
+        (52, 'Direct', NARROW), (54, 'Direct', NARROW),
+        (55, 'Military', NARROW), (57, 'Military', NARROW),
+        (58, 'Domestic', NARROW), (60, 'Domestic', NARROW),
+        (61, 'Recruit', NARROW), (63, 'Recruit', NARROW),
+        (64, 'Release', NARROW), (66, 'Release', NARROW),
+        (67, 'Behead', NARROW), (69, 'Behead', NARROW),
+        (70, 'Normal', NARROW), (72, 'Normal', NARROW),
+        (73, 'Hard', NARROW), (75, 'Hard', NARROW),
         (122, 'List', ICON2(25)), (124, 'Prov.', ICON2(17)), (126, 'Confirm', ICON2(13)), (128, 'Info', ICON2(17))],
     'obj/C256_ShinbuShita2': [(c, t, dict(box=(4, 3, 51, 17), flat=True, dark=700, outline=(16, 16, 24), pool=c,
                                           fill=(255, 222, 115))) for c, t in (
@@ -1352,26 +1356,26 @@ EDITS = {
         (219, 'Demo Play', PRESSED),
         (220, 'Quit Game', SMALL),
         (222, 'Quit Game', PRESSED),
-        (223, 'Retainers', SMALL),
-        (225, 'Retainers', PRESSED),
-        (226, 'Ronin', SMALL),
-        (228, 'Ronin', PRESSED),
-        (229, 'Persuade', SMALL),
-        (231, 'Persuade', PRESSED),
-        (232, 'Suppress', SMALL),
-        (234, 'Suppress', PRESSED),
-        (235, 'Accept', SMALL),
-        (237, 'Accept', PRESSED),
-        (238, 'Refuse', SMALL),
-        (240, 'Refuse', PRESSED),
-        (241, 'Capture', SMALL),
-        (243, 'Capture', PRESSED),
-        (244, 'Recruit', SMALL),
-        (246, 'Recruit', PRESSED),
-        (247, 'Release', SMALL),
-        (249, 'Release', PRESSED),
-        (250, 'Execute', SMALL),
-        (252, 'Execute', PRESSED),
+        (223, 'Vassal', NARROW),
+        (225, 'Vassal', NARROW),
+        (226, 'Ronin', NARROW),
+        (228, 'Ronin', NARROW),
+        (229, 'Talk', NARROW),
+        (231, 'Talk', NARROW),
+        (232, 'Quell', NARROW),
+        (234, 'Quell', NARROW),
+        (235, 'Accept', NARROW),
+        (237, 'Accept', NARROW),
+        (238, 'Refuse', NARROW),
+        (240, 'Refuse', NARROW),
+        (241, 'Seize', NARROW),
+        (243, 'Seize', NARROW),
+        (244, 'Recruit', NARROW),
+        (246, 'Recruit', NARROW),
+        (247, 'Release', NARROW),
+        (249, 'Release', NARROW),
+        (250, 'Behead', NARROW),
+        (252, 'Behead', NARROW),
     ],
 }
 
@@ -1395,6 +1399,9 @@ def apply(rom):
             if 'widen' in opt:
                 obj.widen(cell, *opt.pop('widen'))
         for cell, text, opt in edits:
+            if opt.pop('own', False):
+                opt['band'] = ()
+                opt['oams'] = [k for k, o in enumerate(obj.C.cells[cell]) if o['h'] <= 16]
             if 'band' in opt:
                 opt['box'] = obj.band(cell, *opt.pop('band'))
             opt.setdefault('box', obj.text_box(cell))
